@@ -1,0 +1,74 @@
+{
+  "metanode_kinds": [
+    "Compound",
+    "Disease",
+    "Gene",
+    "Protein"
+  ],
+  "metaedge_tuples": [
+    [
+      "Compound",
+      "Compound",
+      "has-part",
+      "forward"
+    ],
+    [
+      "Compound",
+      "Compound",
+      "instance-of",
+      "forward"
+    ],
+    [
+      "Compound",
+      "Compound",
+      "significant-drug-interaction",
+      "both"
+    ],
+    [
+      "Disease",
+      "Compound",
+      "drug-used-for-treatment",
+      "both"
+    ],
+    [
+      "Disease",
+      "Disease",
+      "subclass-of",
+      "forward"
+    ],
+    [
+      "Gene",
+      "Disease",
+      "genetic-association",
+      "both"
+    ],
+    [
+      "Gene",
+      "Protein",
+      "encodes",
+      "both"
+    ],
+    [
+      "Protein",
+      "Compound",
+      "physically-interacts-with",
+      "both"
+    ]
+  ],
+  "kind_to_abbrev": {
+    "significant-drug-interaction": "sdi",
+    "Compound": "C",
+    "Disease": "D",
+    "Gene": "G",
+    "Protein": "P",
+    "encodes": "e",
+    "instance-of": "io",
+    "medical-condition-treated": "mct",
+    "encoded-by": "eb",
+    "has-part": "hp",
+    "physically-interacts-with": "piw",
+    "subclass-of": "so",
+    "genetic-association": "ga",
+    "drug-used-for-treatment": "duft"
+  }
+}

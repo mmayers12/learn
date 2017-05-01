@@ -1,1539 +1,4375 @@
 compound_id	compound_name	treats	palliates	total_edges
-DB01048	Abacavir	1	0	144
-DB05812	Abiraterone	1	0	81
-DB00659	Acamprosate	1	0	242
-DB00284	Acarbose	1	0	65
-DB01193	Acebutolol	1	0	147
-DB01418	Acenocoumarol	0	0	48
-DB01614	Acepromazine	0	0	48
-DB01615	Aceprometazine	0	0	34
-DB00316	Acetaminophen	0	2	224
-DB00819	Acetazolamide	2	0	92
-DB03166	Acetic acid	0	0	11
-DB00551	Acetohydroxamic Acid	0	0	42
-DB01063	Acetophenazine	0	1	36
-DB08842	Acetylcarnitine	0	0	4
-DB06151	Acetylcysteine	0	1	90
-DB00511	Acetyldigitoxin	0	0	12
-DB00945	Acetylsalicylic acid	2	5	120
-DB00787	Aciclovir	0	0	264
-DB00459	Acitretin	1	0	305
-DB08897	Aclidinium	0	0	40
-DB00210	Adapalene	0	0	70
-DB00718	Adefovir Dipivoxil	1	0	79
-DB00173	Adenine	0	0	10
-DB00640	Adenosine	0	0	142
-DB00131	Adenosine monophosphate	0	0	41
-DB00171	Adenosine triphosphate	0	0	46
-DB00546	Adinazolam	0	0	45
-DB08916	Afatinib	0	0	517
-DB06594	Agomelatine	0	0	73
-DB01426	Ajmaline	0	0	3
-DB00518	Albendazole	0	0	181
-DB06766	Alcaftadine	0	0	14
-DB00240	Alclometasone	0	0	49
-DB00630	Alendronate	2	0	131
-DB01436	Alfacalcidol	0	0	22
-DB00802	Alfentanil	0	0	91
-DB00346	Alfuzosin	0	0	122
-DB01246	Alimemazine	0	0	132
-DB00523	Alitretinoin	2	0	655
-DB01425	Alizapride	0	0	11
-DB00437	Allopurinol	1	0	261
-DB01431	Allylestrenol	0	0	13
-DB01430	Almitrine	0	0	4
-DB00918	Almotriptan	0	1	156
-DB06203	Alogliptin	0	0	22
-DB00969	Alosetron	0	0	131
-DB00132	Alpha-Linolenic Acid	0	0	61
-DB00404	Alprazolam	0	2	290
-DB00866	Alprenolol	0	0	55
-DB00770	Alprostadil	0	0	213
-DB00488	Altretamine	1	0	29
-DB01370	Aluminium	0	0	2
-DB06723	Aluminum hydroxide	0	0	10
-DB01616	Alverine	0	0	25
-DB06274	Alvimopan	0	0	20
-DB00915	Amantadine	0	2	155
-DB01122	Ambenonium	0	0	2
-DB00288	Amcinonide	0	0	87
-DB08924	Amfecloral	0	0	12
-DB01143	Amifostine	0	0	67
-DB00479	Amikacin	0	0	41
-DB00594	Amiloride	1	0	105
-DB00513	Aminocaproic Acid	0	0	78
-DB00357	Aminoglutethimide	0	0	45
-DB00345	Aminohippurate	0	0	50
-DB00855	Aminolevulinic acid	0	0	136
-DB01424	Aminophenazone	0	0	13
-DB01223	Aminophylline	2	0	108
-DB00233	Aminosalicylic Acid	0	0	82
-DB01118	Amiodarone	0	0	326
-DB06288	Amisulpride	0	0	98
-DB00321	Amitriptyline	1	4	233
-DB01025	Amlexanox	0	0	25
-DB00381	Amlodipine	1	1	281
-DB06768	Ammonium lactate	0	0	23
-DB01351	Amobarbital	1	0	65
-DB00613	Amodiaquine	0	0	119
-DB00543	Amoxapine	0	0	162
-DB01060	Amoxicillin	0	0	129
-DB00182	Amphetamine	0	2	119
-DB00681	Amphotericin B	0	0	351
-DB00415	Ampicillin	0	0	78
-DB00701	Amprenavir	1	0	88
-DB01427	Amrinone	0	1	6
-DB00276	Amsacrine	0	0	114
-DB01612	Amyl Nitrite	0	0	2
-DB00261	Anagrelide	1	0	235
-DB01217	Anastrozole	1	0	183
-DB00362	Anidulafungin	0	0	133
-DB00913	Anileridine	0	0	17
-DB01125	Anisindione	0	0	8
-DB00517	Anisotropine Methylbromide	0	0	6
-DB08799	Antazoline	0	0	25
-DB01435	Antipyrine	0	1	20
-DB01419	Antrafenine	0	0	7
-DB06605	Apixaban	0	0	111
-DB00714	Apomorphine	0	1	73
-DB00964	Apraclonidine	1	0	121
-DB00673	Aprepitant	0	2	253
-DB01429	Aprindine	0	0	18
-DB01352	Aprobarbital	0	0	22
-DB06696	Arbekacin	0	0	7
-DB01102	Arbutamine	0	0	16
-DB00407	Ardeparin	0	0	74
-DB01274	Arformoterol	2	0	208
-DB00278	Argatroban	0	0	80
-DB01238	Aripiprazole	0	4	884
-DB01169	Arsenic trioxide	0	0	12
-DB06697	Artemether	1	0	8
-DB09009	Articaine	0	0	90
-DB06216	Asenapine	0	0	155
-DB00168	Aspartame	0	0	21
-DB00637	Astemizole	0	0	35
-DB01072	Atazanavir	0	0	250
-DB00335	Atenolol	0	0	154
-DB00289	Atomoxetine	0	2	224
-DB01076	Atorvastatin	2	0	46
-DB01117	Atovaquone	0	0	7
-DB00732	Atracurium	0	0	56
-DB00572	Atropine	0	2	232
-DB00995	Auranofin	2	0	115
-DB06237	Avanafil	0	0	116
-DB00928	Azacitidine	0	0	708
-DB07402	Azapropazone	0	0	1
-DB00719	Azatadine	0	0	16
-DB00993	Azathioprine	6	0	142
-DB00548	Azelaic Acid	0	0	40
-DB00972	Azelastine	0	0	187
-DB08795	Azidocillin	0	0	26
-DB08822	Azilsartan medoxomil	0	0	29
-DB00207	Azithromycin	0	0	228
-DB01061	Azlocillin	0	0	27
-DB00355	Aztreonam	0	0	101
-DB01602	Bacampicillin	0	0	29
-DB00626	Bacitracin	0	0	31
-DB00181	Baclofen	0	1	244
-DB01014	Balsalazide	2	0	44
-DB01408	Bambuterol	0	0	8
-DB00394	Beclomethasone	2	0	100
-DB08903	Bedaquiline	0	0	45
-DB00542	Benazepril	1	0	125
-DB00436	Bendroflumethiazide	1	0	52
-DB00516	Bentoquatam	0	0	10
-DB00245	Benzatropine	0	4	67
-DB01086	Benzocaine	0	0	43
-DB00868	Benzonatate	0	0	30
-DB00865	Benzphetamine	1	0	84
-DB00562	Benzthiazide	0	0	15
-DB00676	Benzyl Benzoate	0	0	60
-DB06770	Benzyl alcohol	0	0	53
-DB01053	Benzylpenicillin	0	0	272
-DB00895	Benzylpenicilloyl Polylysine	0	0	2
-DB04890	Bepotastine	0	0	22
-DB01244	Bepridil	1	0	108
-DB06771	Besifloxacin	0	0	18
-DB06698	Betahistine	0	0	56
-DB00443	Betamethasone	11	5	669
-DB00195	Betaxolol	2	0	281
-DB00272	Betazole	0	0	5
-DB01019	Bethanechol	0	0	42
-DB00217	Bethanidine	0	0	20
-DB01295	Bevantolol	0	0	14
-DB00307	Bexarotene	1	0	296
-DB01393	Bezafibrate	0	0	82
-DB01128	Bicalutamide	1	0	212
-DB04794	Bifonazole	0	0	22
-DB00905	Bimatoprost	1	0	137
-DB00121	Biotin	0	0	26
-DB00810	Biperiden	0	1	136
-DB09020	Bisacodyl	0	0	512
-DB01294	Bismuth Subsalicylate	0	0	63
-DB00612	Bisoprolol	0	0	236
-DB00290	Bleomycin	6	0	114
-DB08873	Boceprevir	0	0	310
-DB08807	Bopindolol	0	0	13
-DB00188	Bortezomib	1	0	1140
-DB00559	Bosentan	0	0	215
-DB06616	Bosutinib	0	0	291
-DB01158	Bretylium	0	0	53
-DB00484	Brimonidine	1	0	174
-DB01194	Brinzolamide	1	0	209
-DB01558	Bromazepam	0	0	100
-DB00963	Bromfenac	0	0	71
-DB09019	Bromhexine	0	0	19
-DB01200	Bromocriptine	1	1	219
-DB01237	Bromodiphenhydramine	0	0	40
-DB09018	Bromopride	0	0	5
-DB00835	Brompheniramine	0	0	35
-DB09017	Brotizolam	0	0	10
-DB00354	Buclizine	0	0	18
-DB01222	Budesonide	2	0	389
-DB00887	Bumetanide	1	1	93
-DB00297	Bupivacaine	0	0	237
-DB08808	Bupranolol	0	0	15
-DB00921	Buprenorphine	0	0	253
-DB01156	Bupropion	1	2	568
-DB00490	Buspirone	0	1	204
-DB01008	Busulfan	1	0	404
-DB00237	Butabarbital	0	0	55
-DB00241	Butalbital	0	1	24
-DB01091	Butenafine	0	0	26
-DB01353	Butethal	0	0	21
-DB00639	Butoconazole	0	0	20
-DB00611	Butorphanol	0	0	146
-DB06772	Cabazitaxel	1	0	158
-DB00248	Cabergoline	0	1	166
-DB00201	Caffeine	0	1	95
-DB00146	Calcidiol	0	0	16
-DB02300	Calcipotriol	1	0	86
-DB00136	Calcitriol	2	1	178
-DB00258	Calcium Acetate	1	1	48
-DB01164	Calcium Chloride	0	0	56
-DB00326	Calcium Gluceptate	0	0	41
-DB01489	Camazepam	0	0	25
-DB08907	Canagliflozin	0	0	104
-DB00796	Candesartan	1	0	116
-DB00616	Candoxatril	0	0	2
-DB01101	Capecitabine	6	0	497
-DB00314	Capreomycin	0	0	36
-DB09014	Captodiame	0	0	15
-DB01197	Captopril	3	0	183
-DB00411	Carbachol	1	0	71
-DB00564	Carbamazepine	1	4	392
-DB00578	Carbenicillin	0	0	58
-DB01282	Carbetocin	0	0	8
-DB00190	Carbidopa	0	2	198
-DB00389	Carbimazole	0	0	71
-DB00748	Carbinoxamine	0	0	116
-DB00958	Carboplatin	9	0	32
-DB00429	Carboprost Tromethamine	0	0	102
-DB08889	Carfilzomib	0	0	76
-DB06775	Carglumic Acid	0	0	46
-DB00395	Carisoprodol	0	0	32
-DB00262	Carmustine	5	0	186
-DB00821	Carprofen	0	0	16
-DB00521	Carteolol	1	0	60
-DB01136	Carvedilol	1	0	291
-DB00520	Caspofungin	0	0	287
-DB01414	Cefacetrile	0	0	23
-DB00833	Cefaclor	0	0	194
-DB01140	Cefadroxil	0	0	96
-DB00456	Cefalotin	0	0	70
-DB01326	Cefamandole	0	0	34
-DB01139	Cefapirin	0	0	24
-DB01327	Cefazolin	0	0	125
-DB00535	Cefdinir	0	0	140
-DB01066	Cefditoren	0	0	18
-DB01413	Cefepime	0	0	130
-DB00671	Cefixime	0	0	145
-DB00267	Cefmenoxime	0	0	26
-DB00274	Cefmetazole	0	0	17
-DB01328	Cefonicid	0	0	25
-DB01329	Cefoperazone	0	0	24
-DB00923	Ceforanide	0	0	73
-DB00493	Cefotaxime	0	0	97
-DB01330	Cefotetan	0	0	56
-DB00229	Cefotiam	0	0	62
-DB01331	Cefoxitin	0	0	76
-DB00430	Cefpiramide	0	0	18
-DB01416	Cefpodoxime	0	0	220
-DB01150	Cefprozil	0	0	84
-DB01333	Cefradine	0	0	25
-DB06590	Ceftaroline fosamil	0	0	54
-DB00438	Ceftazidime	0	0	116
-DB01415	Ceftibuten	0	0	83
-DB01332	Ceftizoxime	0	0	63
-DB01212	Ceftriaxone	0	0	148
-DB01112	Cefuroxime	0	0	178
-DB00482	Celecoxib	0	9	380
-DB00567	Cephalexin	0	0	134
-DB00689	Cephaloglycin	0	0	35
-DB09008	Cephaloridine	0	0	3
-DB01034	Cerulenin	0	0	501
-DB00403	Ceruletide	0	0	7
-DB00341	Cetirizine	1	0	285
-DB00050	Cetrorelix	0	0	47
-DB00185	Cevimeline	0	0	450
-DB06777	Chenodeoxycholic acid	1	0	243
-DB00291	Chlorambucil	4	0	137
-DB00446	Chloramphenicol	0	0	100
-DB08936	Chlorcyclizine	0	0	32
-DB00475	Chlordiazepoxide	0	1	33
-DB00878	Chlorhexidine	0	0	103
-DB00534	Chlormerodrin	0	0	23
-DB01178	Chlormezanone	0	0	14
-DB01161	Chloroprocaine	0	0	54
-DB08800	Chloropyramine	0	0	27
-DB00608	Chloroquine	0	0	93
-DB00880	Chlorothiazide	1	0	82
-DB01243	Chloroxine	0	0	109
-DB01114	Chlorphenamine	0	0	107
-DB00856	Chlorphenesin	0	0	14
-DB00477	Chlorpromazine	0	3	263
-DB00672	Chlorpropamide	1	0	59
-DB01239	Chlorprothixene	0	0	99
-DB00310	Chlorthalidone	1	0	90
-DB00356	Chlorzoxazone	0	0	28
-DB00169	Cholecalciferol	3	1	26
-DB00122	Choline	0	1	35
-DB01410	Ciclesonide	1	0	122
-DB01188	Ciclopirox	0	0	257
-DB00369	Cidofovir	0	0	286
-DB01597	Cilastatin	0	0	4
-DB01340	Cilazapril	0	0	172
-DB01166	Cilostazol	0	1	218
-DB00501	Cimetidine	1	0	108
-DB01012	Cinacalcet	0	1	81
-DB00587	Cinalukast	0	0	4
-DB00527	Cinchocaine	0	0	29
-DB08810	Cinitapride	0	0	3
-DB00568	Cinnarizine	0	0	45
-DB01594	Cinolazepam	0	0	36
-DB00827	Cinoxacin	0	0	32
-DB00537	Ciprofloxacin	0	1	536
-DB00604	Cisapride	0	0	30
-DB00565	Cisatracurium Besylate	0	0	56
-DB00515	Cisplatin	8	0	203
-DB00215	Citalopram	1	3	852
-DB00242	Cladribine	2	0	320
-DB01211	Clarithromycin	0	0	300
-DB00766	Clavulanate	0	0	28
-DB00283	Clemastine	0	0	85
-DB01407	Clenbuterol	0	0	24
-DB04920	Clevidipine	0	0	37
-DB00771	Clidinium	0	0	26
-DB01190	Clindamycin	1	0	168
-DB00349	Clobazam	1	0	154
-DB01013	Clobetasol propionate	1	0	169
-DB09003	Clocapramine	0	0	10
-DB00838	Clocortolone	0	0	43
-DB00720	Clodronate	0	0	74
-DB00631	Clofarabine	1	0	353
-DB00845	Clofazimine	0	0	63
-DB04837	Clofedanol	0	0	49
-DB00636	Clofibrate	0	0	14
-DB00882	Clomifene	1	0	399
-DB01242	Clomipramine	0	1	484
-DB00453	Clomocycline	0	0	9
-DB01068	Clonazepam	1	7	337
-DB00575	Clonidine	2	4	230
-DB09002	Cloperastine	0	0	34
-DB00758	Clopidogrel	1	0	353
-DB00628	Clorazepate	0	0	59
-DB01559	Clotiazepam	0	0	33
-DB00257	Clotrimazole	0	0	67
-DB01147	Cloxacillin	0	0	24
-DB01553	Cloxazolam	0	0	12
-DB00363	Clozapine	0	2	77
-DB00907	Cocaine	0	0	32
-DB00318	Codeine	0	1	131
-DB01394	Colchicine	2	1	186
-DB00375	Colestipol	0	0	73
-DB01111	Colistimethate	0	0	88
-DB00803	Colistin	0	0	3
-DB00872	Conivaptan	0	0	73
-DB00286	Conjugated Estrogens	2	1	301
-DB01380	Cortisone acetate	0	0	32
-DB00148	Creatine	0	0	8
-DB08865	Crizotinib	1	0	691
-DB01003	Cromoglicic acid	1	0	135
-DB00265	Crotamiton	0	0	10
-DB09000	Cyamemazine	0	0	33
-DB00115	Cyanocobalamin	0	0	15
-DB01000	Cyclacillin	0	0	20
-DB04838	Cyclandelate	0	0	13
-DB01176	Cyclizine	0	0	113
-DB00924	Cyclobenzaprine	0	2	178
-DB00979	Cyclopentolate	0	0	63
-DB00531	Cyclophosphamide	0	0	341
-DB00260	Cycloserine	0	0	29
-DB00091	Cyclosporine	4	0	863
-DB00606	Cyclothiazide	0	0	15
-DB00942	Cycrimine	0	0	10
-DB00434	Cyproheptadine	1	2	191
-DB04839	Cyproterone acetate	0	0	206
-DB00847	Cysteamine	0	0	99
-DB00987	Cytarabine	2	0	193
-DB09028	Cytisine	0	0	6
-DB06695	Dabigatran etexilate	0	0	149
-DB08912	Dabrafenib	0	0	678
-DB00851	Dacarbazine	7	0	18
-DB00970	Dactinomycin	10	0	590
-DB06637	Dalfampridine	0	1	85
-DB01764	Dalfopristin	0	0	2
-DB01406	Danazol	0	0	303
-DB01219	Dantrolene	0	1	112
-DB06292	Dapagliflozin	0	0	108
-DB00298	Dapiprazole	0	0	4
-DB00250	Dapsone	3	0	90
-DB00496	Darifenacin	0	0	129
-DB01264	Darunavir	0	0	283
-DB01254	Dasatinib	1	0	853
-DB00694	Daunorubicin	1	0	703
-DB04840	Debrisoquin	0	0	4
-DB01245	Decamethonium	0	0	13
-DB01262	Decitabine	0	0	257
-DB01609	Deferasirox	0	0	10
-DB08826	Deferiprone	0	0	125
-DB00746	Deferoxamine	0	1	118
-DB06699	Degarelix	1	0	125
-DB00705	Delavirdine	1	0	299
-DB01511	Delorazepam	0	0	34
-DB00944	Demecarium	0	0	3
-DB00618	Demeclocycline	0	0	10
-DB08998	Demexiptiline	0	0	14
-DB01089	Deserpidine	0	0	6
-DB01189	Desflurane	0	0	161
-DB01151	Desipramine	0	1	189
-DB01078	Deslanoside	0	0	12
-DB00967	Desloratadine	1	0	84
-DB00035	Desmopressin	0	0	161
-DB00304	Desogestrel	0	1	61
-DB01260	Desonide	1	0	86
-DB00547	Desoximetasone	0	0	137
-DB06700	Desvenlafaxine	0	0	117
-DB01234	Dexamethasone	11	5	692
-DB00405	Dexbrompheniramine	0	0	23
-DB01191	Dexfenfluramine	0	0	18
-DB00633	Dexmedetomidine	0	0	160
-DB06701	Dexmethylphenidate	0	0	345
-DB00380	Dexrazoxane	0	0	109
-DB01576	Dextroamphetamine	0	2	114
-DB00514	Dextromethorphan	0	2	80
-DB00647	Dextropropoxyphene	0	0	132
-DB00509	Dextrothyroxine	1	0	102
-DB01209	Dezocine	0	0	10
-DB00271	Diatrizoate	0	0	142
-DB00829	Diazepam	1	2	307
-DB01119	Diazoxide	0	1	150
-DB00586	Diclofenac	0	5	461
-DB01144	Diclofenamide	1	0	68
-DB00485	Dicloxacillin	0	0	116
-DB00266	Dicoumarol	0	0	10
-DB00804	Dicyclomine	0	0	110
-DB00900	Didanosine	1	0	110
-DB00890	Dienestrol	0	0	23
-DB00711	Diethylcarbamazine	0	0	9
-DB00937	Diethylpropion	1	0	86
-DB00255	Diethylstilbestrol	0	0	19
-DB01501	Difenoxin	0	0	16
-DB00223	Diflorasone	0	0	120
-DB00861	Diflunisal	0	2	107
-DB06781	Difluprednate	0	0	68
-DB01396	Digitoxin	0	0	511
-DB00390	Digoxin	0	2	595
-DB00154	Dihomo-gamma-linolenic acid	0	0	44
-DB01551	Dihydrocodeine	0	0	61
-DB00320	Dihydroergotamine	0	1	144
-DB01070	Dihydrotachysterol	0	0	8
-DB01375	Dihydroxyaluminium	0	0	53
-DB08792	Diloxanide	0	0	2
-DB00343	Diltiazem	1	1	275
-DB00985	Dimenhydrinate	2	1	71
-DB06782	Dimercaprol	0	0	27
-DB08996	Dimetacrine	0	0	38
-DB01093	Dimethyl sulfoxide	0	0	6
-DB08801	Dimetindene	0	0	31
-DB08967	Dimetotiazine	0	0	18
-DB01160	Dinoprost Tromethamine	0	0	124
-DB00917	Dinoprostone	0	0	139
-DB08995	Diosmin	0	0	7
-DB00729	Diphemanil Methylsulfate	0	0	11
-DB01075	Diphenhydramine	2	2	132
-DB01231	Diphenidol	0	0	39
-DB01081	Diphenoxylate	0	0	21
-DB01146	Diphenylpyraline	0	0	49
-DB00449	Dipivefrin	1	0	26
-DB00975	Dipyridamole	0	1	186
-DB00954	Dirithromycin	0	0	22
-DB00280	Disopyramide	0	0	142
-DB00822	Disulfiram	1	0	206
-DB08994	Ditazole	0	0	6
-DB00841	Dobutamine	0	0	31
-DB01248	Docetaxel	9	0	389
-DB00632	Docosanol	0	0	11
-DB00204	Dofetilide	0	0	76
-DB00757	Dolasetron	0	0	157
-DB08930	Dolutegravir	0	0	55
-DB01184	Domperidone	0	0	80
-DB00843	Donepezil	1	0	379
-DB00988	Dopamine	0	0	64
-DB00869	Dorzolamide	1	0	208
-DB01135	Doxacurium chloride	0	0	9
-DB00561	Doxapram	0	0	81
-DB00590	Doxazosin	1	0	273
-DB01142	Doxepin	0	1	339
-DB00997	Doxorubicin	17	0	1066
-DB00254	Doxycycline	1	1	20
-DB00366	Doxylamine	0	0	148
-DB00470	Dronabinol	0	0	72
-DB04855	Dronedarone	0	0	74
-DB00450	Droperidol	0	0	59
-DB01395	Drospirenone	0	1	53
-DB00858	Drostanolone	0	0	15
-DB06751	Drotaverine	0	0	2
-DB06262	Droxidopa	0	0	42
-DB00476	Duloxetine	0	2	359
-DB01126	Dutasteride	0	0	52
-DB00645	Dyclonine	0	0	10
-DB00378	Dydrogesterone	0	0	18
-DB00651	Dyphylline	1	0	43
-DB05265	Ecabet	0	0	1
-DB01057	Echothiophate	1	0	18
-DB01127	Econazole	0	0	26
-DB00974	Edetic Acid	0	0	66
-DB01010	Edrophonium	0	0	41
-DB00625	Efavirenz	1	0	278
-DB00216	Eletriptan	0	1	282
-DB06210	Eltrombopag	0	0	19
-DB01084	Emedastine	0	0	51
-DB00879	Emtricitabine	0	0	150
-DB00584	Enalapril	2	0	259
-DB01228	Encainide	0	0	12
-DB00228	Enflurane	0	0	34
-DB00467	Enoxacin	0	0	24
-DB01225	Enoxaparin	0	0	75
-DB04880	Enoximone	0	0	1
-DB00824	Enprofylline	0	0	7
-DB00494	Entacapone	0	1	276
-DB00442	Entecavir	1	0	71
-DB08899	Enzalutamide	0	0	82
-DB08992	Eperisone	0	0	4
-DB01364	Ephedrine	0	2	81
-DB00751	Epinastine	0	0	39
-DB00668	Epinephrine	0	3	130
-DB08991	Epirizole	0	0	2
-DB00445	Epirubicin	14	0	1039
-DB00700	Eplerenone	2	0	160
-DB01240	Epoprostenol	0	1	154
-DB08990	Eprazinone	0	0	45
-DB00876	Eprosartan	1	0	152
-DB02187	Equilin	0	0	16
-DB00153	Ergocalciferol	2	0	47
-DB01049	Ergoloid mesylate	0	0	7
-DB01253	Ergonovine	0	0	60
-DB00696	Ergotamine	0	1	51
-DB08871	Eribulin	1	0	11
-DB00530	Erlotinib	3	0	332
-DB00303	Ertapenem	0	0	320
-DB01613	Erythrityl Tetranitrate	0	0	3
-DB00199	Erythromycin	0	0	96
-DB01175	Escitalopram	0	2	847
-DB00187	Esmolol	1	0	155
-DB00736	Esomeprazole	1	4	319
-DB01215	Estazolam	0	0	183
-DB00783	Estradiol	2	1	704
-DB08866	Estradiol valerate/Dienogest	1	1	202
-DB01196	Estramustine	1	0	85
-DB04573	Estriol	0	0	273
-DB00655	Estrone	1	1	115
-DB04574	Estropipate	1	0	205
-DB00402	Eszopiclone	0	2	283
-DB00903	Ethacrynic acid	1	1	118
-DB00330	Ethambutol	0	0	66
-DB00898	Ethanol	0	0	15
-DB06689	Ethanolamine Oleate	0	0	34
-DB00189	Ethchlorvynol	0	0	3
-DB01031	Ethinamate	0	0	3
-DB00977	Ethinyl Estradiol	2	2	193
-DB00609	Ethionamide	0	0	53
-DB00392	Ethopropazine	0	0	64
-DB00593	Ethosuximide	0	0	86
-DB00754	Ethotoin	0	0	62
-DB01545	Ethyl loflazepate	0	0	20
-DB01466	Ethylmorphine	0	0	15
-DB00823	Ethynodiol	0	0	24
-DB08987	Etidocaine	0	0	4
-DB01077	Etidronic acid	2	0	91
-DB00749	Etodolac	0	1	200
-DB08984	Etofenamate	0	0	13
-DB08983	Etofibrate	0	0	4
-DB00292	Etomidate	0	0	41
-DB00294	Etonogestrel	0	0	214
-DB00773	Etoposide	11	0	389
-DB01628	Etoricoxib	0	0	274
-DB06414	Etravirine	0	0	142
-DB01590	Everolimus	1	0	929
-DB00990	Exemestane	1	0	192
-DB00973	Ezetimibe	2	0	160
-DB04953	Ezogabine	0	0	95
-DB00426	Famciclovir	0	0	116
-DB00927	Famotidine	0	0	144
-DB00949	Felbamate	1	0	271
-DB01023	Felodipine	1	0	150
-DB00093	Felypressin	0	0	10
-DB08981	Fenbufen	0	0	25
-DB01463	Fencamfamine	0	0	4
-DB01482	Fenethylline	0	0	27
-DB01039	Fenofibrate	1	0	249
-DB00800	Fenoldopam	1	0	60
-DB00573	Fenoprofen	0	1	134
-DB01288	Fenoterol	0	0	19
-DB01550	Fenproporex	0	0	18
-DB08979	Fenspiride	0	0	4
-DB00813	Fentanyl	0	2	569
-DB06702	Fesoterodine	0	0	88
-DB00950	Fexofenadine	0	0	94
-DB08874	Fidaxomicin	0	0	40
-DB01216	Finasteride	0	0	67
-DB08868	Fingolimod	1	0	102
-DB03147	Flavin adenine dinucleotide	0	0	29
-DB01148	Flavoxate	0	0	40
-DB01195	Flecainide	0	0	168
-DB08976	Floctafenine	0	0	7
-DB00322	Floxuridine	1	0	155
-DB08974	Flubendazole	0	0	34
-DB00301	Flucloxacillin	0	0	100
-DB00196	Fluconazole	0	0	186
-DB01099	Flucytosine	0	0	85
-DB01073	Fludarabine	2	0	165
-DB01567	Fludiazepam	0	0	48
-DB00687	Fludrocortisone	0	1	121
-DB01205	Flumazenil	0	0	122
-DB00663	Flumethasone Pivalate	0	0	32
-DB04841	Flunarizine	0	0	32
-DB00180	Flunisolide	2	0	235
-DB01544	Flunitrazepam	0	0	82
-DB00591	Fluocinolone Acetonide	2	0	240
-DB01047	Fluocinonide	2	0	113
-DB08971	Fluocortolone	0	0	28
-DB00693	Fluorescein	0	0	98
-DB00324	Fluorometholone	0	0	120
-DB00544	Fluorouracil	7	0	210
-DB00472	Fluoxetine	0	2	597
-DB01185	Fluoxymesterone	1	0	69
-DB00875	Flupentixol	0	0	14
-DB00623	Fluphenazine	0	1	175
-DB06623	Flupirtine	0	0	5
-DB08970	Fluprednidene Acetate	0	0	34
-DB00846	Flurandrenolide	0	0	111
-DB00690	Flurazepam	0	0	122
-DB00712	Flurbiprofen	0	1	307
-DB04842	Fluspirilene	0	0	87
-DB00499	Flutamide	1	0	119
-DB00588	Fluticasone Propionate	1	0	288
-DB08906	Fluticasone furoate	1	0	90
-DB01095	Fluvastatin	0	0	390
-DB00176	Fluvoxamine	0	2	482
-DB00158	Folic Acid	0	0	49
-DB01213	Fomepizole	0	0	58
-DB00569	Fondaparinux sodium	0	0	197
-DB01342	Forasartan	0	0	7
-DB08905	Formestane	0	0	15
-DB00983	Formoterol	2	0	208
-DB01319	Fosamprenavir	0	0	74
-DB06717	Fosaprepitant	0	0	160
-DB00529	Foscarnet	0	0	186
-DB00828	Fosfomycin	0	0	63
-DB00492	Fosinopril	1	0	276
-DB01320	Fosphenytoin	1	0	228
-DB06716	Fospropofol	0	0	42
-DB00452	Framycetin	0	0	32
-DB00998	Frovatriptan	0	1	169
-DB00947	Fulvestrant	1	0	599
-DB00614	Furazolidone	0	0	5
-DB00695	Furosemide	3	1	197
-DB08966	Fursultiamine	0	0	5
-DB02703	Fusidic Acid	0	0	69
-DB00996	Gabapentin	2	6	549
-DB00743	Gadobenate Dimeglumine	0	0	265
-DB06703	Gadobutrol	0	0	46
-DB00225	Gadodiamide	0	0	115
-DB06705	Gadofosveset trisodium	0	0	219
-DB00789	Gadopentetate dimeglumine	0	0	202
-DB00597	Gadoteridol	0	0	78
-DB00538	Gadoversetamide	0	0	207
-DB08884	Gadoxetate	0	0	160
-DB00674	Galantamine	1	0	217
-DB00483	Gallamine Triethiodide	0	0	93
-DB05260	Gallium nitrate	0	0	45
-DB01440	Gamma Hydroxybutyric Acid	0	1	195
-DB01004	Ganciclovir	0	0	316
-DB01044	Gatifloxacin	0	0	250
-DB00317	Gefitinib	1	0	291
-DB00441	Gemcitabine	6	0	716
-DB01241	Gemfibrozil	1	0	153
-DB01155	Gemifloxacin	0	0	182
-DB00798	Gentamicin	0	0	97
-DB00406	Gentian Violet	0	0	1
-DB06730	Gestodene	0	0	12
-DB01120	Gliclazide	1	0	297
-DB00222	Glimepiride	1	0	139
-DB01067	Glipizide	1	0	140
-DB01251	Gliquidone	0	0	11
-DB01289	Glisoxepide	0	0	12
-DB01296	Glucosamine	0	1	28
-DB00143	Glutathione	0	0	47
-DB01437	Glutethimide	0	0	14
-DB01016	Glyburide	2	0	187
-DB08909	Glycerol Phenylbutyrate	0	0	23
-DB00145	Glycine	0	0	79
-DB01382	Glycodiazine	0	0	6
-DB00986	Glycopyrrolate	0	0	140
-DB00644	Gonadorelin	0	0	61
-DB00014	Goserelin	2	0	262
-DB00889	Granisetron	0	0	149
-DB00400	Griseofulvin	0	0	42
-DB00874	Guaifenesin	0	0	21
-DB00629	Guanabenz	1	0	196
-DB00226	Guanadrel	1	0	2
-DB01170	Guanethidine	1	0	3
-DB01018	Guanfacine	1	1	119
-DB00536	Guanidine	0	0	107
-DB00801	Halazepam	0	0	44
-DB00596	Halobetasol Propionate	0	0	27
-DB01218	Halofantrine	0	0	66
-DB00502	Haloperidol	0	4	205
-DB00793	Haloprogin	0	0	42
-DB01159	Halothane	0	0	44
-DB01354	Heptabarbital	0	0	18
-DB01452	Heroin	0	0	9
-DB01094	Hesperetin	0	0	6
-DB00739	Hetacillin	0	0	19
-DB00756	Hexachlorophene	0	0	30
-DB00941	Hexafluronium	0	0	2
-DB08958	Hexetidine	0	0	18
-DB01355	Hexobarbital	0	0	19
-DB08957	Hexoprenaline	0	0	5
-DB00473	Hexylcaine	0	0	18
-DB00667	Histamine Phosphate	0	0	174
-DB00725	Homatropine Methylbromide	0	0	17
-DB04865	Homoharringtonine	0	0	501
-DB01275	Hydralazine	1	0	96
-DB00999	Hydrochlorothiazide	2	0	307
-DB00956	Hydrocodone	0	0	101
-DB00769	Hydrocortamate	0	0	27
-DB00741	Hydrocortisone	8	2	321
-DB00774	Hydroflumethiazide	1	0	79
-DB00327	Hydromorphone	0	0	334
-DB00200	Hydroxocobalamin	0	0	90
-DB01611	Hydroxychloroquine	0	0	146
-DB08847	Hydroxyproline	0	0	2
-DB01005	Hydroxyurea	4	0	139
-DB00557	Hydroxyzine	0	0	41
-DB00424	Hyoscyamine	1	2	230
-DB00710	Ibandronate	1	0	209
-DB05266	Ibudilast	0	0	11
-DB01050	Ibuprofen	0	1	377
-DB00308	Ibutilide	0	0	39
-DB06196	Icatibant	0	0	14
-DB00159	Icosapent	0	0	43
-DB08887	Icosapent ethyl	0	0	116
-DB01177	Idarubicin	2	0	610
-DB00249	Idoxuridine	0	0	23
-DB08954	Ifenprodil	0	0	22
-DB01181	Ifosfamide	3	0	334
-DB04946	Iloperidone	0	0	183
-DB01088	Iloprost	0	0	14
-DB00619	Imatinib	1	0	412
-DB01598	Imipenem	0	0	6
-DB00458	Imipramine	0	3	249
-DB00724	Imiquimod	1	0	279
-DB06255	Incadronate	0	0	1
-DB05039	Indacaterol	1	0	62
-DB00808	Indapamide	1	0	261
-DB00192	Indecainide	0	0	15
-DB00224	Indinavir	1	0	262
-DB00328	Indomethacin	1	4	248
-DB05013	Ingenol Mebutate	0	0	35
-DB06704	Iobenguane	0	0	18
-DB04711	Iodipamide	0	0	29
-DB01249	Iodixanol	0	0	162
-DB08824	Ioflupane I 123	0	0	19
-DB01362	Iohexol	0	0	107
-DB08947	Iopamidol	0	0	224
-DB08946	Iopanoic acid	0	0	15
-DB00332	Ipratropium bromide	1	0	216
-DB01029	Irbesartan	2	0	272
-DB00762	Irinotecan	6	0	673
-DB01592	Iron	0	0	176
-DB08944	Isoaminile	0	0	37
-DB01247	Isocarboxazid	0	1	57
-DB08943	Isoconazole	0	0	6
-DB00221	Isoetarine	1	0	14
-DB00753	Isoflurane	0	0	82
-DB00677	Isoflurophate	0	0	3
-DB06706	Isometheptene	0	0	11
-DB00951	Isoniazid	0	0	63
-DB01064	Isoprenaline	1	0	75
-DB01625	Isopropamide	0	0	23
-DB00883	Isosorbide Dinitrate	0	1	38
-DB01020	Isosorbide Mononitrate	0	1	249
-DB08802	Isothipendyl	0	0	24
-DB00982	Isotretinoin	1	0	650
-DB08941	Isoxsuprine	0	0	33
-DB00270	Isradipine	1	0	132
-DB01167	Itraconazole	0	0	251
-DB08820	Ivacaftor	0	0	61
-DB00602	Ivermectin	0	0	357
-DB04845	Ixabepilone	1	0	160
-DB01321	Josamycin	0	0	7
-DB01172	Kanamycin	0	0	48
-DB01221	Ketamine	0	0	52
-DB01587	Ketazolam	0	0	23
-DB06738	Ketobemidone	0	0	11
-DB01026	Ketoconazole	0	0	181
-DB01009	Ketoprofen	0	1	205
-DB00465	Ketorolac	0	0	346
-DB00920	Ketotifen	1	0	67
-DB00160	L-Alanine	0	0	28
-DB00125	L-Arginine	0	0	56
-DB00174	L-Asparagine	0	0	19
-DB00128	L-Aspartic Acid	0	0	35
-DB00583	L-Carnitine	0	0	97
-DB00155	L-Citrulline	0	0	24
-DB00151	L-Cysteine	0	0	33
-DB00138	L-Cystine	0	0	9
-DB01235	L-DOPA	0	2	211
-DB00130	L-Glutamine	0	0	133
-DB00117	L-Histidine	0	0	12
-DB00167	L-Isoleucine	0	0	13
-DB00149	L-Leucine	0	0	22
-DB00123	L-Lysine	0	0	19
-DB00134	L-Methionine	0	0	27
-DB00129	L-Ornithine	0	0	26
-DB00120	L-Phenylalanine	0	0	46
-DB00172	L-Proline	0	0	23
-DB00133	L-Serine	0	0	26
-DB00156	L-Threonine	0	0	11
-DB00150	L-Tryptophan	0	0	15
-DB00135	L-Tyrosine	0	0	19
-DB00161	L-Valine	0	0	12
-DB08933	LULICONAZOLE	0	0	7
-DB00598	Labetalol	1	0	161
-DB06218	Lacosamide	1	0	132
-DB00581	Lactulose	0	0	30
-DB00709	Lamivudine	2	0	248
-DB00555	Lamotrigine	1	2	390
-DB00448	Lansoprazole	0	0	458
-DB01259	Lapatinib	1	0	111
-DB04570	Latamoxef	0	0	16
-DB00654	Latanoprost	1	0	77
-DB01097	Leflunomide	3	0	258
-DB00480	Lenalidomide	1	0	517
-DB00528	Lercanidipine	0	0	185
-DB01006	Letrozole	1	0	181
-DB00650	Leucovorin	0	0	70
-DB00504	Levallorphan	0	0	7
-DB01202	Levetiracetam	1	0	213
-DB01210	Levobunolol	1	0	74
-DB01002	Levobupivacaine	0	0	232
-DB01106	Levocabastine	0	0	29
-DB01137	Levofloxacin	0	1	537
-DB01227	Levomethadyl Acetate	0	0	33
-DB08918	Levomilnacipran	0	0	154
-DB06707	Levonordefrin	0	0	18
-DB00367	Levonorgestrel	0	1	593
-DB00854	Levorphanol	0	0	153
-DB00922	Levosimendan	0	0	28
-DB00451	Levothyroxine	1	0	111
-DB00281	Lidocaine	0	4	188
-DB08890	Linaclotide	0	0	7
-DB08882	Linagliptin	1	0	45
-DB01627	Lincomycin	0	0	66
-DB00431	Lindane	0	0	16
-DB00601	Linezolid	0	0	145
-DB00279	Liothyronine	1	0	39
-DB01583	Liotrix	1	0	180
-DB00166	Lipoic Acid	0	0	7
-DB01255	Lisdexamfetamine	0	1	102
-DB00722	Lisinopril	4	0	284
-DB00589	Lisuride	0	0	93
-DB01356	Lithium	0	1	141
-DB04948	Lofexidine	0	0	5
-DB00978	Lomefloxacin	0	0	222
-DB08827	Lomitapide	0	0	135
-DB01206	Lomustine	2	0	51
-DB00836	Loperamide	0	0	154
-DB01601	Lopinavir	1	0	19
-DB00455	Loratadine	3	0	92
-DB00186	Lorazepam	0	1	167
-DB06725	Lornoxicam	0	0	6
-DB00678	Losartan	3	0	227
-DB00873	Loteprednol	0	0	36
-DB00227	Lovastatin	2	0	354
-DB00408	Loxapine	0	1	176
-DB01046	Lubiprostone	0	0	92
-DB04967	Lucanthone	0	0	7
-DB06708	Lumefantrine	0	0	3
-DB01283	Lumiracoxib	0	0	11
-DB08815	Lurasidone	0	0	161
-DB00256	Lymecycline	0	0	9
-DB08932	MACITENTAN	0	0	23
-DB06795	Mafenide	0	0	41
-DB00653	Magnesium Sulfate	0	0	23
-DB01397	Magnesium salicylate	0	1	82
-DB00772	Malathion	0	0	8
-DB00742	Mannitol	0	1	142
-DB00934	Maprotiline	0	1	260
-DB04835	Maraviroc	0	0	261
-DB00786	Marimastat	0	0	24
-DB00179	Masoprocol	0	0	12
-DB00579	Mazindol	0	0	19
-DB00643	Mebendazole	0	0	526
-DB00657	Mecamylamine	1	1	48
-DB00888	Mechlorethamine	2	0	53
-DB00737	Meclizine	0	0	37
-DB00939	Meclofenamic acid	0	0	70
-DB00603	Medroxyprogesterone Acetate	1	1	456
-DB00253	Medrysone	0	0	78
-DB00784	Mefenamic acid	0	0	178
-DB00358	Mefloquine	0	0	176
-DB00351	Megestrol acetate	0	1	24
-DB01065	Melatonin	0	0	175
-DB00814	Meloxicam	0	5	243
-DB01042	Melphalan	4	0	133
-DB01043	Memantine	1	1	462
-DB00170	Menadione	0	0	525
-DB00825	Menthol	0	0	4
-DB04843	Mepenzolate	0	0	72
-DB01365	Mephentermine	0	0	25
-DB00961	Mepivacaine	0	0	83
-DB00371	Meprobamate	0	0	68
-DB06691	Mepyramine	0	0	20
-DB01071	Mequitazine	0	0	36
-DB01033	Mercaptopurine	3	0	74
-DB00760	Meropenem	0	0	151
-DB00244	Mesalazine	2	0	452
-DB00933	Mesoridazine	0	1	53
-DB01357	Mestranol	0	0	24
-DB00610	Metaraminol	0	0	12
-DB00660	Metaxalone	0	0	35
-DB00331	Metformin	3	0	229
-DB06709	Methacholine	0	0	34
-DB00931	Methacycline	0	0	9
-DB00333	Methadone	0	0	179
-DB01433	Methadyl Acetate	0	0	26
-DB01577	Methamphetamine	1	2	70
-DB00940	Methantheline	0	0	9
-DB00703	Methazolamide	1	0	82
-DB00902	Methdilazine	0	0	41
-DB00763	Methimazole	1	0	52
-DB00423	Methocarbamol	0	0	59
-DB00474	Methohexital	0	0	48
-DB00563	Methotrexate	19	0	520
-DB01403	Methotrimeprazine	0	0	82
-DB00723	Methoxamine	0	0	6
-DB00553	Methoxsalen	3	0	110
-DB01028	Methoxyflurane	0	0	29
-DB05246	Methsuximide	0	0	61
-DB00232	Methyclothiazide	0	0	70
-DB00992	Methyl aminolevulinate	0	0	61
-DB00968	Methyldopa	1	0	212
-DB00353	Methylergometrine	0	1	103
-DB06800	Methylnaltrexone	0	0	32
-DB00422	Methylphenidate	0	1	346
-DB00849	Methylphenobarbital	0	0	25
-DB00959	Methylprednisolone	10	3	286
-DB00462	Methylscopolamine bromide	0	0	42
-DB06710	Methyltestosterone	0	1	111
-DB01107	Methyprylon	0	0	5
-DB00247	Methysergide	0	0	91
-DB01603	Meticillin	0	0	19
-DB01214	Metipranolol	1	0	50
-DB00340	Metixene	0	0	31
-DB01233	Metoclopramide	0	3	141
-DB01336	Metocurine	0	0	6
-DB00524	Metolazone	1	0	127
-DB00264	Metoprolol	1	0	209
-DB01578	Metrizamide	0	0	24
-DB00916	Metronidazole	0	0	255
-DB01011	Metyrapone	0	0	35
-DB00765	Metyrosine	0	0	50
-DB00379	Mexiletine	0	0	123
-DB00948	Mezlocillin	0	0	24
-DB06148	Mianserin	0	0	115
-DB01141	Micafungin	0	0	175
-DB01110	Miconazole	0	0	113
-DB00683	Midazolam	1	0	248
-DB00211	Midodrine	0	0	81
-DB00834	Mifepristone	0	0	130
-DB00491	Miglitol	1	0	31
-DB00419	Miglustat	0	0	95
-DB04896	Milnacipran	0	0	147
-DB00235	Milrinone	0	0	25
-DB01055	Mimosine	0	0	5
-DB00805	Minaprine	0	0	16
-DB01017	Minocycline	0	0	21
-DB00350	Minoxidil	1	0	8
-DB08893	Mirabegron	0	0	88
-DB00370	Mirtazapine	0	0	387
-DB00929	Misoprostol	0	0	131
-DB01252	Mitiglinide	0	0	15
-DB00305	Mitomycin	2	0	571
-DB00648	Mitotane	0	0	144
-DB01204	Mitoxantrone	6	0	695
-DB01226	Mivacurium	0	0	36
-DB01171	Moclobemide	0	0	146
-DB00745	Modafinil	0	4	269
-DB00691	Moexipril	1	0	16
-DB01618	Molindone	0	0	74
-DB00764	Mometasone	3	0	146
-DB00600	Monobenzone	0	1	34
-DB00471	Montelukast	3	0	146
-DB00680	Moricizine	0	0	30
-DB00295	Morphine	0	1	341
-DB00218	Moxifloxacin	0	1	451
-DB00410	Mupirocin	0	0	48
-DB00688	Mycophenolate mofetil	3	0	647
-DB01024	Mycophenolic acid	2	0	914
-DB00141	N-Acetyl-D-glucosamine	0	0	9
-DB00486	Nabilone	0	0	160
-DB00461	Nabumetone	0	2	143
-DB01203	Nadolol	1	0	119
-DB00666	Nafarelin	0	0	135
-DB00607	Nafcillin	0	0	88
-DB00735	Naftifine	0	0	42
-DB00844	Nalbuphine	0	0	106
-DB00779	Nalidixic Acid	0	0	66
-DB01183	Naloxone	0	0	82
-DB00704	Naltrexone	1	0	298
-DB08804	Nandrolone decanoate	0	0	62
-DB00984	Nandrolone phenpropionate	0	0	14
-DB06711	Naphazoline	0	0	51
-DB00788	Naproxen	1	5	393
-DB00952	Naratriptan	0	1	218
-DB00826	Natamycin	0	0	16
-DB00731	Nateglinide	1	0	81
-DB04861	Nebivolol	1	0	55
-DB00716	Nedocromil	1	0	65
-DB01149	Nefazodone	0	1	313
-DB01280	Nelarabine	1	0	170
-DB00220	Nelfinavir	1	0	195
-DB00994	Neomycin	0	0	32
-DB01400	Neostigmine	0	0	96
-DB06802	Nepafenac	0	0	90
-DB00955	Netilmicin	0	0	2
-DB00238	Nevirapine	1	0	132
-DB00627	Niacin	2	0	197
-DB00622	Nicardipine	1	0	156
-DB00699	Nicergoline	0	0	9
-DB06803	Niclosamide	0	0	508
-DB00184	Nicotine	1	1	229
-DB01115	Nifedipine	1	2	345
-DB04552	Niflumic Acid	0	0	15
-DB04868	Nilotinib	1	0	510
-DB00665	Nilutamide	1	0	99
-DB06712	Nilvadipine	0	0	23
-DB00393	Nimodipine	0	0	81
-DB00401	Nisoldipine	1	0	198
-DB00507	Nitazoxanide	0	0	111
-DB00348	Nitisinone	0	0	65
-DB01595	Nitrazepam	0	0	161
-DB01054	Nitrendipine	0	0	40
-DB00435	Nitric Oxide	0	0	33
-DB00336	Nitrofural	0	0	29
-DB00698	Nitrofurantoin	0	0	100
-DB00727	Nitroglycerin	0	1	128
-DB00325	Nitroprusside	0	0	7
-DB01422	Nitroxoline	0	0	2
-DB00585	Nizatidine	0	0	184
-DB06804	Nonoxynol-9	0	0	86
-DB06713	Norelgestromin	0	0	18
-DB00368	Norepinephrine	0	0	57
-DB00717	Norethindrone	0	1	291
-DB01059	Norfloxacin	0	0	209
-DB00957	Norgestimate	0	0	24
-DB00540	Nortriptyline	0	4	257
-DB01051	Novobiocin	0	0	20
-DB00646	Nystatin	0	0	3
-DB00104	Octreotide	1	3	313
-DB01165	Ofloxacin	0	1	537
-DB00334	Olanzapine	0	4	60
-DB00275	Olmesartan	2	0	181
-DB00768	Olopatadine	1	0	139
-DB01250	Olsalazine	1	0	14
-DB00338	Omeprazole	1	4	330
-DB00904	Ondansetron	0	1	160
-DB00816	Orciprenaline	1	0	74
-DB04911	Oritavancin	0	0	57
-DB01083	Orlistat	2	0	214
-DB01173	Orphenadrine	0	1	99
-DB00198	Oseltamivir	0	0	131
-DB04938	Ospemifene	0	0	33
-DB01092	Ouabain	0	0	513
-DB00713	Oxacillin	0	0	77
-DB00526	Oxaliplatin	0	0	22
-DB01096	Oxamniquine	0	0	1
-DB00621	Oxandrolone	0	1	57
-DB00991	Oxaprozin	0	2	163
-DB00842	Oxazepam	0	0	99
-DB00776	Oxcarbazepine	1	2	347
-DB00239	Oxiconazole	0	0	32
-DB02959	Oxitriptan	0	0	7
-DB01580	Oxprenolol	0	0	63
-DB01303	Oxtriphylline	0	0	16
-DB01428	Oxybenzone	0	0	23
-DB00892	Oxybuprocaine	0	0	14
-DB01062	Oxybutynin	0	0	248
-DB00497	Oxycodone	0	0	325
-DB00935	Oxymetazoline	0	1	17
-DB01192	Oxymorphone	0	0	131
-DB00383	Oxyphencyclimine	0	0	11
-DB00219	Oxyphenonium	0	0	10
-DB00595	Oxytetracycline	0	0	14
-DB01229	Paclitaxel	4	0	662
-DB01267	Paliperidone	0	1	390
-DB00377	Palonosetron	0	0	134
-DB00282	Pamidronate	2	0	196
-DB01337	Pancuronium	0	0	39
-DB00213	Pantoprazole	0	0	385
-DB01113	Papaverine	0	0	52
-DB00617	Paramethadione	0	0	8
-DB01384	Paramethasone	0	0	35
-DB01626	Pargyline	0	0	20
-DB00910	Paricalcitol	0	1	206
-DB01421	Paromomycin	0	0	22
-DB00715	Paroxetine	0	3	901
-DB06663	Pasireotide	0	0	62
-DB06589	Pazopanib	1	0	404
-DB00487	Pefloxacin	0	0	14
-DB00642	Pemetrexed	1	0	139
-DB00885	Pemirolast	0	0	17
-DB01359	Penbutolol	2	0	55
-DB00299	Penciclovir	0	0	73
-DB00859	Penicillamine	1	0	130
-DB00417	Penicillin V	0	0	93
-DB00183	Pentagastrin	0	0	7
-DB00738	Pentamidine	0	0	311
-DB00652	Pentazocine	0	0	83
-DB00312	Pentobarbital	0	0	83
-DB01090	Pentolinium	0	0	3
-DB00686	Pentosan Polysulfate	0	0	93
-DB00552	Pentostatin	1	0	191
-DB00806	Pentoxifylline	2	0	134
-DB06614	Peramivir	0	0	1
-DB00556	Perflutren	0	0	146
-DB01186	Pergolide	0	2	370
-DB01074	Perhexiline	0	0	555
-DB00790	Perindopril	2	0	259
-DB04930	Permethrin	0	0	25
-DB00850	Perphenazine	0	1	247
-DB00454	Pethidine	0	0	120
-DB01121	Phenacemide	0	0	27
-DB01438	Phenazopyridine	0	0	37
-DB01579	Phendimetrazine	1	0	40
-DB00780	Phenelzine	0	0	119
-DB00914	Phenformin	0	0	19
-DB01619	Phenindamine	0	0	16
-DB00498	Phenindione	0	0	29
-DB01620	Pheniramine	0	0	40
-DB00830	Phenmetrazine	0	0	7
-DB01174	Phenobarbital	1	0	128
-DB03255	Phenol	0	0	19
-DB00925	Phenoxybenzamine	0	0	71
-DB00946	Phenprocoumon	0	0	28
-DB00832	Phensuximide	0	0	25
-DB00191	Phentermine	1	0	83
-DB00692	Phentolamine	0	1	57
-DB00812	Phenylbutazone	0	0	29
-DB00388	Phenylephrine	0	0	105
-DB00397	Phenylpropanolamine	1	0	83
-DB00252	Phenytoin	1	0	359
-DB00144	Phosphatidylserine	0	0	10
-DB01022	Phylloquinone	0	0	34
-DB00981	Physostigmine	1	0	9
-DB01085	Pilocarpine	1	1	226
-DB00337	Pimecrolimus	1	0	132
-DB01100	Pimozide	0	1	223
-DB00960	Pindolol	1	0	199
-DB01132	Pioglitazone	1	0	139
-DB08796	Pipazethate	0	0	18
-DB01338	Pipecuronium	0	0	10
-DB00319	Piperacillin	0	0	151
-DB00592	Piperazine	0	0	2
-DB01621	Pipotiazine	0	0	40
-DB01291	Pirbuterol	1	0	69
-DB00670	Pirenzepine	0	0	18
-DB00554	Piroxicam	0	3	17
-DB08860	Pitavastatin	1	0	512
-DB01604	Pivampicillin	0	0	22
-DB01605	Pivmecillinam	0	0	5
-DB06809	Plerixafor	0	0	64
-DB01179	Podofilox	0	0	530
-DB06811	Polidocanol	0	0	7
-DB00781	Polymyxin B Sulfate	0	0	30
-DB01324	Polythiazide	0	0	53
-DB08910	Pomalidomide	0	0	118
-DB08901	Ponatinib	0	0	491
-DB00707	Porfimer	0	1	5
-DB01263	Posaconazole	0	0	464
-DB09015	Potassium Canrenoate	0	0	68
-DB00761	Potassium Chloride	0	0	60
-DB06715	Potassium Iodide	0	0	123
-DB01297	Practolol	0	0	16
-DB06813	Pralatrexate	0	0	49
-DB00733	Pralidoxime	0	0	31
-DB00413	Pramipexole	0	2	666
-DB01411	Pranlukast	0	0	11
-DB06209	Prasugrel	0	0	75
-DB00175	Pravastatin	2	0	212
-DB01588	Prazepam	0	0	49
-DB01058	Praziquantel	0	0	59
-DB00457	Prazosin	1	0	90
-DB01130	Prednicarbate	0	0	68
-DB00860	Prednisolone	13	1	207
-DB00635	Prednisone	15	2	321
-DB00230	Pregabalin	1	3	849
-DB00750	Prilocaine	0	0	100
-DB01087	Primaquine	0	0	21
-DB00794	Primidone	1	0	75
-DB01032	Probenecid	1	0	74
-DB01599	Probucol	0	0	3
-DB01035	Procainamide	0	0	117
-DB00721	Procaine	0	0	97
-DB01168	Procarbazine	2	0	147
-DB01366	Procaterol	0	0	85
-DB00433	Prochlorperazine	0	1	202
-DB00387	Procyclidine	0	1	22
-DB01123	Proflavine	0	0	1
-DB00837	Progabide	0	0	3
-DB00396	Progesterone	1	0	391
-DB01131	Proguanil	1	0	38
-DB00420	Promazine	0	0	97
-DB01069	Promethazine	0	0	158
-DB01182	Propafenone	0	0	361
-DB00782	Propantheline	1	0	51
-DB00807	Proparacaine	0	0	36
-DB01608	Propericiazine	0	0	123
-DB00777	Propiomazine	0	0	48
-DB00818	Propofol	1	0	207
-DB00571	Propranolol	2	0	162
-DB06714	Propylhexedrine	0	0	2
-DB00550	Propylthiouracil	1	0	79
-DB00344	Protriptyline	0	0	150
-DB00852	Pseudoephedrine	0	2	88
-DB00339	Pyrazinamide	0	0	54
-DB00545	Pyridostigmine	0	0	92
-DB00147	Pyridoxal	0	0	2
-DB00165	Pyridoxine	0	0	9
-DB00205	Pyrimethamine	1	0	75
-DB00119	Pyruvic acid	0	0	19
-DB01589	Quazepam	0	1	49
-DB01224	Quetiapine	0	4	522
-DB01103	Quinacrine	0	0	513
-DB00881	Quinapril	1	0	117
-DB04575	Quinestrol	0	0	17
-DB01325	Quinethazone	0	0	19
-DB00908	Quinidine	1	0	210
-DB01346	Quinidine barbiturate	1	0	233
-DB00468	Quinine	1	0	201
-DB01369	Quinupristin	0	0	2
-DB01129	Rabeprazole	0	0	352
-DB08913	Radium Ra 223 Dichloride	0	0	21
-DB00481	Raloxifene	2	0	608
-DB06817	Raltegravir	0	0	277
-DB00293	Raltitrexed	0	0	73
-DB00980	Ramelteon	0	1	29
-DB00178	Ramipril	4	0	227
-DB00863	Ranitidine	0	0	125
-DB00243	Ranolazine	0	0	137
-DB01367	Rasagiline	0	1	296
-DB00234	Reboxetine	0	0	199
-DB06213	Regadenoson	0	0	136
-DB08896	Regorafenib	0	0	118
-DB00899	Remifentanil	0	0	157
-DB00212	Remikiren	0	0	2
-DB00409	Remoxipride	0	0	46
-DB00912	Repaglinide	1	0	76
-DB01180	Rescinnamine	0	0	86
-DB00206	Reserpine	1	0	215
-DB01256	Retapamulin	0	0	2
-DB00811	Ribavirin	0	0	478
-DB00140	Riboflavin	0	0	13
-DB01207	Ridogrel	0	0	5
-DB00615	Rifabutin	0	0	93
-DB01045	Rifampicin	1	0	32
-DB01201	Rifapentine	0	0	15
-DB01220	Rifaximin	0	0	150
-DB08864	Rilpivirine	0	0	87
-DB00740	Riluzole	1	0	438
-DB00478	Rimantadine	0	0	70
-DB00896	Rimexolone	0	0	82
-DB06155	Rimonabant	0	0	91
-DB00884	Risedronate	2	0	174
-DB00734	Risperidone	0	5	701
-DB00867	Ritodrine	0	0	25
-DB00503	Ritonavir	1	0	381
-DB06228	Rivaroxaban	0	0	131
-DB00989	Rivastigmine	1	1	492
-DB00953	Rizatriptan	0	1	187
-DB00728	Rocuronium	0	0	43
-DB01656	Roflumilast	1	0	75
-DB01301	Rolitetracycline	0	0	10
-DB00268	Ropinirole	0	3	718
-DB00296	Ropivacaine	0	0	289
-DB00412	Rosiglitazone	1	0	150
-DB00817	Rosoxacin	0	0	5
-DB01098	Rosuvastatin	2	0	133
-DB05271	Rotigotine	0	1	139
-DB08806	Roxatidine acetate	0	0	13
-DB00778	Roxithromycin	0	0	88
-DB06201	Rufinamide	1	0	104
-DB08877	Ruxolitinib	1	0	230
-DB00118	S-Adenosylmethionine	0	0	21
-DB06290	SIMEPREVIR	0	0	35
-DB01001	Salbutamol	2	1	238
-DB08797	Salicylamide	0	0	13
-DB01398	Salicylate-sodium	0	1	152
-DB00936	Salicylic acid	0	1	79
-DB00938	Salmeterol	1	0	211
-DB01399	Salsalate	0	1	51
-DB01347	Saprisartan	0	0	1
-DB01232	Saquinavir	1	0	416
-DB06335	Saxagliptin	0	0	67
-DB00747	Scopolamine	0	0	101
-DB00418	Secobarbital	0	0	66
-DB01037	Selegiline	0	3	476
-DB01153	Sertaconazole	0	0	19
-DB06144	Sertindole	0	0	38
-DB01104	Sertraline	0	4	510
-DB00658	Sevelamer	0	0	29
-DB01236	Sevoflurane	0	0	166
-DB01105	Sibutramine	1	0	385
-DB00203	Sildenafil	0	3	369
-DB06207	Silodosin	0	0	63
-DB05245	Silver sulfadiazine	0	0	18
-DB00641	Simvastatin	2	0	574
-DB00877	Sirolimus	0	0	845
-DB01261	Sitagliptin	1	0	183
-DB06268	Sitaxentan	0	0	422
-DB00464	Sodium Tetradecyl Sulfate	0	0	21
-DB01390	Sodium bicarbonate	0	0	121
-DB00815	Sodium lauryl sulfate	0	0	114
-DB05630	Sodium stibogluconate	0	0	112
-DB08934	Sofosbuvir	0	0	68
-DB01591	Solifenacin	0	1	101
-DB00398	Sorafenib	3	0	562
-DB00489	Sotalol	0	0	144
-DB08835	Spaglumic Acid	0	0	7
-DB01208	Sparfloxacin	0	0	262
-DB00919	Spectinomycin	0	0	13
-DB00127	Spermine	0	0	15
-DB01348	Spirapril	0	0	15
-DB00421	Spironolactone	2	0	94
-DB06718	Stanozolol	0	0	22
-DB00649	Stavudine	1	0	157
-DB01423	Stepronin	0	0	1
-DB01082	Streptomycin	0	0	31
-DB00428	Streptozocin	0	0	69
-DB00566	Succimer	0	0	62
-DB00139	Succinic acid	0	0	31
-DB00202	Succinylcholine	0	0	56
-DB00364	Sucralfate	0	0	18
-DB00708	Sufentanil	0	0	46
-DB00634	Sulfacetamide	0	0	56
-DB01298	Sulfacytine	0	0	17
-DB00359	Sulfadiazine	1	0	103
-DB06150	Sulfadimethoxine	0	0	28
-DB01299	Sulfadoxine	0	0	39
-DB01581	Sulfamerazine	0	0	21
-DB01582	Sulfamethazine	0	0	18
-DB00576	Sulfamethizole	0	0	39
-DB01015	Sulfamethoxazole	0	0	152
-DB00664	Sulfametopyrazine	0	0	18
-DB08798	Sulfamoxole	0	0	18
-DB00259	Sulfanilamide	0	0	32
-DB06729	Sulfaphenazole	0	0	24
-DB00891	Sulfapyridine	0	0	26
-DB00795	Sulfasalazine	4	0	32
-DB06147	Sulfathiazole	0	0	38
-DB01138	Sulfinpyrazone	0	0	25
-DB00263	Sulfisoxazole	0	0	22
-DB01145	Sulfoxone	0	0	1
-DB00605	Sulindac	0	1	157
-DB00391	Sulpiride	0	0	20
-DB00669	Sumatriptan	0	1	439
-DB01268	Sunitinib	2	0	541
-DB00870	Suprofen	0	0	47
-DB04786	Suramin	0	0	61
-DB00864	Tacrolimus	1	0	604
-DB00820	Tadalafil	0	1	160
-DB08819	Tafluprost	0	0	51
-DB00306	Talbutal	0	0	33
-DB04942	Tamibarotene	0	0	16
-DB00675	Tamoxifen	2	0	428
-DB00706	Tamsulosin	0	1	134
-DB06204	Tapentadol	0	0	140
-DB01349	Tasosartan	0	0	10
-DB08834	Tauroursodeoxycholic acid	0	0	4
-DB00799	Tazarotene	1	0	52
-DB01606	Tazobactam	0	0	1
-DB05521	Telaprevir	0	0	84
-DB06402	Telavancin	0	0	24
-DB01265	Telbivudine	1	0	114
-DB00976	Telithromycin	0	0	170
-DB00966	Telmisartan	2	0	222
-DB00231	Temazepam	0	0	149
-DB00853	Temozolomide	4	0	256
-DB06287	Temsirolimus	1	0	686
-DB00444	Teniposide	3	0	585
-DB00300	Tenofovir	0	0	139
-DB00469	Tenoxicam	0	0	74
-DB01162	Terazosin	1	0	141
-DB00857	Terbinafine	0	0	400
-DB00871	Terbutaline	1	0	46
-DB00251	Terconazole	0	0	35
-DB02638	Terlipressin	0	0	61
-DB00894	Testolactone	0	0	45
-DB00624	Testosterone	0	1	529
-DB01420	Testosterone Propionate	0	1	194
-DB04844	Tetrabenazine	0	0	100
-DB00759	Tetracycline	0	0	17
-DB00360	Tetrahydrobiopterin	0	0	71
-DB00116	Tetrahydrofolic acid	0	0	18
-DB01041	Thalidomide	2	0	439
-DB01412	Theobromine	0	0	17
-DB00277	Theophylline	1	0	118
-DB00730	Thiabendazole	0	0	73
-DB00152	Thiamine	0	0	27
-DB01154	Thiamylal	0	0	28
-DB00599	Thiopental	0	0	24
-DB01622	Thioproperazine	0	0	71
-DB00679	Thioridazine	0	1	655
-DB04572	Thiotepa	4	0	228
-DB01623	Thiothixene	0	1	219
-DB00906	Tiagabine	0	1	294
-DB01600	Tiaprofenic acid	0	0	125
-DB08816	Ticagrelor	1	0	133
-DB01607	Ticarcillin	0	0	52
-DB00208	Ticlopidine	0	0	98
-DB00560	Tigecycline	0	0	9
-DB01133	Tiludronate	1	0	24
-DB00373	Timolol	4	0	237
-DB00911	Tinidazole	0	0	100
-DB01007	Tioconazole	0	0	16
-DB00352	Tioguanine	1	0	38
-DB01409	Tiotropium	2	0	122
-DB00932	Tipranavir	0	0	5
-DB00775	Tirofiban	1	0	37
-DB00697	Tizanidine	0	2	254
-DB00684	Tobramycin	0	0	187
-DB01056	Tocainide	0	0	24
-DB08811	Tofisopam	0	0	8
-DB00839	Tolazamide	1	0	56
-DB00797	Tolazoline	0	1	23
-DB01124	Tolbutamide	1	0	67
-DB00323	Tolcapone	0	1	283
-DB00500	Tolmetin	0	3	75
-DB00525	Tolnaftate	0	0	10
-DB01036	Tolterodine	0	1	75
-DB06212	Tolvaptan	0	0	82
-DB00273	Topiramate	3	1	573
-DB01030	Topotecan	4	0	622
-DB00214	Torasemide	1	1	74
-DB00539	Toremifene	1	0	233
-DB05109	Trabectedin	0	0	102
-DB00193	Tramadol	0	1	663
-DB08911	Trametinib	0	0	442
-DB00519	Trandolapril	2	0	217
-DB00302	Tranexamic Acid	0	0	107
-DB00752	Tranylcypromine	0	0	111
-DB00287	Travoprost	1	0	194
-DB00656	Trazodone	0	3	247
-DB00374	Treprostinil	0	0	578
-DB00755	Tretinoin	1	0	668
-DB00620	Triamcinolone	12	1	293
-DB00384	Triamterene	1	0	42
-DB00897	Triazolam	0	0	157
-DB01021	Trichlormethiazide	0	0	41
-DB08604	Triclosan	0	0	128
-DB00831	Trifluoperazine	0	1	252
-DB00508	Triflupromazine	0	0	97
-DB00432	Trifluridine	0	0	53
-DB00376	Trihexyphenidyl	0	1	56
-DB01108	Trilostane	0	0	12
-DB00347	Trimethadione	1	0	76
-DB01116	Trimethaphan	0	0	15
-DB00662	Trimethobenzamide	0	0	26
-DB00440	Trimethoprim	0	0	128
-DB01157	Trimetrexate	0	0	28
-DB00726	Trimipramine	0	0	173
-DB04571	Trioxsalen	0	0	21
-DB00792	Tripelennamine	0	0	36
-DB00427	Triprolidine	0	1	14
-DB01401	Trisalicylate-choline	0	2	73
-DB01361	Troleandomycin	0	0	17
-DB00809	Tropicamide	0	0	55
-DB00209	Trospium	0	0	141
-DB00685	Trovafloxacin	0	0	218
-DB01199	Tubocurarine	0	0	39
-DB06439	Tyloxapol	0	0	1
-DB08803	Tymazoline	0	0	3
-DB06267	Udenafil	0	0	5
-DB00791	Uracil mustard	0	0	1
-DB01586	Ursodeoxycholic acid	1	0	249
-DB00577	Valaciclovir	0	0	148
-DB01610	Valganciclovir	0	0	227
-DB00313	Valproic Acid	2	3	362
-DB00385	Valrubicin	1	0	58
-DB00177	Valsartan	3	0	132
-DB00512	Vancomycin	0	0	96
-DB05294	Vandetanib	1	0	272
-DB04894	Vapreotide	0	0	13
-DB00862	Vardenafil	0	0	179
-DB01273	Varenicline	1	0	746
-DB01339	Vecuronium	0	0	55
-DB08881	Vemurafenib	2	0	548
-DB00285	Venlafaxine	0	2	602
-DB00661	Verapamil	2	0	193
-DB00460	Verteporfin	0	0	119
-DB00194	Vidarabine	0	0	138
-DB01080	Vigabatrin	1	0	234
-DB06684	Vilazodone	0	1	73
-DB04876	Vildagliptin	0	0	45
-DB00570	Vinblastine	7	0	594
-DB00541	Vincristine	7	0	453
-DB00309	Vindesine	0	0	54
-DB00361	Vinorelbine	4	0	396
-DB06827	Viomycin	0	0	3
-DB08828	Vismodegib	1	0	71
-DB00162	Vitamin A	0	0	109
-DB00126	Vitamin C	1	0	24
-DB00163	Vitamin E	0	0	27
-DB04877	Voacamine	0	0	8
-DB04878	Voglibose	0	0	3
-DB00582	Voriconazole	0	0	426
-DB02546	Vorinostat	1	0	580
-DB05389	WF10	1	0	13
-DB00682	Warfarin	0	0	29
-DB00137	Xanthophyll	0	0	1
-DB04898	Ximelagatran	0	0	2
-DB06694	Xylometazoline	0	0	12
-DB01392	Yohimbine	0	0	23
-DB00549	Zafirlukast	1	0	93
-DB00943	Zalcitabine	0	0	363
-DB00962	Zaleplon	0	0	302
-DB00558	Zanamivir	0	0	72
-DB00495	Zidovudine	1	0	224
-DB00744	Zileuton	1	0	72
-DB01593	Zinc	0	0	3
-DB00246	Ziprasidone	0	3	429
-DB00399	Zoledronate	2	0	246
-DB00315	Zolmitriptan	0	1	280
-DB00425	Zolpidem	0	1	346
-DB00909	Zonisamide	1	0	314
-DB01198	Zopiclone	0	2	284
-DB01624	Zuclopenthixol	0	0	224
+Q161459	(+)-1,2-diaminocyclohexane	0	0	3
+Q15222640	(+)-3-carene	0	0	1
+Q25366173	(+)-alpha-conhydrine	0	0	1
+Q24791131	(+)-alpha-fenchene	0	0	1
+Q5002336	(+)-butaclamol	0	0	7
+Q413147	(+)-phenylpropanolamine	3	0	3
+Q25933668	(+)-α-phellandrene	0	0	1
+Q4644282	(+/-)-8-hydroxy-2-(di-N-propylamino)tetralin	0	0	10
+Q3322838	(+/-)-benzphetamine	1	0	6
+Q5548658	(+/-)-gepefrine	0	0	1
+Q18206601	(+/-)-hydroxybupropion	0	0	1
+Q24791135	(-)-alpha-fenchene	0	0	1
+Q15222645	(-)-car-3-ene	0	0	1
+Q3011024	(-)-chiro-inositol	0	0	1
+Q407418	(-)-menthol	1	0	3
+Q415793	(-)-pentazocine	0	0	4
+Q23766753	(-)-perillaldehyde	0	0	1
+Q25933788	(-)-α-phellandrene	0	0	1
+Q24716723	(1E)-1,2-dichloroethylene	0	0	1
+Q15605490	(1R,2R)-(-)-cyclohexane-1,2-diamine	0	0	1
+Q15605498	(1R,2S)-cyclohexane-1,2-diamine	0	0	1
+Q15605495	(1S,2S)-(+)-cyclohexane-1,2-diamine	0	0	1
+Q24716849	(1Z)-1,2-dichloroethylene	0	0	1
+Q474880	(21R)-argatroban anhydrous	1	0	1
+Q15634124	(25R)-cholest-5-ene-3β,26-diol	0	0	3
+Q24735900	(2E)-2-octene	0	0	1
+Q22051489	(2E)-2-pentene	0	0	1
+Q27121163	(2R,4S)-ketoconazole	0	0	1
+Q23804965	(2S,3S)-diepoxybutane	0	0	1
+Q27120779	(2S,4R)-ketoconazole	0	0	1
+Q24736444	(2Z)-2-octene	0	0	1
+Q15726033	(2Z)-2-pentene	0	0	1
+Q27117099	(3R)-3-isopropenyl-6-oxoheptanoic acid	0	0	1
+Q307532	(3S)-3-hydroxy-3-methylglutaryl-CoA	0	0	1
+Q27132147	(E)-(-)-α-bergamotene	0	0	1
+Q425475	(E)-2,3-dimethylacrylic acid	0	0	1
+Q24735790	(E)-2-Octene	0	0	2
+Q3231623	(E)-cefprozil anhydrous	5	0	5
+Q2439845	(E)-crotamiton	1	0	1
+Q19279669	(E)-flumorph	0	0	1
+Q10910387	(E)-guggulsterone	0	0	1
+Q21971328	(E)-ranitidine	0	0	2
+Q15502367	(R)-(+)-1,1'-bi-2-naphthol	0	0	1
+Q6139100	(R)-2-pentanol	0	0	1
+Q22574124	(R)-3-phenyllactic acid	0	0	1
+Q417227	(R)-etiracetam	1	0	1
+Q412720	(R)-thioterpineol	0	0	1
+Q24757839	(R,S)-lactide	0	0	1
+Q27765319	(S)-(+)-3-octanol	0	0	1
+Q15502373	(S)-(-)-1,1'-Bi-2-naphthol	0	0	1
+Q20680358	(S)-2-pentanol	0	0	1
+Q27128592	(S)-timolol hemihydrate	0	0	1
+Q420350	(Z)-flupentixol	0	0	4
+Q21971331	(Z)-ranitidine	0	0	1
+Q4039091	(Z)-γ-bisabolene	0	0	1
+Q24715140	(−)-7,7-Dimethyl-2-methylenebicyclo[2.2.1]heptane	0	0	2
+Q161292	1,1'-bi-2-naphthol	0	0	2
+Q161475	1,2-dichloroethene	0	0	2
+Q5103143	1-(3-chlorophenyl)biguanide	0	0	1
+Q419405	1-(3-trifluoromethylphenyl)piperazine	0	0	8
+Q16856203	1-amino-4-((4-((4-chloro-6-((3-sulfophenyl)amino)-1,3,5-triazin-2-yl)amino)-3-sulfophenyl)amino)-9,10-dihydro-9,10-dioxo-2-anthracenesulfonic acid	0	0	4
+Q15409372	1-naphthylpiperazine	0	0	7
+Q26220987	1-p-menthene-8-thiol	0	0	1
+Q21099593	12-hydroxyheptadecatrienoic acid	0	0	1
+Q2823198	12S-HETE	0	0	1
+Q422416	17β-estradiol	6	0	11
+Q201090	2'-deoxyadenosine triphosphate	0	0	1
+Q28334819	2,2′,3,3′,4-pentachlorobiphenyl	0	0	1
+Q413719	2,3-xylidine	0	0	2
+Q4596780	2,4-Xylidine	0	0	1
+Q4353533	2,6-xylidine	0	0	1
+Q24755764	2-amino-4-methylpyridine	0	0	1
+Q4596857	2-aminoethoxydiphenylborate	0	0	11
+Q4596904	2-methyl-5-HT	0	0	5
+Q210479	2-pentanol	0	0	2
+Q22051121	2-pentene	0	0	2
+Q8083976	2-phenylpropylamine	0	0	1
+Q4596923	2-pyridineethanamine	0	0	1
+Q21099666	20-HETE	0	0	1
+Q21099648	3,20-pregnanedione	0	0	2
+Q4634089	3,5-dihydroxybenzoic acid	0	0	1
+Q410703	3-Iodo-Tyrosine	0	0	1
+Q15410220	3-O-methyldopa	0	0	1
+Q15425812	3-hydroxydecanoic acid	0	0	1
+Q21098993	3-indolepropionic acid	0	0	1
+Q4634151	3-iodotyrosine	0	0	2
+Q27133171	3-isopropenyl-6-oxoheptanoic acid	0	0	1
+Q26828654	3-methylbenzaldehyde	0	0	1
+Q27154917	3-octanol	0	0	1
+Q10395585	3-phenyllactic acid	0	0	1
+Q223068	3-quinuclidinyl-benzilate	0	0	5
+Q6460434	4-MPPTS	0	0	1
+Q6584634	4-[(1R)-1-aminoethyl]-N-pyridin-4-yl-1-cyclohexanecarboxamide	0	0	4
+Q1117888	4-[1-hydroxy-2-(1-phenoxypropan-2-ylamino)propyl]phenol	3	0	3
+Q207920	4-hydroxybutanoic acid	0	0	1
+Q209251	4-iodo-2,5-dimethoxyphenylisopropylamine	0	0	5
+Q4637182	4-methylhistamine	0	0	1
+Q3154065	5'-iodoresiniferatoxin	0	0	1
+Q5204515	5,7-dichlorokynurenic acid	0	0	6
+Q4639557	5-(nonyloxy)-tryptamine	0	0	1
+Q4639574	5-benzyloxytryptamine	0	0	1
+Q4639580	5-carboxamidotryptamine	0	0	11
+Q4653190	5-chloro-N2-(4-(4-(dimethylamino)-1-piperidinyl)-2-methoxyphenyl)-N4-(2-(dimethylphosphinyl)phenyl)-2,4-pyrimidinediamine	0	0	4
+Q4352011	5-methoxytryptamine	0	0	9
+Q2823230	5S-HETE	0	0	2
+Q2823231	5S-HPETE	0	0	1
+Q23928166	5α-androstane	0	0	1
+Q20707319	6-hydroxymelatonin	0	0	2
+Q4652499	6-iodopravadoline	0	0	1
+Q4596902	6-methyl-2-(phenylethynyl)pyridine	0	0	2
+Q6593984	7-hydroxy-2-(di-N-propylamino)tetralin	0	0	2
+Q4642875	7-nitroindazole	0	0	1
+Q155744	7α-hydroxycholesterol	0	0	1
+Q5280076	8-cyclopentyl-1,3-dipropylxanthine	0	0	4
+Q4644273	8-cyclopentyltheophylline	0	0	1
+Q12062335	ACET	0	0	1
+Q4651471	AFDX384	0	0	5
+Q471666	AIDA	0	0	1
+Q4652228	AL-37350A	0	0	3
+Q4652487	AM-1241	0	0	1
+Q15989037	AMP-PNP	0	0	1
+Q855474	AS-19	0	0	1
+Q2697833	Abatacept	1	0	1
+Q307088	Abciximab	1	0	1
+Q415602	Acetylide	0	0	1
+Q348260	Adalimumab	2	0	2
+Q4689286	Aflibercept	2	0	2
+Q20801779	Agalsidase beta	1	0	1
+Q2573513	Agglutinin	0	0	1
+Q20801763	Aldesleukin	6	0	6
+Q3609421	Alefacept	1	0	1
+Q420164	Alemtuzumab	1	0	1
+Q4724257	Alglucerase	2	0	2
+Q4063088	Alushtite	0	0	1
+Q19595872	Americium(II) bromide	0	0	1
+Q19595873	Americium(II) chloride	0	0	1
+Q19595874	Americium(II) iodide	0	0	1
+Q19595875	Americium(III) bromide	0	0	1
+Q19595876	Americium(III) fluoride	0	0	1
+Q19595877	Americium(III) iodide	0	0	1
+Q19595878	Americium(IV) fluoride	0	0	1
+Q415411	Anakinra	1	0	1
+Q4759444	Andrographolide	0	0	1
+Q4765471	Anistreplase	2	0	2
+Q20801759	Antihemophilic Factor	3	0	3
+Q420515	Antimony pentasulfide	0	0	1
+Q419889	Antimony pentoxide	0	0	1
+Q206765	Antimony tetroxide	0	0	1
+Q409041	Antimony trisulfide	0	0	1
+Q4202672	Antimony(V) iodide	0	0	1
+Q4778853	Ap4A	0	0	2
+Q3276683	Apiose	0	0	1
+Q7739	Arsenic trioxide	0	0	37
+Q421534	Asparaginase Erwinia chrysanthemi	2	0	2
+Q26272	Atropine	3	0	3
+Q21083261	Avelumab	8	0	8
+Q4834704	BAY 60-6583	0	0	4
+Q4874027	BAYK 8644	0	0	2
+Q4835633	BIBP3226	0	0	3
+Q4836835	BW723C86	0	0	3
+Q4860707	Baricitinib	0	0	2
+Q4134910	Barium boride	0	0	1
+Q4138814	Barium hypochlorite	0	0	1
+Q408892	Barium oxide	0	0	1
+Q20979871	Barium tungstate	0	0	1
+Q2313188	Becaplermin	1	0	1
+Q4882925	Belinostat	0	0	10
+Q4337150	Beryllium silicate	0	0	1
+Q416128	Beryllium telluride	0	0	1
+Q2993328	Beta-endorphin	0	0	2
+Q413299	Bevacizumab	3	0	3
+Q4917167	Bis(trimethylsilyl)sulfide	0	0	1
+Q4917166	Bis(triphenylphosphine)palladium(II) dichloride	0	0	1
+Q4919218	Bivalirudin	1	0	1
+Q415571	Bleomycin	6	0	6
+Q15709005	Botulinum Toxin Type B	1	0	1
+Q24745328	Bradykinin	0	0	2
+Q901968	Braunschweiger salmiak	0	0	1
+Q2512764	Bromopentacarbonylrhenium(I)	0	0	1
+Q5009400	CBiPES	0	0	1
+Q5009685	CCPA	0	0	4
+Q5009995	CDPPB	0	0	1
+Q5010994	CGS 15943	0	0	4
+Q15634053	CGS8216	0	0	5
+Q15410878	CHPG	0	0	1
+Q19903833	CID16020046	0	0	1
+Q5013583	CP 93129	0	0	1
+Q20707282	CP-122288	0	0	2
+Q5013587	CP94253	0	0	1
+Q5013612	CPCCOEt	0	0	1
+Q5014559	CTEP	0	0	1
+Q15627961	Cadmium dichlorate	0	0	1
+Q15627963	Cadmium phosphate	0	0	1
+Q4124798	Caesium tungstate	0	0	1
+Q5018826	Calcium Gluceptate	10	0	10
+Q907143	Calcium aluminates	0	0	1
+Q16533005	Calcium azide	0	0	1
+Q2330050	Calcium borate	0	0	1
+Q426156	Calcium hypophosphite	0	0	1
+Q2631244	Calcium nitride	0	0	1
+Q421408	Calcium phosphide	0	0	1
+Q416365	Calcium silicate	0	0	2
+Q3791889	Calcium silicate hydrate	0	0	1
+Q408464	Calcium sulfide	0	0	1
+Q4346070	Calcium titanate	0	0	1
+Q415909	Capreomycin	1	0	1
+Q415588	Carboplatin	11	0	11
+Q420875	Caspofungin	1	0	1
+Q2602246	Cefotetan	5	0	5
+Q808845	Ceftazidime	7	0	7
+Q411844	Cerium(IV) oxide	0	0	1
+Q416641	Cerium(IV) sulfate	0	0	1
+Q412909	Certolizumab pegol	1	0	1
+Q1032486	Chlorosilane	0	0	1
+Q423809	Chlorprothixene	3	0	3
+Q414030	Cladribine	4	0	4
+Q422273	Clindamycin	5	0	5
+Q5134843	Clocortolone	4	0	4
+Q25386465	Cobalt disilicide	0	0	1
+Q5138695	Cobalt(II) selenide	0	0	1
+Q416650	Cofactor F430	0	0	1
+Q899036	Colesevelam	4	0	4
+Q3294635	Colestipol	4	0	4
+Q418006	Colestyramine	4	0	4
+Q20817140	Colistimethate	2	0	2
+Q5145911	Collagenase clostridium histolyticum	1	0	1
+Q15023366	Copper indium gallium selenide	0	0	3
+Q195035	Copper silicide	0	0	1
+Q15627472	Copper(II) selenite	0	0	1
+Q252251	Cyanocobalamin	4	0	4
+Q23905964	D-glucose	0	0	2
+Q24757832	D-lactide	0	0	1
+Q421239	D-penicillamine	3	0	3
+Q20035962	D-proline	0	0	1
+Q424905	DADLE	0	0	2
+Q5204254	DAMGO	0	0	2
+Q5204500	DCG-IV	0	0	4
+Q5204539	DCPG	0	0	3
+Q4036893	DIDS	0	0	5
+Q7318276	DL-3,3',5'-triiodothyronine	0	0	2
+Q23570653	DL-3-O-methyldopa	0	0	1
+Q12159611	DL-TBOA	0	0	5
+Q2587934	DL-dipalmitoylphosphatidylcholine	0	0	1
+Q181136	DL-glutamic acid	0	0	1
+Q161249	DL-lactic acid	2	0	2
+Q421313	DL-lactide	0	0	3
+Q1851701	Dalteparin	4	0	4
+Q241006	Desmopressin	4	0	4
+Q772913	Devarda's alloy	0	0	1
+Q3706873	Dibekacin	0	0	1
+Q16644081	Dibromosilane	0	0	1
+Q414619	Dicalcium phosphate	0	0	1
+Q418556	Dichlorosilane	0	0	1
+Q16644597	Difluorosilane	0	0	1
+Q516785	Digallane	0	0	1
+Q16644176	Diiodosilane	0	0	1
+Q769109	Diphenylzinc	0	0	1
+Q16062374	Dipotassium tetrachlorozincate	0	0	1
+Q418221	Dirhenium decacarbonyl	0	0	1
+Q1989071	Dirithromycin	4	0	4
+Q2067922	Dornase alfa	1	0	1
+Q420191	Dysprosium(III) oxide	0	0	1
+Q15116137	Dysprosium(III)-bromide	0	0	1
+Q487086	E-6801	0	0	1
+Q5321366	E4031	0	0	2
+Q18388936	EMA401	0	0	1
+Q260375	EMD-386088	0	0	1
+Q258775	EMDT	0	0	6
+Q5323607	EMPA	0	0	1
+Q5323904	EPPTB	0	0	1
+Q5376331	Endogenous agonist	0	0	1
+Q20817199	Ephedra	2	0	2
+Q5383794	Epoetin alfa	1	0	1
+Q415343	Etanercept	3	0	3
+Q5402585	Eteplirsen	1	0	1
+Q15628186	Europium carbonate	0	0	1
+Q5931256	Europium(II) sulfide	0	0	1
+Q3063311	FLiBe	0	0	2
+Q498436	Fenamic acid	0	0	1
+Q3151081	Filgrastim	1	0	1
+Q413278	Fluoroantimonic acid	0	0	1
+Q16712763	Fluorosilane	0	0	1
+Q417942	Fluvastatin	3	0	5
+Q425293	Fosinopril	2	0	2
+Q5508491	Fulvestrant	1	0	1
+Q2467555	Furazolidone	5	0	5
+Q19597366	GR 196429	0	0	2
+Q5514393	GR 89696	0	0	1
+Q15409438	GW0742X	0	0	1
+Q5516416	Gadolinium(III) nitrate	0	0	1
+Q675176	Galinstan	0	0	3
+Q418807	Gallium antimonide	0	0	2
+Q411713	Gallium nitride	0	0	1
+Q4445839	Gallium(I) sulfide	0	0	1
+Q3954753	Gallium(II) selenide	0	0	2
+Q2616882	Gallium(II) sulfide	0	0	1
+Q4120050	Gallium(II) telluride	0	0	2
+Q2175117	Gallium(III) bromide	0	0	1
+Q2613252	Gallium(III) iodide	0	0	1
+Q419487	Gallium(III) oxide	0	0	1
+Q4119851	Gallium(III) selenide	0	0	2
+Q4445840	Gallium(III) sulfide	0	0	1
+Q4119710	Gallium(III) telluride	0	0	2
+Q5521314	Ganirelix	1	0	1
+Q20817212	Ginseng	1	0	1
+Q327506	Glucosamine	1	0	1
+Q4413546	Gold(III) selenate	0	0	1
+Q20817116	Gonadorelin	1	0	1
+Q5627831	H-89	0	0	1
+Q5772999	HTMT	0	0	1
+Q5636157	HU-243	0	0	1
+Q947595	Halofantrine	2	0	39
+Q19904197	Helium dimer	0	0	1
+Q19904198	Helium trimer	0	0	1
+Q1092934	Hexadecacarbonylhexarhodium	0	0	1
+Q411250	Hexafluorosilicic acid	0	0	1
+Q1032896	Hexamethyldisilane	0	0	1
+Q4134929	Hexaphenyldistannane	0	0	1
+Q16635985	Hexasilane	0	0	1
+Q20817118	Histamine Phosphate	1	0	1
+Q73972	Hydroxocobalamin	4	0	4
+Q413762	Hyoscyamine	5	0	5
+Q5970086	IDRA-21	0	0	4
+Q417403	ISOPENTENYL PYROPHOSPHATE	0	0	3
+Q5986553	Icodextrin	1	0	1
+Q2620206	Imiglucerase	2	0	2
+Q6004821	Immepip	0	0	2
+Q6004930	Immethridine	0	0	1
+Q6006255	Impentamine	0	0	1
+Q418616	Indium nitride	0	0	1
+Q417718	Indium tin oxide	0	0	2
+Q4096880	Indium(I) bromide	0	0	1
+Q415512	Indium(III) selenide	0	0	2
+Q421215	Indium(III) sulfide	0	0	1
+Q4119858	Indium(III) telluride	0	0	2
+Q415264	Infliximab	2	0	2
+Q3151473	Inosine triphosphate	0	0	1
+Q417317	Insulin Glargine	2	0	2
+Q3492616	Insulin Lispro	2	0	2
+Q6046446	Interferon alfa-n3	1	0	1
+Q2450337	Interferon beta-1a	1	0	1
+Q1851162	Interferon beta-1b	1	0	1
+Q582356	Interferon gamma-1b	2	0	2
+Q4445830	Iodo(thioxo)bismuthine	0	0	1
+Q4639618	Iodo-Willardiine	0	0	1
+Q16707472	Iododsilane	0	0	1
+Q6062315	Iodosilane	0	0	1
+Q2459042	Ipilimumab	1	0	1
+Q418812	Iridium(IV) oxide	0	0	1
+Q6072219	Iron(II) molybdate	0	0	1
+Q3809435	Iron(II) selenide	0	0	1
+Q415550	Isoprenaline	0	0	3
+Q411229	Itraconazole	16	0	22
+Q415178	Ivermectin	7	0	7
+Q13574436	Ixekizumab	0	0	1
+Q909405	JDTic	0	0	1
+Q6108577	JNJ-7777120	0	0	1
+Q6109195	JWH-133	0	0	1
+Q12161794	Joro toxin	0	0	3
+Q6374755	Kassinin	0	0	2
+Q407883	Ketoconazole	15	0	24
+Q6456065	L-371,257	0	0	1
+Q6456080	L-741,626	0	0	3
+Q6456083	L-759,633	0	0	1
+Q6456084	L-759,656	0	0	1
+Q6456085	L-765314	0	0	1
+Q8083967	L-822179	0	0	4
+Q6456086	L-838417	0	0	4
+Q6456089	L-AP4	0	0	4
+Q178450	L-Aspartic Acid	0	0	5
+Q408641	L-Citrulline	0	0	1
+Q410198	L-Ornithine	0	0	1
+Q170545	L-Phenylalanine	0	0	1
+Q20035886	L-Proline	0	0	1
+Q181003	L-Tryptophan	0	0	3
+Q24757824	L-lactide	0	0	1
+Q6456082	L745870	0	0	1
+Q855386	LP-12	0	0	4
+Q855410	LP-211	0	0	2
+Q855468	LP-44	0	0	4
+Q15409398	LY215840	0	0	1
+Q6460414	LY293284	0	0	1
+Q6460422	LY334370	0	0	2
+Q6460430	LY379268	0	0	3
+Q20801774	Laronidase	1	0	1
+Q3271949	Lepirudin	2	0	2
+Q416950	Levonorgestrel	1	0	2
+Q20744432	LiHe	0	0	1
+Q899107	Ligand in biochemistry	0	0	1
+Q930170	Liothyronine sodium	0	0	1
+Q6556102	Liotrix	0	0	1
+Q15726036	Lithium selenide	0	0	1
+Q423855	MT-II	0	0	4
+Q13566097	MTEP	0	0	1
+Q419991	Magaldrate	7	0	7
+Q421028	Magnesium silicide	0	0	1
+Q6748786	Manganese diselenide	0	0	1
+Q6748767	Manganese(II) molybdate	0	0	1
+Q6748770	Manganese(II) telluride	0	0	1
+Q6804390	Mecasermin	1	0	1
+Q416667	Medroxyprogesterone	0	0	1
+Q736270	Mefloquine	3	0	3
+Q412491	Mercury telluride	0	0	2
+Q172411	Mercury(I) oxide	0	0	1
+Q975274	Mercury(II) hydride	0	0	1
+Q978572	Methylsilane	0	0	1
+Q421058	Milnacipran	0	0	5
+Q15425819	Molybdenum diselenide	0	0	2
+Q2352958	Molybdenum disilicide	0	0	2
+Q4321618	Molybdenum nitride	0	0	1
+Q4445858	Molybdenum trisulfide	0	0	1
+Q4096882	Molybdenum(II) bromide	0	0	1
+Q3680968	Molybdenum(II) chloride	0	0	1
+Q4096883	Molybdenum(III) bromide	0	0	1
+Q14762162	Molybdenum(III) iodide	0	0	1
+Q16628040	Monobromosilane	0	0	1
+Q17310956	N,N-bis(trimethylsilyl)methanamine	0	0	1
+Q570757	N,N-dimethyl-5-methoxytryptamine	0	0	3
+Q23766508	N-hydroxy-3-[3-(phenylsulfamoyl)phenyl]-2-propenamide	0	0	1
+Q632856	N-methyl-D-aspartic acid	0	0	5
+Q905651	NAADP	0	0	2
+Q3869319	NADA	0	0	2
+Q6952318	NAN 190	0	0	5
+Q972076	NBQX	0	0	4
+Q6477036	NN-dimethyl-D-erythrosphingosine	0	0	1
+Q20707377	NPS-2143	0	0	1
+Q6955228	NS-398	0	0	1
+Q3869873	Nafarelin	2	0	2
+Q386119	Natalizumab	1	0	1
+Q414832	Neptunium(IV) oxide	0	0	1
+Q6997373	Nesiritide	1	0	1
+Q18211982	Nickel antimonide	0	0	2
+Q18211990	Nickel tungstate	0	0	1
+Q408445	Niobium monoxide	0	0	1
+Q2348812	Niobium nitride	0	0	1
+Q4332917	Niobium oxychloride	0	0	1
+Q4202659	Niobium pentaiodide	0	0	1
+Q419787	Niobium pentoxide	0	0	1
+Q15634204	Niobium triselenide	0	0	2
+Q6343237	Niobium(IV) chloride	0	0	1
+Q2311164	Niobium(V) bromide	0	0	1
+Q417510	Niobium(V) chloride	0	0	1
+Q7039308	Niobium(V) ethoxide	0	0	1
+Q2023440	Niobocene dichloride	0	0	1
+Q422669	Nitrofurantoin	2	0	2
+Q15295638	Norelgestromin	1	0	1
+Q25105466	Nusinersen	1	0	1
+Q251005	Nystatin	4	0	4
+Q15409358	O-1602	0	0	2
+Q4463	O-arachidonoyl ethanolamine	0	0	1
+Q209357	O-chlorobenzylidenemalononitrile	0	0	1
+Q2439424	O-tolualdehyde	0	0	1
+Q7101741	ORG-37684	0	0	3
+Q419935	Octreotide	4	0	4
+Q4332937	Oksopentahlororenievaya acid	0	0	1
+Q7083108	Olaratumab	0	0	1
+Q347621	Olsalazine	1	0	1
+Q415392	Omalizumab	1	0	1
+Q7101734	Org 12962	0	0	3
+Q7101736	Org27569	0	0	1
+Q2015243	Organogallium chemistry	0	0	1
+Q422327	Oxaliplatin	1	0	1
+Q5104342	Oxtriphylline	2	0	2
+Q420577	PAF	0	0	1
+Q7119049	PF-4800567	0	0	2
+Q7119054	PF-592379	0	0	2
+Q5007568	PKR inhibitor	0	0	1
+Q26763610	PLX7922	0	0	1
+Q14664567	PNU-120596	0	0	1
+Q265978	PRE-084	0	0	1
+Q7120732	PSN375963	0	0	1
+Q7120734	PSN632408	0	0	1
+Q2185009	Palladium on carbon	0	0	1
+Q7127719	Palladium tetrafluoride	0	0	1
+Q4505501	Palladium(II) cyanide	0	0	1
+Q2357676	Palladium(II) iodide	0	0	1
+Q20801767	Pegademase bovine	1	0	1
+Q7160547	Pegaspargase	3	0	3
+Q1592932	Pegfilgrastim	1	0	1
+Q409697	Pegvisomant	1	0	1
+Q4359344	Perftoran	0	0	2
+Q2710669	Perrhenic acid	0	0	1
+Q1649219	Phendimetrazine	1	0	6
+Q267896	Phenprocoumon	1	0	2
+Q2354337	Phosphatidyl serine	0	0	1
+Q3906700	Plicamycin	3	0	3
+Q411484	Plutonium tetrafluoride	0	0	1
+Q22075831	Podophyllin	5	0	5
+Q7225947	Polonium dibromide	0	0	1
+Q2377223	Polonium dichloride	0	0	1
+Q7225950	Polonium monoxide	0	0	1
+Q4498231	Polonium tetrachloride	0	0	1
+Q4096887	Polonium(IV) bromide	0	0	1
+Q4202664	Polonium(IV) iodide	0	0	1
+Q7226181	Polycarbophil calcium	2	0	2
+Q410083	Polyethylene glycol	1	0	1
+Q15708403	Poractant alfa	1	0	1
+Q906453	Posaconazole	1	0	1
+Q4300385	Potassium molybdate	0	0	1
+Q1631815	Potassium niobate	0	0	1
+Q1089194	Potassium nonahydridorhenate	0	0	1
+Q15632835	Potassium perrhenate	0	0	1
+Q10369545	Potassium selenocyanate	0	0	1
+Q419390	Potassium silicate	0	0	2
+Q2062094	Pramlintide	1	0	1
+Q1026374	Q1026374	0	0	1
+Q10863992	Q10863992	0	0	1
+Q10925139	Q10925139	0	0	1
+Q10925175	Q10925175	0	0	1
+Q13896593	Q13896593	0	0	1
+Q14773521	Q14773521	0	0	1
+Q14956810	Q14956810	0	0	1
+Q14965231	Q14965231	0	0	1
+Q15040821	Q15040821	0	0	1
+Q15069049	Q15069049	0	0	1
+Q15118238	Q15118238	0	0	1
+Q15627914	Q15627914	0	0	1
+Q15627930	Q15627930	0	0	1
+Q15627932	Q15627932	0	0	1
+Q15627936	Q15627936	0	0	1
+Q15627941	Q15627941	0	0	1
+Q15627942	Q15627942	0	0	1
+Q15627943	Q15627943	0	0	2
+Q15627945	Q15627945	0	0	1
+Q15627946	Q15627946	0	0	2
+Q15627947	Q15627947	0	0	1
+Q15627949	Q15627949	0	0	2
+Q15627951	Q15627951	0	0	2
+Q15627952	Q15627952	0	0	1
+Q15627953	Q15627953	0	0	1
+Q15627954	Q15627954	0	0	1
+Q15627955	Q15627955	0	0	1
+Q15627957	Q15627957	0	0	1
+Q15627958	Q15627958	0	0	1
+Q15627960	Q15627960	0	0	1
+Q15627962	Q15627962	0	0	1
+Q15627964	Q15627964	0	0	1
+Q15627965	Q15627965	0	0	1
+Q15627966	Q15627966	0	0	1
+Q15627967	Q15627967	0	0	1
+Q15627971	Q15627971	0	0	1
+Q15627972	Q15627972	0	0	1
+Q15627973	Q15627973	0	0	1
+Q15627974	Q15627974	0	0	1
+Q15627975	Q15627975	0	0	2
+Q15627976	Q15627976	0	0	1
+Q15627977	Q15627977	0	0	2
+Q15627978	Q15627978	0	0	1
+Q15627979	Q15627979	0	0	1
+Q15627980	Q15627980	0	0	1
+Q15627981	Q15627981	0	0	1
+Q15627982	Q15627982	0	0	1
+Q15627983	Q15627983	0	0	1
+Q15627984	Q15627984	0	0	1
+Q15627985	Q15627985	0	0	1
+Q15627987	Q15627987	0	0	1
+Q15627989	Q15627989	0	0	1
+Q15627993	Q15627993	0	0	1
+Q15627996	Q15627996	0	0	1
+Q15627998	Q15627998	0	0	2
+Q15628000	Q15628000	0	0	1
+Q15628025	Q15628025	0	0	1
+Q15628030	Q15628030	0	0	1
+Q15628032	Q15628032	0	0	1
+Q15628034	Q15628034	0	0	1
+Q15628035	Q15628035	0	0	1
+Q15628037	Q15628037	0	0	1
+Q15628038	Q15628038	0	0	1
+Q15628039	Q15628039	0	0	1
+Q15628041	Q15628041	0	0	1
+Q15628042	Q15628042	0	0	1
+Q15628043	Q15628043	0	0	1
+Q15628044	Q15628044	0	0	1
+Q15628046	Q15628046	0	0	1
+Q15628047	Q15628047	0	0	2
+Q15628049	Q15628049	0	0	2
+Q15628050	Q15628050	0	0	2
+Q15628051	Q15628051	0	0	2
+Q15628052	Q15628052	0	0	2
+Q15628053	Q15628053	0	0	1
+Q15628054	Q15628054	0	0	1
+Q15628055	Q15628055	0	0	1
+Q15628069	Q15628069	0	0	1
+Q15628070	Q15628070	0	0	1
+Q15628077	Q15628077	0	0	2
+Q15628079	Q15628079	0	0	2
+Q15628080	Q15628080	0	0	2
+Q15628081	Q15628081	0	0	1
+Q15628082	Q15628082	0	0	1
+Q15628083	Q15628083	0	0	1
+Q15628084	Q15628084	0	0	1
+Q15628086	Q15628086	0	0	2
+Q15628087	Q15628087	0	0	1
+Q15628091	Q15628091	0	0	1
+Q15628096	Q15628096	0	0	1
+Q15628098	Q15628098	0	0	1
+Q15628105	Q15628105	0	0	1
+Q15628115	Q15628115	0	0	1
+Q15628116	Q15628116	0	0	1
+Q15628117	Q15628117	0	0	1
+Q15628118	Q15628118	0	0	1
+Q15628119	Q15628119	0	0	1
+Q15628124	Q15628124	0	0	1
+Q15628126	Q15628126	0	0	1
+Q15628129	Q15628129	0	0	1
+Q15628140	Q15628140	0	0	1
+Q15628147	Q15628147	0	0	1
+Q15628164	Q15628164	0	0	1
+Q15628165	Q15628165	0	0	1
+Q15628166	Q15628166	0	0	1
+Q15628168	Q15628168	0	0	1
+Q15628178	Q15628178	0	0	1
+Q15628179	Q15628179	0	0	1
+Q15628180	Q15628180	0	0	1
+Q15628182	Q15628182	0	0	1
+Q15628183	Q15628183	0	0	1
+Q15628184	Q15628184	0	0	1
+Q15628185	Q15628185	0	0	1
+Q15628187	Q15628187	0	0	1
+Q15628188	Q15628188	0	0	1
+Q15628191	Q15628191	0	0	1
+Q15628192	Q15628192	0	0	1
+Q15628194	Q15628194	0	0	1
+Q15628195	Q15628195	0	0	1
+Q15628196	Q15628196	0	0	1
+Q15628197	Q15628197	0	0	1
+Q15628199	Q15628199	0	0	1
+Q15628200	Q15628200	0	0	2
+Q15628201	Q15628201	0	0	1
+Q15628202	Q15628202	0	0	1
+Q15628204	Q15628204	0	0	1
+Q15628206	Q15628206	0	0	1
+Q15628207	Q15628207	0	0	2
+Q15628212	Q15628212	0	0	2
+Q15628213	Q15628213	0	0	1
+Q15628214	Q15628214	0	0	2
+Q15628215	Q15628215	0	0	2
+Q15628216	Q15628216	0	0	1
+Q15628218	Q15628218	0	0	2
+Q15628219	Q15628219	0	0	1
+Q15628221	Q15628221	0	0	1
+Q15628222	Q15628222	0	0	1
+Q15628223	Q15628223	0	0	1
+Q15628225	Q15628225	0	0	1
+Q15628227	Q15628227	0	0	1
+Q15628229	Q15628229	0	0	1
+Q15628230	Q15628230	0	0	1
+Q15628231	Q15628231	0	0	2
+Q15628235	Q15628235	0	0	1
+Q15628236	Q15628236	0	0	1
+Q15628238	Q15628238	0	0	1
+Q15628241	Q15628241	0	0	1
+Q15628242	Q15628242	0	0	1
+Q15628244	Q15628244	0	0	1
+Q15628282	Q15628282	0	0	1
+Q15628317	Q15628317	0	0	1
+Q15628318	Q15628318	0	0	1
+Q15628319	Q15628319	0	0	1
+Q15628320	Q15628320	0	0	1
+Q15628324	Q15628324	0	0	1
+Q15628325	Q15628325	0	0	1
+Q15628326	Q15628326	0	0	1
+Q15628327	Q15628327	0	0	2
+Q15628328	Q15628328	0	0	1
+Q15628331	Q15628331	0	0	1
+Q15628332	Q15628332	0	0	1
+Q15628333	Q15628333	0	0	1
+Q15628334	Q15628334	0	0	1
+Q15628335	Q15628335	0	0	2
+Q15628337	Q15628337	0	0	2
+Q15628338	Q15628338	0	0	1
+Q15628340	Q15628340	0	0	1
+Q15628341	Q15628341	0	0	1
+Q15628342	Q15628342	0	0	1
+Q15628344	Q15628344	0	0	1
+Q15628346	Q15628346	0	0	1
+Q15628349	Q15628349	0	0	1
+Q15628351	Q15628351	0	0	2
+Q15628352	Q15628352	0	0	1
+Q15628354	Q15628354	0	0	1
+Q15628360	Q15628360	0	0	1
+Q15628361	Q15628361	0	0	1
+Q15628362	Q15628362	0	0	1
+Q15628367	Q15628367	0	0	1
+Q15628368	Q15628368	0	0	2
+Q15628369	Q15628369	0	0	2
+Q15628372	Q15628372	0	0	1
+Q15628373	Q15628373	0	0	1
+Q15628374	Q15628374	0	0	2
+Q15628375	Q15628375	0	0	1
+Q15628377	Q15628377	0	0	1
+Q15628378	Q15628378	0	0	1
+Q15628379	Q15628379	0	0	1
+Q15628380	Q15628380	0	0	1
+Q15628381	Q15628381	0	0	1
+Q15628382	Q15628382	0	0	1
+Q15628384	Q15628384	0	0	1
+Q15628385	Q15628385	0	0	2
+Q15628388	Q15628388	0	0	2
+Q15628389	Q15628389	0	0	2
+Q15628391	Q15628391	0	0	1
+Q15628406	Q15628406	0	0	1
+Q15628409	Q15628409	0	0	1
+Q15628434	Q15628434	0	0	1
+Q15628438	Q15628438	0	0	1
+Q15628439	Q15628439	0	0	1
+Q15629418	Q15629418	0	0	1
+Q15629419	Q15629419	0	0	1
+Q15630567	Q15630567	0	0	1
+Q15632856	Q15632856	0	0	1
+Q15632880	Q15632880	0	0	1
+Q15643847	Q15643847	0	0	1
+Q15643857	Q15643857	0	0	1
+Q15725524	Q15725524	0	0	1
+Q15725525	Q15725525	0	0	1
+Q15725526	Q15725526	0	0	1
+Q15725527	Q15725527	0	0	1
+Q15725536	Q15725536	0	0	1
+Q15725537	Q15725537	0	0	2
+Q15725538	Q15725538	0	0	1
+Q15725539	Q15725539	0	0	1
+Q15725540	Q15725540	0	0	2
+Q15725544	Q15725544	0	0	1
+Q15725545	Q15725545	0	0	1
+Q15725551	Q15725551	0	0	1
+Q15725552	Q15725552	0	0	1
+Q15725556	Q15725556	0	0	1
+Q15845715	Q15845715	0	0	1
+Q15966013	Q15966013	0	0	1
+Q15993180	Q15993180	0	0	2
+Q16524831	Q16524831	0	0	1
+Q16524834	Q16524834	0	0	1
+Q16524837	Q16524837	0	0	1
+Q16524916	Q16524916	0	0	1
+Q16534040	Q16534040	0	0	1
+Q16534043	Q16534043	0	0	2
+Q16626311	Q16626311	0	0	1
+Q16626316	Q16626316	0	0	1
+Q16635963	Q16635963	0	0	1
+Q16635969	Q16635969	0	0	1
+Q16635972	Q16635972	0	0	1
+Q16635981	Q16635981	0	0	1
+Q16635993	Q16635993	0	0	1
+Q16635998	Q16635998	0	0	1
+Q16636009	Q16636009	0	0	1
+Q16636240	Q16636240	0	0	1
+Q16636709	Q16636709	0	0	1
+Q16636743	Q16636743	0	0	1
+Q16644455	Q16644455	0	0	1
+Q16644576	Q16644576	0	0	1
+Q16644625	Q16644625	0	0	1
+Q16655234	Q16655234	0	0	1
+Q16661875	Q16661875	0	0	1
+Q16676035	Q16676035	0	0	1
+Q16676068	Q16676068	0	0	2
+Q16677451	Q16677451	0	0	1
+Q16681086	Q16681086	0	0	1
+Q16682758	Q16682758	0	0	1
+Q16682765	Q16682765	0	0	1
+Q16683482	Q16683482	0	0	2
+Q16685889	Q16685889	0	0	1
+Q16695987	Q16695987	0	0	2
+Q16695989	Q16695989	0	0	1
+Q16695999	Q16695999	0	0	2
+Q16696003	Q16696003	0	0	1
+Q16697617	Q16697617	0	0	1
+Q16697633	Q16697633	0	0	2
+Q16701694	Q16701694	0	0	2
+Q16701696	Q16701696	0	0	1
+Q16703007	Q16703007	0	0	1
+Q16703259	Q16703259	0	0	1
+Q16704573	Q16704573	0	0	1
+Q16705319	Q16705319	0	0	2
+Q16705321	Q16705321	0	0	1
+Q16705323	Q16705323	0	0	2
+Q16705822	Q16705822	0	0	1
+Q16705824	Q16705824	0	0	1
+Q16705832	Q16705832	0	0	1
+Q16705840	Q16705840	0	0	1
+Q16705858	Q16705858	0	0	1
+Q16706905	Q16706905	0	0	1
+Q16707512	Q16707512	0	0	1
+Q16707514	Q16707514	0	0	1
+Q16707516	Q16707516	0	0	1
+Q16712469	Q16712469	0	0	1
+Q16712471	Q16712471	0	0	1
+Q16712479	Q16712479	0	0	1
+Q16712736	Q16712736	0	0	1
+Q16712740	Q16712740	0	0	1
+Q16712744	Q16712744	0	0	1
+Q16712746	Q16712746	0	0	1
+Q16712756	Q16712756	0	0	1
+Q16714115	Q16714115	0	0	1
+Q16715938	Q16715938	0	0	1
+Q16715944	Q16715944	0	0	1
+Q16715969	Q16715969	0	0	1
+Q16854882	Q16854882	0	0	1
+Q16854883	Q16854883	0	0	1
+Q16913015	Q16913015	0	0	1
+Q16913036	Q16913036	0	0	1
+Q16913041	Q16913041	0	0	1
+Q17057130	Q17057130	0	0	1
+Q17057440	Q17057440	0	0	1
+Q1722251	Q1722251	0	0	2
+Q17325760	Q17325760	0	0	1
+Q17325761	Q17325761	0	0	1
+Q17325762	Q17325762	0	0	1
+Q17333369	Q17333369	0	0	1
+Q17462447	Q17462447	0	0	1
+Q17488178	Q17488178	0	0	1
+Q17494976	Q17494976	0	0	2
+Q17495006	Q17495006	0	0	2
+Q17549712	Q17549712	0	0	1
+Q17562755	Q17562755	0	0	1
+Q17562757	Q17562757	0	0	1
+Q17562759	Q17562759	0	0	1
+Q17562760	Q17562760	0	0	1
+Q17563002	Q17563002	0	0	1
+Q17563004	Q17563004	0	0	1
+Q17563009	Q17563009	0	0	1
+Q17563012	Q17563012	0	0	1
+Q17749247	Q17749247	0	0	1
+Q17749250	Q17749250	0	0	1
+Q17749522	Q17749522	0	0	1
+Q17749529	Q17749529	0	0	1
+Q17749533	Q17749533	0	0	1
+Q17749536	Q17749536	0	0	1
+Q17749540	Q17749540	0	0	1
+Q18086400	Q18086400	0	0	1
+Q18086439	Q18086439	0	0	1
+Q18086441	Q18086441	0	0	1
+Q18170415	Q18170415	0	0	1
+Q18170459	Q18170459	0	0	1
+Q18203024	Q18203024	0	0	1
+Q18203026	Q18203026	0	0	1
+Q18203066	Q18203066	0	0	1
+Q18211408	Q18211408	0	0	1
+Q18211435	Q18211435	0	0	2
+Q18211437	Q18211437	0	0	1
+Q18211439	Q18211439	0	0	2
+Q18211440	Q18211440	0	0	1
+Q18211442	Q18211442	0	0	2
+Q18211444	Q18211444	0	0	1
+Q18211445	Q18211445	0	0	2
+Q18211446	Q18211446	0	0	2
+Q18211450	Q18211450	0	0	1
+Q18211466	Q18211466	0	0	2
+Q18211468	Q18211468	0	0	1
+Q18211470	Q18211470	0	0	1
+Q18211472	Q18211472	0	0	1
+Q18211477	Q18211477	0	0	1
+Q18211493	Q18211493	0	0	1
+Q18211495	Q18211495	0	0	1
+Q18211497	Q18211497	0	0	1
+Q18211503	Q18211503	0	0	1
+Q18211507	Q18211507	0	0	1
+Q18211508	Q18211508	0	0	2
+Q18211510	Q18211510	0	0	2
+Q18211516	Q18211516	0	0	1
+Q18211518	Q18211518	0	0	2
+Q18211520	Q18211520	0	0	1
+Q18211535	Q18211535	0	0	1
+Q18211537	Q18211537	0	0	1
+Q18211539	Q18211539	0	0	2
+Q18211540	Q18211540	0	0	2
+Q18211543	Q18211543	0	0	1
+Q18211576	Q18211576	0	0	1
+Q18211578	Q18211578	0	0	1
+Q18211586	Q18211586	0	0	1
+Q18211590	Q18211590	0	0	1
+Q18211592	Q18211592	0	0	1
+Q18211595	Q18211595	0	0	1
+Q18211597	Q18211597	0	0	1
+Q18211607	Q18211607	0	0	1
+Q18211609	Q18211609	0	0	1
+Q18211611	Q18211611	0	0	1
+Q18211613	Q18211613	0	0	1
+Q18211615	Q18211615	0	0	1
+Q18211621	Q18211621	0	0	1
+Q18211624	Q18211624	0	0	1
+Q18211626	Q18211626	0	0	1
+Q18211629	Q18211629	0	0	1
+Q18211634	Q18211634	0	0	1
+Q18211696	Q18211696	0	0	1
+Q18211712	Q18211712	0	0	1
+Q18211726	Q18211726	0	0	1
+Q18211735	Q18211735	0	0	1
+Q18211737	Q18211737	0	0	1
+Q18211766	Q18211766	0	0	1
+Q18211795	Q18211795	0	0	1
+Q18211797	Q18211797	0	0	1
+Q18211801	Q18211801	0	0	1
+Q18211802	Q18211802	0	0	1
+Q18211819	Q18211819	0	0	1
+Q18211821	Q18211821	0	0	1
+Q18211823	Q18211823	0	0	1
+Q18211825	Q18211825	0	0	1
+Q18211826	Q18211826	0	0	1
+Q18211828	Q18211828	0	0	1
+Q18211831	Q18211831	0	0	1
+Q18211834	Q18211834	0	0	2
+Q18211836	Q18211836	0	0	1
+Q18211848	Q18211848	0	0	1
+Q18211852	Q18211852	0	0	1
+Q18211859	Q18211859	0	0	1
+Q18211864	Q18211864	0	0	1
+Q18211865	Q18211865	0	0	1
+Q18211868	Q18211868	0	0	1
+Q18211869	Q18211869	0	0	1
+Q18211874	Q18211874	0	0	1
+Q18211875	Q18211875	0	0	1
+Q18211878	Q18211878	0	0	1
+Q18211881	Q18211881	0	0	1
+Q18211882	Q18211882	0	0	1
+Q18211888	Q18211888	0	0	2
+Q18211890	Q18211890	0	0	1
+Q18211891	Q18211891	0	0	2
+Q18211893	Q18211893	0	0	1
+Q18211895	Q18211895	0	0	2
+Q18211896	Q18211896	0	0	1
+Q18211898	Q18211898	0	0	1
+Q18211900	Q18211900	0	0	1
+Q18211901	Q18211901	0	0	1
+Q18211903	Q18211903	0	0	1
+Q18211904	Q18211904	0	0	2
+Q18211905	Q18211905	0	0	2
+Q18211906	Q18211906	0	0	1
+Q18211907	Q18211907	0	0	1
+Q18211908	Q18211908	0	0	1
+Q18211909	Q18211909	0	0	1
+Q18211910	Q18211910	0	0	1
+Q18211911	Q18211911	0	0	1
+Q18211912	Q18211912	0	0	1
+Q18211913	Q18211913	0	0	1
+Q18211914	Q18211914	0	0	2
+Q18211915	Q18211915	0	0	2
+Q18211917	Q18211917	0	0	1
+Q18211918	Q18211918	0	0	1
+Q18211921	Q18211921	0	0	1
+Q18211922	Q18211922	0	0	1
+Q18211923	Q18211923	0	0	1
+Q18211924	Q18211924	0	0	1
+Q18211925	Q18211925	0	0	2
+Q18211926	Q18211926	0	0	1
+Q18211927	Q18211927	0	0	1
+Q18211928	Q18211928	0	0	2
+Q18211929	Q18211929	0	0	3
+Q18211930	Q18211930	0	0	1
+Q18211931	Q18211931	0	0	2
+Q18211932	Q18211932	0	0	1
+Q18211933	Q18211933	0	0	1
+Q18211934	Q18211934	0	0	2
+Q18211935	Q18211935	0	0	2
+Q18211937	Q18211937	0	0	1
+Q18211938	Q18211938	0	0	1
+Q18211939	Q18211939	0	0	2
+Q18211940	Q18211940	0	0	2
+Q18211941	Q18211941	0	0	1
+Q18211942	Q18211942	0	0	2
+Q18211943	Q18211943	0	0	1
+Q18211944	Q18211944	0	0	1
+Q18211945	Q18211945	0	0	1
+Q18211946	Q18211946	0	0	1
+Q18211947	Q18211947	0	0	1
+Q18211948	Q18211948	0	0	1
+Q18211949	Q18211949	0	0	1
+Q18211950	Q18211950	0	0	1
+Q18211951	Q18211951	0	0	1
+Q18211952	Q18211952	0	0	1
+Q18211953	Q18211953	0	0	1
+Q18211954	Q18211954	0	0	1
+Q18211955	Q18211955	0	0	1
+Q18211956	Q18211956	0	0	1
+Q18211957	Q18211957	0	0	1
+Q18211958	Q18211958	0	0	1
+Q18211959	Q18211959	0	0	1
+Q18211960	Q18211960	0	0	2
+Q18211961	Q18211961	0	0	1
+Q18211962	Q18211962	0	0	1
+Q18211963	Q18211963	0	0	1
+Q18211964	Q18211964	0	0	1
+Q18211965	Q18211965	0	0	1
+Q18211966	Q18211966	0	0	1
+Q18211967	Q18211967	0	0	2
+Q18211968	Q18211968	0	0	2
+Q18211969	Q18211969	0	0	1
+Q18211980	Q18211980	0	0	1
+Q18211981	Q18211981	0	0	2
+Q18211983	Q18211983	0	0	2
+Q18211984	Q18211984	0	0	1
+Q18211985	Q18211985	0	0	1
+Q18211986	Q18211986	0	0	1
+Q18211987	Q18211987	0	0	1
+Q18211988	Q18211988	0	0	1
+Q18211991	Q18211991	0	0	1
+Q18211992	Q18211992	0	0	1
+Q18211993	Q18211993	0	0	2
+Q18211994	Q18211994	0	0	2
+Q18211995	Q18211995	0	0	2
+Q18211996	Q18211996	0	0	1
+Q18211997	Q18211997	0	0	1
+Q18211998	Q18211998	0	0	1
+Q18211999	Q18211999	0	0	1
+Q18212000	Q18212000	0	0	2
+Q18212001	Q18212001	0	0	1
+Q18212008	Q18212008	0	0	1
+Q18212010	Q18212010	0	0	1
+Q18212011	Q18212011	0	0	1
+Q18212012	Q18212012	0	0	1
+Q18212013	Q18212013	0	0	1
+Q18212016	Q18212016	0	0	1
+Q18212017	Q18212017	0	0	1
+Q18212018	Q18212018	0	0	1
+Q18212019	Q18212019	0	0	1
+Q18212022	Q18212022	0	0	1
+Q18212023	Q18212023	0	0	1
+Q18212024	Q18212024	0	0	1
+Q18212025	Q18212025	0	0	1
+Q18212028	Q18212028	0	0	1
+Q18212029	Q18212029	0	0	1
+Q18212030	Q18212030	0	0	1
+Q18212031	Q18212031	0	0	2
+Q18212033	Q18212033	0	0	1
+Q18212034	Q18212034	0	0	1
+Q18212035	Q18212035	0	0	1
+Q18212037	Q18212037	0	0	1
+Q18212038	Q18212038	0	0	1
+Q18212039	Q18212039	0	0	1
+Q18212040	Q18212040	0	0	1
+Q18212041	Q18212041	0	0	1
+Q18212042	Q18212042	0	0	1
+Q18212044	Q18212044	0	0	1
+Q18212045	Q18212045	0	0	2
+Q18212046	Q18212046	0	0	1
+Q18212047	Q18212047	0	0	1
+Q18212048	Q18212048	0	0	1
+Q18212049	Q18212049	0	0	1
+Q18212050	Q18212050	0	0	1
+Q18212052	Q18212052	0	0	1
+Q18212053	Q18212053	0	0	1
+Q18212056	Q18212056	0	0	1
+Q18212057	Q18212057	0	0	1
+Q18212058	Q18212058	0	0	1
+Q18212059	Q18212059	0	0	2
+Q18212060	Q18212060	0	0	1
+Q18212064	Q18212064	0	0	1
+Q18212067	Q18212067	0	0	1
+Q18212068	Q18212068	0	0	1
+Q18212070	Q18212070	0	0	1
+Q18212073	Q18212073	0	0	1
+Q18212074	Q18212074	0	0	1
+Q18212076	Q18212076	0	0	1
+Q18212081	Q18212081	0	0	2
+Q18212084	Q18212084	0	0	1
+Q18212088	Q18212088	0	0	1
+Q18212090	Q18212090	0	0	1
+Q18212108	Q18212108	0	0	1
+Q18212109	Q18212109	0	0	1
+Q18212110	Q18212110	0	0	2
+Q18212114	Q18212114	0	0	1
+Q18212118	Q18212118	0	0	1
+Q18212120	Q18212120	0	0	1
+Q18212124	Q18212124	0	0	1
+Q18212127	Q18212127	0	0	1
+Q18212128	Q18212128	0	0	1
+Q18212129	Q18212129	0	0	1
+Q18212130	Q18212130	0	0	1
+Q18212131	Q18212131	0	0	1
+Q18212136	Q18212136	0	0	2
+Q18212142	Q18212142	0	0	1
+Q18212143	Q18212143	0	0	1
+Q18212144	Q18212144	0	0	1
+Q18212146	Q18212146	0	0	2
+Q18212147	Q18212147	0	0	1
+Q18212148	Q18212148	0	0	1
+Q18212151	Q18212151	0	0	1
+Q18212152	Q18212152	0	0	1
+Q18212153	Q18212153	0	0	1
+Q18212155	Q18212155	0	0	1
+Q18212156	Q18212156	0	0	1
+Q18212158	Q18212158	0	0	1
+Q18212159	Q18212159	0	0	1
+Q18212160	Q18212160	0	0	1
+Q18212162	Q18212162	0	0	1
+Q18212170	Q18212170	0	0	1
+Q18212179	Q18212179	0	0	1
+Q18212180	Q18212180	0	0	1
+Q18212183	Q18212183	0	0	2
+Q18212185	Q18212185	0	0	1
+Q18212188	Q18212188	0	0	1
+Q18212191	Q18212191	0	0	1
+Q18212210	Q18212210	0	0	1
+Q18212211	Q18212211	0	0	1
+Q18212215	Q18212215	0	0	1
+Q18212216	Q18212216	0	0	1
+Q18212217	Q18212217	0	0	1
+Q18212223	Q18212223	0	0	1
+Q18212225	Q18212225	0	0	1
+Q18212227	Q18212227	0	0	1
+Q18212232	Q18212232	0	0	1
+Q18212242	Q18212242	0	0	1
+Q18212246	Q18212246	0	0	2
+Q18212248	Q18212248	0	0	2
+Q18212250	Q18212250	0	0	2
+Q18399451	Q18399451	0	0	1
+Q18400166	Q18400166	0	0	1
+Q18401832	Q18401832	0	0	1
+Q18405343	Q18405343	0	0	1
+Q18405346	Q18405346	0	0	1
+Q18405475	Q18405475	0	0	1
+Q18405535	Q18405535	0	0	1
+Q18405968	Q18405968	0	0	1
+Q18406965	Q18406965	0	0	1
+Q18407753	Q18407753	0	0	1
+Q18409591	Q18409591	0	0	1
+Q18590293	Q18590293	0	0	1
+Q18590308	Q18590308	0	0	1
+Q18590312	Q18590312	0	0	1
+Q18590316	Q18590316	0	0	1
+Q18590317	Q18590317	0	0	1
+Q18590444	Q18590444	0	0	1
+Q18590457	Q18590457	0	0	1
+Q18649579	Q18649579	0	0	1
+Q18649581	Q18649581	0	0	1
+Q18649666	Q18649666	0	0	1
+Q18649669	Q18649669	0	0	1
+Q18747564	Q18747564	0	0	1
+Q18747580	Q18747580	0	0	1
+Q18747593	Q18747593	0	0	1
+Q18747599	Q18747599	0	0	1
+Q19365941	Q19365941	0	0	1
+Q19365963	Q19365963	0	0	1
+Q19365965	Q19365965	0	0	1
+Q19366023	Q19366023	0	0	1
+Q19366031	Q19366031	0	0	1
+Q19366040	Q19366040	0	0	1
+Q19366065	Q19366065	0	0	1
+Q19521743	Q19521743	0	0	1
+Q19521747	Q19521747	0	0	1
+Q19521749	Q19521749	0	0	1
+Q19521755	Q19521755	0	0	1
+Q19613217	Q19613217	0	0	2
+Q19613219	Q19613219	0	0	2
+Q19613221	Q19613221	0	0	1
+Q19613223	Q19613223	0	0	2
+Q19613282	Q19613282	0	0	1
+Q19613333	Q19613333	0	0	1
+Q19613966	Q19613966	0	0	1
+Q19614430	Q19614430	0	0	1
+Q19614431	Q19614431	0	0	1
+Q19614432	Q19614432	0	0	1
+Q19614438	Q19614438	0	0	1
+Q19614441	Q19614441	0	0	1
+Q19614442	Q19614442	0	0	1
+Q19614445	Q19614445	0	0	1
+Q19614446	Q19614446	0	0	1
+Q19614464	Q19614464	0	0	1
+Q19614465	Q19614465	0	0	2
+Q19614801	Q19614801	0	0	1
+Q19614804	Q19614804	0	0	2
+Q19614805	Q19614805	0	0	2
+Q19614809	Q19614809	0	0	1
+Q19614813	Q19614813	0	0	1
+Q19614944	Q19614944	0	0	2
+Q19614948	Q19614948	0	0	1
+Q19614950	Q19614950	0	0	2
+Q19614955	Q19614955	0	0	1
+Q19614993	Q19614993	0	0	1
+Q19614998	Q19614998	0	0	2
+Q19615000	Q19615000	0	0	2
+Q19615007	Q19615007	0	0	1
+Q19615023	Q19615023	0	0	1
+Q19616215	Q19616215	0	0	1
+Q1969751	Q1969751	0	0	1
+Q19742286	Q19742286	0	0	2
+Q19742308	Q19742308	0	0	1
+Q19742315	Q19742315	0	0	1
+Q19743870	Q19743870	0	0	1
+Q1977472	Q1977472	0	0	1
+Q1977479	Q1977479	0	0	1
+Q19819590	Q19819590	0	0	1
+Q20165305	Q20165305	0	0	1
+Q20165307	Q20165307	0	0	1
+Q20165313	Q20165313	0	0	1
+Q2032013	Q2032013	0	0	1
+Q2047949	Q2047949	0	0	1
+Q2047953	Q2047953	0	0	1
+Q204968	Q204968	0	0	1
+Q2069354	Q2069354	0	0	1
+Q20968976	Q20968976	0	0	1
+Q20979576	Q20979576	0	0	1
+Q20979769	Q20979769	0	0	1
+Q20979770	Q20979770	0	0	1
+Q20979771	Q20979771	0	0	1
+Q20979772	Q20979772	0	0	1
+Q20979773	Q20979773	0	0	1
+Q20979774	Q20979774	0	0	1
+Q20979775	Q20979775	0	0	1
+Q20979776	Q20979776	0	0	1
+Q20979777	Q20979777	0	0	1
+Q20979778	Q20979778	0	0	1
+Q20979781	Q20979781	0	0	1
+Q20979782	Q20979782	0	0	1
+Q20979783	Q20979783	0	0	1
+Q20979784	Q20979784	0	0	1
+Q20979785	Q20979785	0	0	1
+Q20979786	Q20979786	0	0	1
+Q20979790	Q20979790	0	0	1
+Q20979791	Q20979791	0	0	1
+Q20979795	Q20979795	0	0	1
+Q20979796	Q20979796	0	0	1
+Q20979797	Q20979797	0	0	1
+Q20979800	Q20979800	0	0	1
+Q20979801	Q20979801	0	0	1
+Q20979802	Q20979802	0	0	1
+Q20979803	Q20979803	0	0	1
+Q20979857	Q20979857	0	0	1
+Q20979858	Q20979858	0	0	1
+Q20979859	Q20979859	0	0	1
+Q20979860	Q20979860	0	0	1
+Q20979861	Q20979861	0	0	1
+Q20979873	Q20979873	0	0	2
+Q20979877	Q20979877	0	0	2
+Q20979880	Q20979880	0	0	1
+Q20980330	Q20980330	0	0	1
+Q20980331	Q20980331	0	0	2
+Q20980332	Q20980332	0	0	1
+Q20980333	Q20980333	0	0	1
+Q20980334	Q20980334	0	0	1
+Q20980603	Q20980603	0	0	2
+Q20980613	Q20980613	0	0	1
+Q20980617	Q20980617	0	0	1
+Q20980632	Q20980632	0	0	1
+Q20980633	Q20980633	0	0	1
+Q20980815	Q20980815	0	0	1
+Q20980860	Q20980860	0	0	2
+Q20980861	Q20980861	0	0	2
+Q20982326	Q20982326	0	0	1
+Q20982327	Q20982327	0	0	1
+Q20982328	Q20982328	0	0	1
+Q20982329	Q20982329	0	0	1
+Q20982330	Q20982330	0	0	1
+Q20982331	Q20982331	0	0	2
+Q20982332	Q20982332	0	0	1
+Q20982333	Q20982333	0	0	1
+Q20984953	Q20984953	0	0	1
+Q20984954	Q20984954	0	0	1
+Q20984955	Q20984955	0	0	1
+Q20984956	Q20984956	0	0	1
+Q20984957	Q20984957	0	0	1
+Q20984959	Q20984959	0	0	1
+Q20984960	Q20984960	0	0	1
+Q20986106	Q20986106	0	0	1
+Q20986108	Q20986108	0	0	2
+Q20986110	Q20986110	0	0	1
+Q20986129	Q20986129	0	0	1
+Q20986130	Q20986130	0	0	1
+Q20986132	Q20986132	0	0	1
+Q20986134	Q20986134	0	0	1
+Q20986136	Q20986136	0	0	1
+Q20986138	Q20986138	0	0	1
+Q20986141	Q20986141	0	0	1
+Q20986143	Q20986143	0	0	1
+Q20986145	Q20986145	0	0	1
+Q20986147	Q20986147	0	0	1
+Q20986165	Q20986165	0	0	1
+Q20986167	Q20986167	0	0	1
+Q20986170	Q20986170	0	0	1
+Q20986172	Q20986172	0	0	1
+Q20986174	Q20986174	0	0	1
+Q20986176	Q20986176	0	0	1
+Q20986178	Q20986178	0	0	2
+Q20986182	Q20986182	0	0	1
+Q20986184	Q20986184	0	0	1
+Q20986187	Q20986187	0	0	1
+Q20986189	Q20986189	0	0	1
+Q20986191	Q20986191	0	0	1
+Q20986195	Q20986195	0	0	1
+Q20986198	Q20986198	0	0	1
+Q20986202	Q20986202	0	0	1
+Q20986204	Q20986204	0	0	1
+Q20986207	Q20986207	0	0	1
+Q20986209	Q20986209	0	0	1
+Q20986211	Q20986211	0	0	1
+Q20986213	Q20986213	0	0	1
+Q20986215	Q20986215	0	0	1
+Q20986217	Q20986217	0	0	1
+Q20986219	Q20986219	0	0	1
+Q20986222	Q20986222	0	0	1
+Q20986224	Q20986224	0	0	1
+Q20986226	Q20986226	0	0	1
+Q20986228	Q20986228	0	0	1
+Q20986775	Q20986775	0	0	1
+Q20986776	Q20986776	0	0	1
+Q20986777	Q20986777	0	0	1
+Q20986778	Q20986778	0	0	1
+Q20986789	Q20986789	0	0	1
+Q20986790	Q20986790	0	0	1
+Q20986791	Q20986791	0	0	1
+Q20986792	Q20986792	0	0	1
+Q20986793	Q20986793	0	0	1
+Q20986794	Q20986794	0	0	1
+Q20986795	Q20986795	0	0	1
+Q20986796	Q20986796	0	0	1
+Q20986797	Q20986797	0	0	1
+Q20986798	Q20986798	0	0	1
+Q20986799	Q20986799	0	0	1
+Q20992449	Q20992449	0	0	1
+Q20993642	Q20993642	0	0	1
+Q21001744	Q21001744	0	0	1
+Q21001745	Q21001745	0	0	1
+Q21001747	Q21001747	0	0	1
+Q21001749	Q21001749	0	0	1
+Q21001815	Q21001815	0	0	1
+Q21004290	Q21004290	0	0	1
+Q21007382	Q21007382	0	0	2
+Q21007388	Q21007388	0	0	2
+Q21007389	Q21007389	0	0	2
+Q21007390	Q21007390	0	0	2
+Q21007391	Q21007391	0	0	1
+Q21007392	Q21007392	0	0	1
+Q21007393	Q21007393	0	0	2
+Q21007394	Q21007394	0	0	2
+Q21007404	Q21007404	0	0	2
+Q21007405	Q21007405	0	0	2
+Q21007406	Q21007406	0	0	2
+Q21007478	Q21007478	0	0	1
+Q21009873	Q21009873	0	0	1
+Q21009934	Q21009934	0	0	1
+Q21009935	Q21009935	0	0	1
+Q21009939	Q21009939	0	0	1
+Q21009942	Q21009942	0	0	1
+Q21009943	Q21009943	0	0	1
+Q21009946	Q21009946	0	0	1
+Q21009968	Q21009968	0	0	1
+Q21009969	Q21009969	0	0	1
+Q21009971	Q21009971	0	0	1
+Q21009972	Q21009972	0	0	1
+Q21009974	Q21009974	0	0	1
+Q21009975	Q21009975	0	0	1
+Q21009976	Q21009976	0	0	1
+Q21009982	Q21009982	0	0	1
+Q21009983	Q21009983	0	0	1
+Q21009999	Q21009999	0	0	2
+Q21010000	Q21010000	0	0	1
+Q21010001	Q21010001	0	0	1
+Q21010002	Q21010002	0	0	2
+Q21010283	Q21010283	0	0	1
+Q21010299	Q21010299	0	0	2
+Q21010301	Q21010301	0	0	1
+Q21010305	Q21010305	0	0	2
+Q21010314	Q21010314	0	0	2
+Q21010318	Q21010318	0	0	1
+Q21010321	Q21010321	0	0	1
+Q21010323	Q21010323	0	0	1
+Q21010325	Q21010325	0	0	1
+Q21010329	Q21010329	0	0	1
+Q21010533	Q21010533	0	0	1
+Q21010534	Q21010534	0	0	1
+Q21010535	Q21010535	0	0	2
+Q21010536	Q21010536	0	0	1
+Q21010538	Q21010538	0	0	1
+Q21010539	Q21010539	0	0	1
+Q21010540	Q21010540	0	0	2
+Q21010541	Q21010541	0	0	1
+Q21010542	Q21010542	0	0	1
+Q21010552	Q21010552	0	0	2
+Q21010554	Q21010554	0	0	1
+Q21010555	Q21010555	0	0	2
+Q21010556	Q21010556	0	0	1
+Q21010557	Q21010557	0	0	1
+Q21010558	Q21010558	0	0	1
+Q21010559	Q21010559	0	0	1
+Q21010560	Q21010560	0	0	2
+Q21010561	Q21010561	0	0	1
+Q21010584	Q21010584	0	0	2
+Q21010585	Q21010585	0	0	2
+Q21010589	Q21010589	0	0	2
+Q21010591	Q21010591	0	0	1
+Q21010592	Q21010592	0	0	2
+Q21010607	Q21010607	0	0	2
+Q21010609	Q21010609	0	0	2
+Q21010611	Q21010611	0	0	1
+Q21010613	Q21010613	0	0	1
+Q21010614	Q21010614	0	0	1
+Q21010615	Q21010615	0	0	1
+Q21010622	Q21010622	0	0	1
+Q21010623	Q21010623	0	0	1
+Q21010624	Q21010624	0	0	1
+Q21010630	Q21010630	0	0	1
+Q21010631	Q21010631	0	0	1
+Q21010642	Q21010642	0	0	2
+Q21010643	Q21010643	0	0	2
+Q21010644	Q21010644	0	0	1
+Q21010651	Q21010651	0	0	1
+Q26207741	Q26207741	0	0	1
+Q26207742	Q26207742	0	0	1
+Q26207743	Q26207743	0	0	1
+Q26207744	Q26207744	0	0	1
+Q26207745	Q26207745	0	0	1
+Q26207746	Q26207746	0	0	1
+Q26207747	Q26207747	0	0	1
+Q26207751	Q26207751	0	0	1
+Q26207752	Q26207752	0	0	1
+Q26207758	Q26207758	0	0	1
+Q26207759	Q26207759	0	0	1
+Q26207760	Q26207760	0	0	1
+Q26207761	Q26207761	0	0	1
+Q26207763	Q26207763	0	0	1
+Q26207764	Q26207764	0	0	1
+Q26207773	Q26207773	0	0	1
+Q26207774	Q26207774	0	0	1
+Q26207775	Q26207775	0	0	2
+Q26207776	Q26207776	0	0	2
+Q26207777	Q26207777	0	0	1
+Q26207782	Q26207782	0	0	1
+Q26207783	Q26207783	0	0	1
+Q3342228	Q3342228	0	0	1
+Q3618715	Q3618715	0	0	1
+Q3746859	Q3746859	0	0	1
+Q4063726	Q4063726	0	0	1
+Q4064280	Q4064280	0	0	1
+Q4064281	Q4064281	0	0	1
+Q4064283	Q4064283	0	0	1
+Q4064285	Q4064285	0	0	1
+Q4067024	Q4067024	0	0	1
+Q4067025	Q4067025	0	0	2
+Q4069955	Q4069955	0	0	1
+Q4073298	Q4073298	0	0	1
+Q4073301	Q4073301	0	0	1
+Q4087265	Q4087265	0	0	1
+Q4093687	Q4093687	0	0	1
+Q4093688	Q4093688	0	0	1
+Q4093690	Q4093690	0	0	1
+Q4096863	Q4096863	0	0	1
+Q4096864	Q4096864	0	0	1
+Q4096868	Q4096868	0	0	1
+Q4096869	Q4096869	0	0	1
+Q4096876	Q4096876	0	0	1
+Q4096877	Q4096877	0	0	1
+Q4096878	Q4096878	0	0	1
+Q4096879	Q4096879	0	0	1
+Q4096884	Q4096884	0	0	1
+Q4096885	Q4096885	0	0	1
+Q4096897	Q4096897	0	0	1
+Q4096898	Q4096898	0	0	1
+Q4124796	Q4124796	0	0	1
+Q4134912	Q4134912	0	0	1
+Q4134927	Q4134927	0	0	1
+Q4134933	Q4134933	0	0	1
+Q4134935	Q4134935	0	0	1
+Q4134939	Q4134939	0	0	1
+Q4134943	Q4134943	0	0	1
+Q4134944	Q4134944	0	0	1
+Q4134946	Q4134946	0	0	1
+Q4134950	Q4134950	0	0	1
+Q4134951	Q4134951	0	0	1
+Q4134952	Q4134952	0	0	1
+Q4134955	Q4134955	0	0	1
+Q4134956	Q4134956	0	0	1
+Q4134957	Q4134957	0	0	1
+Q4138043	Q4138043	0	0	1
+Q4138048	Q4138048	0	0	1
+Q4138050	Q4138050	0	0	1
+Q4138058	Q4138058	0	0	1
+Q4138094	Q4138094	0	0	1
+Q4138098	Q4138098	0	0	1
+Q4138101	Q4138101	0	0	1
+Q4138107	Q4138107	0	0	1
+Q4138110	Q4138110	0	0	1
+Q4138112	Q4138112	0	0	1
+Q4138113	Q4138113	0	0	1
+Q4138146	Q4138146	0	0	1
+Q4138163	Q4138163	0	0	1
+Q4138780	Q4138780	0	0	1
+Q4139735	Q4139735	0	0	1
+Q4145945	Q4145945	0	0	1
+Q4155846	Q4155846	0	0	1
+Q4161063	Q4161063	0	0	1
+Q4161095	Q4161095	0	0	1
+Q4161097	Q4161097	0	0	1
+Q4161100	Q4161100	0	0	1
+Q4161302	Q4161302	0	0	1
+Q4161316	Q4161316	0	0	1
+Q4161432	Q4161432	0	0	1
+Q4161969	Q4161969	0	0	1
+Q4161971	Q4161971	0	0	1
+Q4161972	Q4161972	0	0	1
+Q4161973	Q4161973	0	0	1
+Q4161974	Q4161974	0	0	1
+Q4161977	Q4161977	0	0	1
+Q4161978	Q4161978	0	0	1
+Q4161982	Q4161982	0	0	1
+Q4161983	Q4161983	0	0	1
+Q4161985	Q4161985	0	0	1
+Q4162123	Q4162123	0	0	2
+Q4162124	Q4162124	0	0	1
+Q4162125	Q4162125	0	0	1
+Q4162398	Q4162398	0	0	1
+Q4162421	Q4162421	0	0	1
+Q4162481	Q4162481	0	0	1
+Q4162487	Q4162487	0	0	1
+Q4162492	Q4162492	0	0	1
+Q4162549	Q4162549	0	0	1
+Q4162554	Q4162554	0	0	1
+Q4162607	Q4162607	0	0	1
+Q4202634	Q4202634	0	0	1
+Q4202638	Q4202638	0	0	1
+Q4202642	Q4202642	0	0	1
+Q4202652	Q4202652	0	0	1
+Q4202653	Q4202653	0	0	1
+Q4202654	Q4202654	0	0	1
+Q4202656	Q4202656	0	0	1
+Q4202658	Q4202658	0	0	1
+Q4202665	Q4202665	0	0	1
+Q4202666	Q4202666	0	0	1
+Q4202667	Q4202667	0	0	1
+Q4214556	Q4214556	0	0	1
+Q4214559	Q4214559	0	0	1
+Q4214560	Q4214560	0	0	1
+Q4214561	Q4214561	0	0	1
+Q4214564	Q4214564	0	0	1
+Q4214565	Q4214565	0	0	1
+Q4214570	Q4214570	0	0	1
+Q4214593	Q4214593	0	0	1
+Q4214597	Q4214597	0	0	1
+Q4291488	Q4291488	0	0	1
+Q4291505	Q4291505	0	0	1
+Q4291661	Q4291661	0	0	1
+Q4301860	Q4301860	0	0	2
+Q4312010	Q4312010	0	0	1
+Q4321602	Q4321602	0	0	1
+Q4321606	Q4321606	0	0	1
+Q4321616	Q4321616	0	0	1
+Q4327209	Q4327209	0	0	1
+Q4327210	Q4327210	0	0	1
+Q4332243	Q4332243	0	0	1
+Q4332245	Q4332245	0	0	1
+Q4332773	Q4332773	0	0	1
+Q4332786	Q4332786	0	0	1
+Q4332787	Q4332787	0	0	1
+Q4332788	Q4332788	0	0	1
+Q4332793	Q4332793	0	0	1
+Q4332794	Q4332794	0	0	1
+Q4332796	Q4332796	0	0	1
+Q4332797	Q4332797	0	0	1
+Q4332802	Q4332802	0	0	1
+Q4332803	Q4332803	0	0	1
+Q4332804	Q4332804	0	0	1
+Q4332814	Q4332814	0	0	1
+Q4332819	Q4332819	0	0	1
+Q4332820	Q4332820	0	0	1
+Q4332835	Q4332835	0	0	1
+Q4332837	Q4332837	0	0	1
+Q4332839	Q4332839	0	0	1
+Q4332846	Q4332846	0	0	1
+Q4332857	Q4332857	0	0	1
+Q4332858	Q4332858	0	0	1
+Q4332859	Q4332859	0	0	1
+Q4332860	Q4332860	0	0	1
+Q4332866	Q4332866	0	0	1
+Q4332867	Q4332867	0	0	1
+Q4332868	Q4332868	0	0	1
+Q4332874	Q4332874	0	0	1
+Q4332876	Q4332876	0	0	1
+Q4332884	Q4332884	0	0	1
+Q4332891	Q4332891	0	0	1
+Q4332897	Q4332897	0	0	2
+Q4332900	Q4332900	0	0	1
+Q4332903	Q4332903	0	0	1
+Q4332906	Q4332906	0	0	1
+Q4332907	Q4332907	0	0	1
+Q4332908	Q4332908	0	0	1
+Q4332910	Q4332910	0	0	1
+Q4332912	Q4332912	0	0	1
+Q4332913	Q4332913	0	0	1
+Q4332915	Q4332915	0	0	1
+Q4332920	Q4332920	0	0	1
+Q4332922	Q4332922	0	0	1
+Q4332923	Q4332923	0	0	1
+Q4332936	Q4332936	0	0	1
+Q4332938	Q4332938	0	0	1
+Q4332957	Q4332957	0	0	1
+Q4332958	Q4332958	0	0	1
+Q4337133	Q4337133	0	0	1
+Q4337152	Q4337152	0	0	1
+Q4337153	Q4337153	0	0	1
+Q4337154	Q4337154	0	0	2
+Q4337159	Q4337159	0	0	1
+Q4348642	Q4348642	0	0	1
+Q4351681	Q4351681	0	0	1
+Q4351682	Q4351682	0	0	1
+Q4351685	Q4351685	0	0	1
+Q4351688	Q4351688	0	0	1
+Q4351731	Q4351731	0	0	1
+Q4363459	Q4363459	0	0	1
+Q4370029	Q4370029	0	0	1
+Q4370034	Q4370034	0	0	1
+Q4413569	Q4413569	0	0	1
+Q4413570	Q4413570	0	0	1
+Q4413575	Q4413575	0	0	2
+Q4419176	Q4419176	0	0	2
+Q4419225	Q4419225	0	0	2
+Q4419226	Q4419226	0	0	1
+Q4419228	Q4419228	0	0	2
+Q4419230	Q4419230	0	0	1
+Q4419231	Q4419231	0	0	1
+Q4419232	Q4419232	0	0	1
+Q4419233	Q4419233	0	0	1
+Q4419234	Q4419234	0	0	1
+Q4419235	Q4419235	0	0	1
+Q4419236	Q4419236	0	0	1
+Q4419237	Q4419237	0	0	2
+Q4419238	Q4419238	0	0	1
+Q4419239	Q4419239	0	0	1
+Q4419240	Q4419240	0	0	1
+Q4419241	Q4419241	0	0	2
+Q4445789	Q4445789	0	0	1
+Q4445791	Q4445791	0	0	1
+Q4445792	Q4445792	0	0	1
+Q4445799	Q4445799	0	0	1
+Q4445801	Q4445801	0	0	1
+Q4445811	Q4445811	0	0	1
+Q4445813	Q4445813	0	0	1
+Q4445831	Q4445831	0	0	1
+Q4445834	Q4445834	0	0	1
+Q4445836	Q4445836	0	0	1
+Q4445837	Q4445837	0	0	1
+Q4445845	Q4445845	0	0	1
+Q4445847	Q4445847	0	0	1
+Q4445848	Q4445848	0	0	1
+Q4445849	Q4445849	0	0	1
+Q4445850	Q4445850	0	0	1
+Q4445852	Q4445852	0	0	1
+Q4445857	Q4445857	0	0	1
+Q4445860	Q4445860	0	0	1
+Q4445865	Q4445865	0	0	1
+Q4445867	Q4445867	0	0	1
+Q4445871	Q4445871	0	0	1
+Q4445873	Q4445873	0	0	1
+Q4445874	Q4445874	0	0	1
+Q4445892	Q4445892	0	0	1
+Q4446664	Q4446664	0	0	1
+Q4454236	Q4454236	0	0	1
+Q4454238	Q4454238	0	0	2
+Q4454239	Q4454239	0	0	2
+Q4454241	Q4454241	0	0	1
+Q4456616	Q4456616	0	0	1
+Q4456617	Q4456617	0	0	1
+Q4456618	Q4456618	0	0	1
+Q4456623	Q4456623	0	0	1
+Q4456632	Q4456632	0	0	1
+Q4456642	Q4456642	0	0	1
+Q4456645	Q4456645	0	0	1
+Q4456653	Q4456653	0	0	1
+Q4456679	Q4456679	0	0	1
+Q4457906	Q4457906	0	0	1
+Q4463081	Q4463081	0	0	1
+Q4463082	Q4463082	0	0	1
+Q4463138	Q4463138	0	0	1
+Q4463139	Q4463139	0	0	1
+Q4463145	Q4463145	0	0	1
+Q4463207	Q4463207	0	0	1
+Q4463215	Q4463215	0	0	1
+Q4463252	Q4463252	0	0	1
+Q4463255	Q4463255	0	0	1
+Q4463313	Q4463313	0	0	1
+Q4463330	Q4463330	0	0	1
+Q4492129	Q4492129	0	0	1
+Q4492130	Q4492130	0	0	1
+Q4492133	Q4492133	0	0	1
+Q4492135	Q4492135	0	0	1
+Q4493225	Q4493225	0	0	1
+Q4493226	Q4493226	0	0	1
+Q4493227	Q4493227	0	0	1
+Q4493228	Q4493228	0	0	1
+Q4493232	Q4493232	0	0	1
+Q4493233	Q4493233	0	0	1
+Q4498194	Q4498194	0	0	1
+Q4498195	Q4498195	0	0	1
+Q4498198	Q4498198	0	0	1
+Q4498199	Q4498199	0	0	1
+Q4498202	Q4498202	0	0	1
+Q4498206	Q4498206	0	0	1
+Q4498207	Q4498207	0	0	1
+Q4498210	Q4498210	0	0	1
+Q4498211	Q4498211	0	0	1
+Q4498212	Q4498212	0	0	1
+Q4498213	Q4498213	0	0	1
+Q4498234	Q4498234	0	0	1
+Q4498235	Q4498235	0	0	1
+Q4498240	Q4498240	0	0	1
+Q4498242	Q4498242	0	0	1
+Q4498245	Q4498245	0	0	1
+Q4498264	Q4498264	0	0	1
+Q4505755	Q4505755	0	0	1
+Q4505855	Q4505855	0	0	1
+Q473537	Q473537	0	0	1
+Q808224	Q808224	0	0	1
+Q829303	Q829303	0	0	1
+Q9254396	Q9254396	0	0	2
+Q971847	Q971847	0	0	2
+Q2506823	R(-)amphetamine	0	0	2
+Q7320283	RHC80267	0	0	2
+Q15410190	RO4938581	0	0	4
+Q7277303	RO5166017	0	0	1
+Q68406	RS 67333	0	0	1
+Q7277678	RS-102221	0	0	3
+Q7277962	RU28362	0	0	1
+Q2271877	Radon difluoride	0	0	2
+Q414270	Ranibizumab	2	0	2
+Q3088229	Rasburicase	1	0	1
+Q4096891	Rhenium(5+) pentabromide	0	0	1
+Q4445872	Rhenium(IV) sulfide	0	0	1
+Q20671903	Rhodium carbonyl chloride	0	0	1
+Q4202670	Rhodium(III) iodide	0	0	1
+Q422652	Rifampicin	0	0	11
+Q7334443	Rimexolone	1	0	1
+Q412323	Rituximab	2	0	2
+Q855636	Ro 04-6790	0	0	1
+Q7277302	Ro4491533	0	0	2
+Q7339209	Ro64-6198	0	0	1
+Q4445876	Ruthenium(IV) sulfide	0	0	1
+Q15634130	S-14506	0	0	1
+Q7387033	S-14671	0	0	1
+Q286975	S-15535	0	0	1
+Q5552687	S-18986	0	0	4
+Q27868429	S63845	0	0	1
+Q7388901	SB 204070	0	0	1
+Q44787	SB 204741	0	0	2
+Q7388908	SB 242084	0	0	3
+Q15410189	SB 243213	0	0	3
+Q855345	SB 258719	0	0	1
+Q855568	SB 271046	0	0	1
+Q7388915	SB 612111	0	0	1
+Q80311	SB 699551	0	0	1
+Q7388910	SB-277,011-A	0	0	3
+Q7388911	SB-334867	0	0	2
+Q7388914	SB-649868	0	0	2
+Q21098842	SB236057	0	0	1
+Q855518	SB258585	0	0	1
+Q1427742	SB269970	0	0	1
+Q855557	SB357134	0	0	1
+Q856068	SB399885	0	0	1
+Q7389148	SCH-23390	0	0	4
+Q44814	SDZ SER-082	0	0	3
+Q7390598	SKF-38393	0	0	2
+Q15427858	SKF89976A	0	0	1
+Q7391803	SNC80	0	0	1
+Q7392758	SR142948A	0	0	1
+Q7392759	SR144528	0	0	1
+Q7392863	SRT1720	0	0	1
+Q7394936	SU6656	0	0	7
+Q3950557	Sargramostim	5	0	5
+Q4138116	Scandium hydroxide	0	0	1
+Q21098848	Sch 202596	0	0	1
+Q7455005	Sermorelin	1	0	1
+Q904153	Sevelamer	1	0	1
+Q7515025	Silicon monosulfide	0	0	1
+Q3916635	Silver perrhenate	0	0	1
+Q32089	Sirolimus	1	0	2
+Q2048340	Sodium metatitanate	0	0	1
+Q2405605	Sodium telluride	0	0	1
+Q2008962	Sodium tetrachloropalladate	0	0	1
+Q1636041	Soluble glass	0	0	2
+Q7559299	Somatorelin	0	0	1
+Q7559307	Somatrem	2	0	2
+Q3604561	Stannic acid	0	0	1
+Q2805600	Steviol glycoside	0	0	1
+Q416485	Streptokinase	3	0	3
+Q192717	Streptomycin	5	0	5
+Q4337136	Strontium arsenate	0	0	1
+Q12747053	TCS-OX2-29	0	0	1
+Q7670263	THIQ	0	0	1
+Q7670627	TM-38837	0	0	2
+Q415489	Tantalum nitride	0	0	1
+Q4119775	Tantalum(IV) sulfide	0	0	1
+Q44944	Tegaserod	2	0	2
+Q1644947	Tenecteplase	2	0	2
+Q7701687	Terconazole	1	0	1
+Q411781	Teriparatide	1	0	3
+Q7705415	Tesamorelin	0	0	1
+Q4164129	Tetrairidium dodecacarbonyl	0	0	1
+Q2366402	Tetrakis(triphenylphosphine)palladium(0)	0	0	1
+Q4164130	Tetrarhodium dodecacarbonyl	0	0	1
+Q16705844	Tetrasilane	0	0	1
+Q7706775	Tetrazolylglycine	0	0	5
+Q411046	Thiomersal	0	0	1
+Q20817224	Thyroglobulin	6	0	6
+Q20816877	Thyrotropin Alfa	2	0	2
+Q15708331	Tildrakizumab	0	0	1
+Q413994	Timolol	5	0	6
+Q6589976	Tin selenide	0	0	2
+Q4454243	Tin telluride	0	0	2
+Q204986	Tin(II) sulfide	0	0	1
+Q20817252	Tinzaparin	1	0	2
+Q411198	Tinzaparin sodium	0	0	2
+Q4119779	Titanium disilicide	0	0	1
+Q425154	Tocilizumab	1	0	1
+Q412616	Trastuzumab	2	0	2
+Q419426	Trimethylgallium	0	0	1
+Q4463086	Trimethylindium	0	0	1
+Q3008073	Trimethylsilyl cyanide	0	0	1
+Q2347328	Trimethylstibine	0	0	1
+Q4337165	Trirubidium phosphate	0	0	1
+Q2115937	Triruthenium dodecacarbonyl	0	0	1
+Q7843943	Tris(triphenylphosphine)rhodium carbonyl hydride	0	0	1
+Q7844989	Troglitazone	0	0	2
+Q544393	Trovafloxacin	6	0	6
+Q4864593	U46619	0	0	9
+Q7862881	U50488	0	0	1
+Q7862888	U92016A	0	0	1
+Q12127712	UBP310	0	0	1
+Q312208	UDP N-acetyl-glucosamine	0	0	1
+Q4006490	Urofollitropin	2	0	3
+Q420305	Ustekinumab	1	0	1
+Q7906743	VER-3323	0	0	3
+Q7907643	VU0238429	0	0	1
+Q7907648	VUF 8430	0	0	1
+Q7912593	Valrubicin	1	0	1
+Q7918002	Vedolizumab	1	0	1
+Q7923143	Vesamicol	0	0	1
+Q282629	Vinblastine	12	0	12
+Q420532	Vinorelbine	4	0	4
+Q412236	Voriconazole	2	0	4
+Q7946878	WAY-100135	0	0	1
+Q7946882	WAY-213613	0	0	1
+Q21098843	WB-4101	0	0	6
+Q7950808	WIN35428	0	0	1
+Q414182	Wilkinson's catalyst	0	0	1
+Q905989	Wood's metal	0	0	3
+Q8041720	XCT790	0	0	1
+Q23005130	Xiyanping	0	0	2
+Q8045923	YM348	0	0	1
+Q15634080	YM976	0	0	1
+Q15628007	Ytterbium selenide	0	0	1
+Q8059852	Yttrium orthovanadate	0	0	2
+Q8059853	Yttrium phosphate	0	0	1
+Q8063121	ZK93423	0	0	4
+Q10861098	ZK93426	0	0	4
+Q8063128	ZM-241385	0	0	4
+Q198473	Ziconotide	0	0	1
+Q190077	Zinc oxide	0	0	1
+Q4646874	a-412997	0	0	1
+Q4646881	a-68930	0	0	2
+Q304330	abacavir	2	0	2
+Q305555	abarelix	0	0	1
+Q4667249	abexinostat	0	0	2
+Q321431	abiraterone	0	0	1
+Q331451	abrin	0	0	1
+Q4650421	abt-239	0	0	3
+Q4650423	abt-670	0	0	1
+Q418857	acebutolol	2	0	3
+Q4673059	acefylline	0	0	1
+Q61457	acetaldehyde	0	0	1
+Q57055	acetaminophen	0	0	11
+Q413690	acetazolamide	3	0	8
+Q4673284	acetophenazine	2	0	2
+Q180623	acetylcholine	0	0	5
+Q375613	acetylcysteine	6	0	6
+Q15633960	acifran	0	0	2
+Q2342544	acipimox	0	0	1
+Q341500	acitretin	1	0	1
+Q521173	aclidinium	0	0	3
+Q342108	aconitine	0	0	1
+Q342745	acrivastine	2	0	2
+Q342790	acrolein	0	0	1
+Q147101	acyclovir	4	0	4
+Q352348	adapalene	1	0	4
+Q353551	adefovir	1	0	1
+Q4682254	adenophostin A	0	0	2
+Q190012	adenosine	1	0	8
+Q2825485	adenosine 3',5'-diphosphate	0	0	1
+Q210041	adenosine cyclic phosphate	0	0	2
+Q185253	adenosine diphosphate	0	0	5
+Q318369	adenosine phosphate	0	0	1
+Q4651211	adx-47273	0	0	1
+Q410794	afamelanotide	0	0	4
+Q4688818	afatinib	0	0	2
+Q394317	agmatine	0	0	1
+Q395229	agomelatine	0	0	5
+Q411629	albendazole	9	0	9
+Q410358	albuterol	2	0	3
+Q4713192	alclometasone	5	0	5
+Q184564	aldosterone	0	0	1
+Q21099132	alectinib	1	0	1
+Q420057	alendronic acid	1	0	1
+Q2736873	alfuzosin	0	0	3
+Q15633917	alisertib	0	0	1
+Q414904	aliskiren	0	0	1
+Q3611854	alitretinoin	2	0	8
+Q21905941	alkylating agent	0	0	4
+Q409641	allicin	0	0	2
+Q412486	allopurinol	1	0	2
+Q408840	alloxazine	0	0	1
+Q4355941	almorexant	0	0	2
+Q4734060	alniditan	0	0	2
+Q4734170	alogliptin	0	0	1
+Q416463	alosetron	1	0	2
+Q27132146	alpha-bergamotene	0	0	1
+Q4032852	alpha-bisabolene	0	0	1
+Q158348	alpha-tocopherol	1	0	1
+Q319877	alprazolam	4	0	8
+Q201370	alprenolol	0	0	1
+Q579348	alprostadil	8	0	16
+Q415242	altretamine	1	0	1
+Q304176	aluminium gallium arsenide	0	0	1
+Q18212051	aluminium niobate	0	0	1
+Q1284687	aluminium silicate	0	0	1
+Q18212015	aluminium triniobate	0	0	1
+Q27252392	aluminum carbonate	7	0	7
+Q4445787	aluminum cesium sulfate	0	0	1
+Q27110407	aluminum chloride	1	0	1
+Q409057	aluminum fluoride	0	0	1
+Q159096	aluminum iodide	0	0	1
+Q419503	aluminum phosphate	0	0	1
+Q15725546	aluminum potassium diselenate	0	0	1
+Q4445784	aluminum rubidium sulfate	0	0	1
+Q2634282	aluminum selenide	0	0	1
+Q4738021	alvimopan anhydrous	0	0	3
+Q4063441	alvocidib	0	0	2
+Q4652514	am-251	0	0	2
+Q409761	amantadine	1	0	5
+Q410789	ambrisentan	0	0	2
+Q4742041	amcinonide	5	0	5
+Q1872	americium	0	0	10
+Q413733	americium(III) chloride	0	0	1
+Q425412	americium(IV) oxide	0	0	1
+Q4746121	amibegron	0	0	1
+Q408529	amikacin	2	0	2
+Q419995	amiloride	4	0	11
+Q27258445	aminobenzoate potassium	3	0	3
+Q284959	aminobenzoic acid	1	0	1
+Q255968	aminocaproic acid	0	0	1
+Q241150	aminoglutethimide	3	0	4
+Q695442	aminomethylbenzoic acid	0	0	1
+Q4746466	aminooxyacetic acid	0	0	2
+Q471763	aminophylline	2	0	2
+Q229924	aminosalicylic acid	3	0	3
+Q410061	amiodarone	0	0	44
+Q418785	amisulpride	0	0	1
+Q58397	amitriptyline	1	0	15
+Q411347	amlodipine	1	0	2
+Q4087	ammonia	0	0	1
+Q415897	ammoniatedmercuric chloride	0	0	1
+Q190901	ammonium cation	0	0	1
+Q188543	ammonium chloride	0	0	1
+Q419676	ammonium heptamolybdate	0	0	1
+Q4134945	ammonium hexachloroiridate	0	0	1
+Q421888	ammonium hydroxide	0	0	1
+Q663358	ammonium lactate	2	0	2
+Q473576	ammonium molybdate	0	0	1
+Q778163	ammonium perrhenate	0	0	1
+Q4413540	ammonium selenate	0	0	1
+Q415850	amobarbital	3	0	3
+Q58356	amoxapine	1	0	4
+Q201928	amoxicillin anhydrous	10	0	10
+Q917803	ampa	0	0	4
+Q179452	amphetamine	2	0	10
+Q412223	amphotericin b	16	0	16
+Q244150	ampicillin	10	0	10
+Q422198	amprenavir	2	0	13
+Q4748889	amthamine	0	0	1
+Q408163	anagrelide	3	0	41
+Q410228	anandamide	0	0	13
+Q419143	anastrozole	3	0	4
+Q4753617	andarine	0	0	1
+Q23005441	andrographolide sulfonate	0	0	1
+Q2846975	androstane	0	0	1
+Q414673	anhydrousmonobasiccalcium phosphate	0	0	1
+Q417630	aniracetam	0	0	4
+Q3617574	anisindione	2	0	3
+Q4770927	antalarmin	0	0	1
+Q771975	antazoline	2	0	2
+Q419397	anthralin	1	0	1
+Q1099	antimony	0	0	82
+Q4332799	antimony chloride oxide	0	0	1
+Q417103	antimony pentachloride	0	0	1
+Q411381	antimony pentafluoride	0	0	1
+Q578446	antimony sulfate	0	0	1
+Q419727	antimony tribromide	0	0	1
+Q411279	antimony trichloride	0	0	1
+Q419591	antimony trifluoride	0	0	1
+Q2505731	antimony triiodide	0	0	1
+Q409035	antimony trioxide	0	0	1
+Q2985253	antimony triselenide	0	0	2
+Q415578	antipyrine	1	0	1
+Q16829635	apicidin	0	0	4
+Q424567	apigenin	0	0	1
+Q414462	apixaban	0	0	1
+Q4779956	aplaviroc	0	0	1
+Q269111	apomorphine	0	0	13
+Q4781812	apraclonidine	1	0	3
+Q621834	aprepitant	0	0	2
+Q15425297	ar-12	0	0	1
+Q4653529	ar-231453	0	0	1
+Q407699	arachidonic acid	0	0	8
+Q4783530	arachidonylcyclopropylamide	0	0	1
+Q423515	arecoline	0	0	4
+Q4789167	arformoterol	0	0	2
+Q20888492	argiotoxin	0	0	4
+Q871349	argiprestocin	0	0	4
+Q696	argon	0	0	1
+Q411407	argon fluorohydride	0	0	1
+Q411188	aripiprazole	1	0	8
+Q418913	armodafinil	1	0	1
+Q409221	arsenate ion	0	0	1
+Q21060492	arsenic	1	0	1
+Q18211846	arsenic hemiselenide	0	0	1
+Q4119943	arsenic triselenide	0	0	1
+Q15730270	arsenic(III) telluride	0	0	1
+Q4807593	asoprisnil	0	0	1
+Q18216	aspirin	5	0	8
+Q4810576	astatine monobromide	0	0	1
+Q4810577	astatine monoiodide	0	0	1
+Q423437	astemizole	4	0	44
+Q423467	atazanavir	0	0	15
+Q411325	atenolol	4	0	6
+Q417240	atomoxetine	1	0	9
+Q668093	atorvastatin	3	0	4
+Q418179	atovaquone	1	0	1
+Q125083	atrasentan	0	0	2
+Q421230	auranofin	3	0	4
+Q4072449	aurothioglucose	4	0	4
+Q2775914	avobenzone	1	0	1
+Q4830631	axitinib	2	0	4
+Q4832127	azalanstat	0	0	2
+Q4832285	azasetron	0	0	1
+Q599160	azatadine	1	0	1
+Q18939	azathioprine	8	0	8
+Q413504	azelaic acid	2	0	2
+Q419820	azelastine	3	0	4
+Q17333188	azidosilane	0	0	1
+Q165399	azithromycin anhydrous	8	0	46
+Q418546	aztreonam	4	0	4
+Q2878140	bacampicillin	3	0	3
+Q424319	bacitracin a	2	0	2
+Q413717	baclofen	9	0	9
+Q799775	bafetinib	0	0	2
+Q4850048	balanol	0	0	13
+Q347337	balsalazide	1	0	1
+Q3633651	bambuterol	0	0	1
+Q4860208	bardoxolone methyl	0	0	1
+Q1112	barium	0	0	71
+Q421133	barium acetate	0	0	1
+Q808214	barium bromate	0	0	1
+Q414613	barium bromide	0	0	1
+Q409224	barium carbonate	0	0	1
+Q412492	barium chlorate	0	0	1
+Q407270	barium chloride	0	0	1
+Q206690	barium chromate	0	0	1
+Q808217	barium cyanide	0	0	1
+Q4162425	barium dithionate	0	0	1
+Q417080	barium fluoride	0	0	1
+Q808219	barium formate	0	0	1
+Q407605	barium hydroxide	0	0	1
+Q421465	barium iodide	0	0	1
+Q4280210	barium manganate(VI)	0	0	1
+Q4300384	barium molybdate	0	0	2
+Q407666	barium nitrate	0	0	1
+Q4321627	barium nitrite	0	0	1
+Q2089658	barium oxalate	0	0	1
+Q361627	barium perchlorate	0	0	1
+Q3701934	barium permanganate	0	0	1
+Q411394	barium peroxide	0	0	1
+Q4413544	barium selenate	0	0	2
+Q4413567	barium selenide	0	0	2
+Q309038	barium sulfate	0	0	1
+Q411656	barium sulfide	0	0	1
+Q415543	barium sulfite	0	0	1
+Q4456692	barium tetracyanoplatinate	0	0	1
+Q4457900	barium thiocyanate	0	0	1
+Q4457891	barium thiosulfate	0	0	1
+Q18228246	barium tin fluoride	0	0	2
+Q415484	barium titanate	0	0	1
+Q15634074	bay-60-7550	0	0	1
+Q4875166	bazedoxifene	0	0	2
+Q4835353	bd-1047	0	0	1
+Q421475	beclomethasone dipropionate	0	0	1
+Q4880243	befloxatone	0	0	1
+Q3637540	bekanamycin	0	0	1
+Q4884554	beloranib	0	0	1
+Q592802	benazepril	2	0	2
+Q1169164	bendroflumethiazide	4	0	4
+Q818165	benserazide	0	0	1
+Q4890749	benzamil	0	0	2
+Q422745	benzocaine	4	0	4
+Q411424	benzoyl peroxide	2	0	2
+Q4890814	benzquinamide	0	0	2
+Q2889971	benzthiazide	4	0	4
+Q416113	benzyl bromide	0	0	1
+Q4890934	bepridil	1	0	39
+Q416310	beryllium fluoride	0	0	1
+Q4413545	beryllium selenate tetrahydrate	0	0	1
+Q15410300	beta-ergocriptine	0	0	1
+Q10860583	betaine	1	0	1
+Q416132	betamethasone	10	0	11
+Q794162	betaxolol	3	0	5
+Q419059	bethanechol	2	0	6
+Q384111	betulinic acid	0	0	1
+Q418192	bexarotene	2	0	6
+Q577387	bezafibrate	0	0	1
+Q1988832	bicalutamide	1	0	2
+Q3639734	bicuculline	0	0	7
+Q4835683	biie-0246	0	0	1
+Q418459	bilobalide	0	0	4
+Q2393348	bimatoprost	2	0	3
+Q19903515	binimetinib	0	0	2
+Q864222	biochanin A	0	0	3
+Q181354	biotin	1	0	1
+Q414914	biperiden	2	0	7
+Q4915436	biphenylindanone A	0	0	1
+Q288407	bisabolene	0	0	4
+Q417874	bisacodyl	1	0	1
+Q942	bismuth	4	0	59
+Q15628366	bismuth acetate	0	0	1
+Q4332791	bismuth bromide oxide	0	0	1
+Q420498	bismuth chloride	0	0	1
+Q804150	bismuth hydroxide	0	0	1
+Q804151	bismuth nitrate	0	0	1
+Q15628364	bismuth oxalate	0	0	1
+Q418042	bismuth oxychloride	0	0	1
+Q965955	bismuth pentafluoride	0	0	1
+Q4492115	bismuth phosphate	0	0	1
+Q410462	bismuth selenide	0	0	2
+Q2983022	bismuth subcarbonate	0	0	1
+Q81890	bismuth subsalicylate	0	0	1
+Q4445790	bismuth sulfate	0	0	1
+Q419909	bismuth sulfide	0	0	1
+Q15628376	bismuth tartrate anhydrous	0	0	1
+Q415256	bismuth telluride	0	0	2
+Q2614358	bismuth(III) bromide	0	0	1
+Q425248	bismuth(III) fluoride	0	0	1
+Q425085	bismuth(III) iodide	0	0	1
+Q252536	bismuth(III) oxide	0	0	1
+Q425258	bismuthine	0	0	1
+Q412515	bisoprolol	3	0	3
+Q271980	bisphenol a	0	0	2
+Q4918914	bitolterol	1	0	1
+Q4927426	blonanserin	0	0	2
+Q4836000	bms-345541 free base	0	0	2
+Q4836101	bmy-14802	0	0	1
+Q4836102	bmy-7378 free base	0	0	4
+Q410551	boceprevir	0	0	1
+Q187045	boric acid	1	0	1
+Q415872	boron trichloride	0	0	1
+Q409602	boron trifluoride	0	0	1
+Q419319	bortezomib	2	0	3
+Q419769	bosentan anhydrous	1	0	12
+Q894611	bosutinib	0	0	13
+Q4095199	botulinum toxin type A	4	0	4
+Q4836304	bq-123	0	0	1
+Q4961977	bretazenil	0	0	6
+Q2924764	brexpiprazole	1	0	2
+Q577377	brimonidine	2	0	5
+Q411517	brinzolamide	2	0	6
+Q4836376	brl-15572	0	0	9
+Q4836377	brl-44408	0	0	3
+Q4836375	brl-50481	0	0	2
+Q4836379	brl-54443	0	0	2
+Q4972934	brodalumab	1	0	2
+Q209241	brolamfetamine	0	0	3
+Q2487682	bromfenac	0	0	1
+Q422423	bromide ion	0	0	1
+Q17337524	bromo(chloro)fluoro(iodo)silane	0	0	1
+Q16736830	bromo(trifluoro)silane	0	0	1
+Q16735664	bromo(triiodo)silane	0	0	1
+Q421365	bromoacetone	0	0	1
+Q413581	bromocriptine	7	0	22
+Q4926102	bromodiphenhydramine	3	0	3
+Q17318444	bromodisilane	0	0	1
+Q4596865	bromolysergide	0	0	1
+Q2606497	brompheniramine	1	0	1
+Q27105975	brompheniramine maleate	1	0	1
+Q411022	brucine	0	0	5
+Q4859329	buclizine	1	0	1
+Q422212	budesonide	1	0	2
+Q412699	bufexamac	0	0	2
+Q408915	bufotenine	0	0	2
+Q275926	bumetanide	8	0	11
+Q422806	bupivacaine	0	0	1
+Q425838	bupranolol	0	0	3
+Q407721	buprenorphine	2	0	4
+Q834280	bupropion	3	0	5
+Q414745	buserelin	0	0	1
+Q412194	buspirone	2	0	3
+Q348922	busulfan	3	0	3
+Q850729	butenafine	3	0	3
+Q2928948	butoconazole	1	0	1
+Q1185089	butorphanol	0	0	2
+Q193213	butyric acid	0	0	6
+Q421344	butyrophenone	0	0	1
+Q412963	cabazitaxel	1	0	2
+Q423308	cabergoline	2	0	17
+Q795057	cabozantinib	1	0	3
+Q1091	cadmium	0	0	63
+Q419714	cadmium acetate	0	0	1
+Q1014287	cadmium arsenide	0	0	1
+Q417129	cadmium bromide	0	0	1
+Q1025288	cadmium carbonate	0	0	1
+Q411840	cadmium chloride	0	0	2
+Q5016545	cadmium chromate	0	0	1
+Q410497	cadmium cyanide	0	0	1
+Q425236	cadmium fluoride	0	0	1
+Q3462573	cadmium hydride	0	0	1
+Q420717	cadmium hydroxide	0	0	1
+Q425252	cadmium iodide	0	0	1
+Q419670	cadmium nitrate	0	0	1
+Q196661	cadmium oxide	0	0	1
+Q15627956	cadmium potassium cyanide	0	0	1
+Q15627970	cadmium salicylate	0	0	1
+Q15617477	cadmium selenate	0	0	2
+Q420704	cadmium selenide	0	0	2
+Q411562	cadmium stearate	0	0	1
+Q15627944	cadmium succinate	0	0	1
+Q414806	cadmium sulfate	0	0	1
+Q179619	cadmium sulfide	0	0	1
+Q414035	cadmium telluride	0	0	2
+Q5016547	cadmium tetrafluoroborate	0	0	1
+Q1969116	cadmium tungstate	0	0	1
+Q1108	caesium	0	0	42
+Q416962	caesium chromate	0	0	1
+Q219211	caesium hydride	0	0	1
+Q417090	caesium oxide	0	0	1
+Q3178745	caesium perchlorate	0	0	1
+Q1025477	caesium superoxide	0	0	1
+Q60235	caffeine	0	0	8
+Q139307	calcifediol anhydrous	1	0	1
+Q155683	calcipotriene	1	0	2
+Q139195	calcitriol	3	0	4
+Q706	calcium	0	0	103
+Q4119838	calcium 2-glycerophosphate	0	0	1
+Q409251	calcium acetate	2	0	3
+Q412645	calcium arsenate	0	0	1
+Q414509	calcium benzoate	0	0	1
+Q415144	calcium bicarbonate	0	0	1
+Q419619	calcium bisulfite	0	0	1
+Q416861	calcium bromate	0	0	1
+Q409739	calcium bromide	0	0	1
+Q421801	calcium carbide	0	0	2
+Q23767	calcium carbonate	8	0	9
+Q419721	calcium chlorate	0	0	1
+Q208451	calcium chloride anhydrous	2	0	3
+Q16714127	calcium chlorite	0	0	1
+Q905723	calcium chromate	0	0	1
+Q27284105	calcium citrate	1	0	1
+Q420280	calcium citrate anhydrous	0	0	1
+Q367994	calcium cyanamide	0	0	1
+Q420491	calcium cyanide	0	0	1
+Q16644632	calcium dichromate	0	0	1
+Q16706149	calcium dithiocyanate	0	0	1
+Q15963793	calcium dithionate	0	0	1
+Q1026348	calcium ferrocyanide	0	0	1
+Q413374	calcium fluoride	0	0	1
+Q221123	calcium formate	0	0	1
+Q27888681	calcium glubionate	1	0	1
+Q413739	calcium gluconate	3	0	4
+Q4119810	calcium hexaboride	0	0	1
+Q16635996	calcium hexafluorosilicate	0	0	2
+Q422847	calcium hydride	0	0	1
+Q182849	calcium hydroxide	0	0	1
+Q407300	calcium hypochlorite	0	0	1
+Q2185998	calcium iodate	0	0	1
+Q412538	calcium iodide	0	0	1
+Q419693	calcium lactate	0	0	1
+Q3831371	calcium levulinate	1	0	1
+Q15971308	calcium metaborate	0	0	1
+Q15992714	calcium metaphosphate	0	0	1
+Q4300386	calcium molybdate	0	0	2
+Q2452235	calcium monophosphide	0	0	1
+Q407392	calcium nitrate	0	0	1
+Q2749498	calcium nitrite	0	0	1
+Q16682856	calcium oleate	0	0	1
+Q412399	calcium oxalate	0	0	1
+Q185006	calcium oxide	0	0	1
+Q16684408	calcium palmitate	0	0	1
+Q27261387	calcium pantothenate	1	0	1
+Q906306	calcium perchlorate	0	0	1
+Q424495	calcium permanganate	0	0	1
+Q94770	calcium peroxide	0	0	1
+Q16686574	calcium plumbate	0	0	1
+Q417394	calcium propionate	0	0	1
+Q4363460	calcium pyrophosphate	0	0	1
+Q416381	calcium silicide	0	0	2
+Q423318	calcium stearate	0	0	1
+Q407258	calcium sulfate dihydrate	0	0	1
+Q899410	calcium sulfite	0	0	1
+Q416767	calcium tartrate	0	0	1
+Q16706145	calcium thiosulfate	0	0	1
+Q4517638	calomel	0	0	1
+Q172949	calomel	0	0	1
+Q5026909	camostat	0	0	1
+Q181559	camphor	0	0	1
+Q5030940	canagliflozin anhydrous	0	0	2
+Q415970	candesartan	2	0	3
+Q5032274	canertinib	0	0	2
+Q3655338	cangrelor	0	0	2
+Q422917	cannabidiol	0	0	4
+Q265831	cannabinol	0	0	1
+Q410884	cantharidin	2	0	2
+Q420207	capecitabine	2	0	3
+Q422613	capric acid	0	0	1
+Q161666	caprylic alcohol	0	0	20
+Q273169	capsaicin	2	0	4
+Q5036336	capsazepine	0	0	1
+Q421119	captopril	7	0	8
+Q5037818	carazolol	0	0	2
+Q419401	carbachol	1	0	1
+Q410412	carbamazepine	8	0	20
+Q2633879	carbamide peroxide	5	0	5
+Q1050019	carbenicillin	3	0	3
+Q752861	carbenoxolone	0	0	23
+Q414225	carbidopa	1	0	1
+Q3728177	carbinoxamine	1	0	1
+Q2664750	carbon diselenide	0	0	1
+Q27104479	carbonate ion	8	0	8
+Q5038067	carboprost	1	0	1
+Q19414	carene	0	0	2
+Q15366934	carfilzomib	0	0	1
+Q415869	carmustine	2	0	2
+Q905755	carprofen	0	0	1
+Q546434	carteolol	3	0	3
+Q27106078	carteolol hydrochloride	3	0	3
+Q412534	carvedilol	3	0	6
+Q19596315	cebranopadol	0	0	4
+Q5057052	cediranib	0	0	8
+Q415167	cefaclor anhydrous	6	0	6
+Q2319020	cefadroxil anhydrous	5	0	5
+Q2601530	cefamandole	4	0	4
+Q415739	cefazolin	5	0	5
+Q1453445	cefdinir	7	0	7
+Q3664175	cefditoren	3	0	3
+Q2552927	cefepime	7	0	7
+Q163901	cefixime anhydrous	6	0	6
+Q2325775	cefoperazone	6	0	6
+Q417968	cefotaxime	9	0	9
+Q2353907	cefoxitin	5	0	5
+Q1052672	cefpodoxime proxetil	7	0	7
+Q419521	ceftibuten	4	0	4
+Q1082945	ceftizoxime	7	0	7
+Q421713	ceftriaxone	13	0	13
+Q413728	cefuroxime	9	0	9
+Q408801	celecoxib	4	0	7
+Q5058846	cenicriviroc	0	0	1
+Q411417	cephalexin anhydrous	5	0	5
+Q2736126	cephalothin	3	0	5
+Q549803	cephapirin	3	0	3
+Q21011233	ceritinib	0	0	5
+Q1385	cerium	0	0	8
+Q15725535	cerium potassium fluoride	0	0	1
+Q4138121	cerium(III) hydroxide	0	0	1
+Q423439	cerivastatin	3	0	4
+Q5064514	cerlapirdine	0	0	1
+Q419806	cerous chloride	0	0	1
+Q3877360	cerous nitrate hexahydrate	0	0	1
+Q900883	cerous oxide	0	0	1
+Q331002	cesium bromide	0	0	1
+Q416923	cesium carbonate	0	0	1
+Q296694	cesium chloride	0	0	1
+Q50694	cesium fluoride	0	0	1
+Q296363	cesium hydroxide	0	0	1
+Q50703	cesium iodide	0	0	1
+Q371940	cesium nitrate	0	0	1
+Q331260	cesium sulfate	0	0	1
+Q423075	cetirizine	1	0	2
+Q5065704	cetrorelix	0	0	1
+Q5010989	cgs 12066b-parent	0	0	5
+Q5010992	cgs-21680	0	0	4
+Q5089853	chelerythrine	0	0	2
+Q419028	chenodiol	0	0	3
+Q415939	chlorambucil	9	0	9
+Q409375	chloramine	0	0	1
+Q274515	chloramphenicol	1	0	1
+Q2393323	chlorcyclizine	1	0	1
+Q178566	chlordiazepoxide	2	0	2
+Q15646788	chlorhexidine	5	0	5
+Q108200	chloride ion	0	0	8
+Q411305	chlorine trifluoride	0	0	1
+Q4380604	chlormerodrin	0	0	1
+Q5102983	chlormezanone	1	0	1
+Q17320428	chloro(difluoro)silane	0	0	1
+Q17337614	chloro(triiodo)silane	0	0	1
+Q17337583	chloro(triisocyanato)silane	0	0	1
+Q284209	chloroacetophenone	0	0	1
+Q4498193	chlorobismuth	0	0	1
+Q17337578	chlorodisilane	0	0	1
+Q423065	chloropicrin	0	0	1
+Q422438	chloroquine	6	0	44
+Q2603363	chlorothiazide	4	0	5
+Q5103213	chlorotrianisene	3	0	3
+Q12029435	chloroxine	2	0	2
+Q420133	chlorpheniramine	1	0	2
+Q407972	chlorpromazine	6	0	58
+Q1075324	chlorpropamide	0	0	1
+Q425289	chlorthalidone	4	0	9
+Q3294630	chlorzoxazone	0	0	1
+Q139347	cholecalciferol	10	0	10
+Q43656	cholesterol	1	0	2
+Q287415	cholic acid	1	0	2
+Q193166	choline	1	0	1
+Q27287271	chromic phosphate p-32	1	0	1
+Q2329715	chromium picolinate	1	0	1
+Q973741	chrysin	0	0	2
+Q15410874	ci-966 free base	0	0	1
+Q5119448	ciclesonide	0	0	1
+Q419468	ciclopirox	4	0	4
+Q15634018	cicloprolol	0	0	2
+Q423445	cidofovir anhydrous	2	0	2
+Q416791	cidoxepin	3	0	8
+Q5119890	ciglitazone	0	0	1
+Q5119931	cilansetron	0	0	1
+Q418201	cilastatin	1	0	1
+Q867350	cilazapril anhydrous	0	0	1
+Q15634085	cilostamide	0	0	2
+Q258591	cilostazol	1	0	3
+Q20817244	cimadronate	0	0	1
+Q409492	cimetidine	8	0	13
+Q193978	cinacalcet	0	0	1
+Q164785	cinnamic acid	0	0	1
+Q1639588	cinoxacin	1	0	1
+Q2319112	cinoxate	1	0	1
+Q3885848	cipemastat	0	0	1
+Q3496452	ciprofibrate	0	0	1
+Q256602	ciprofloxacin	16	0	18
+Q5121322	ciproxifan	0	0	4
+Q207688	cis-oleic acid	0	0	3
+Q425295	cisapride	4	0	41
+Q412415	cisplatin	19	0	19
+Q409672	citalopram	6	0	50
+Q1146640	citrate	0	0	1
+Q159683	citric acid	0	0	1
+Q118551	clarithromycin	9	0	52
+Q418145	clemastine	1	0	2
+Q5132472	clidinium	2	0	4
+Q5134338	clioquinol	3	0	3
+Q412164	clobazam	1	0	1
+Q5134762	clobenpropit	0	0	4
+Q4224007	clobetasol	5	0	5
+Q421637	clobetasol propionate	0	0	1
+Q5134875	clofarabine	0	0	2
+Q418611	clofazimine	5	0	5
+Q2701912	clofibrate	3	0	4
+Q5134881	clofilium	0	0	2
+Q58713	clomipramine	3	0	11
+Q407988	clonazepam	8	0	11
+Q412221	clonidine	5	0	9
+Q27292429	clonidine hydrochloride	4	0	4
+Q410237	clopidogrel	8	0	8
+Q418850	clorazepic acid	2	0	2
+Q2889652	clorgiline	0	0	1
+Q413546	clotrimazole	5	0	11
+Q422219	cloxacillin	6	0	6
+Q221361	clozapine	3	0	25
+Q16677449	cobalt molybdate	0	0	1
+Q15708292	cobimetinib	0	0	3
+Q41576	cocaine	0	0	38
+Q174723	codeine	0	0	1
+Q5144764	colfosceril palmitate	0	0	1
+Q5150955	combrestatin a4	0	0	1
+Q5159518	conessine	0	0	4
+Q409921	conhydrine	0	0	1
+Q5161126	conivaptan	0	0	2
+Q17375861	copper antimonide	0	0	1
+Q5184160	crenolanib	0	0	5
+Q5186964	crizotinib	0	0	2
+Q416427	cromolyn	4	0	4
+Q421781	cupric chloride anhydrous	0	0	1
+Q4134940	cupric hexafluorosilicate	0	0	1
+Q4413548	cupric selenate	0	0	1
+Q4413572	cupric selenide	0	0	1
+Q4413571	cuprous selenide	0	0	1
+Q312266	curcumin	0	0	1
+Q5014874	cx-546	0	0	4
+Q5014875	cx516	0	0	4
+Q3008033	cyamemazine	0	0	4
+Q185076	cyanide anion	0	0	1
+Q5197476	cyanopindolol	0	0	1
+Q5119441	cyclacillin	3	0	3
+Q2467043	cyclic ADP-ribose	0	0	1
+Q867308	cyclizine	0	0	1
+Q5198674	cyclobenzaprine	1	0	1
+Q18129538	cyclopentadienylniobium(V) tetrachloride	0	0	1
+Q6590371	cyclopentyladenosine	0	0	4
+Q408524	cyclophosphamide	30	0	30
+Q418508	cycloserine	2	0	2
+Q367700	cyclosporine	7	0	13
+Q5199066	cyclothiazide	4	0	9
+Q417884	cyproheptadine	4	0	10
+Q426185	cyproterone acetate	0	0	1
+Q617563	cysteamine	1	0	1
+Q180983	cytarabine	3	0	3
+Q6841079	d-CCPene	0	0	4
+Q419345	dabigatran	0	0	1
+Q3011604	dabrafenib	1	0	2
+Q416975	dacarbazine	8	0	8
+Q17130597	dacomitinib anhydrous	0	0	3
+Q186127	dactinomycin	10	0	10
+Q4835503	dactolisib	0	0	5
+Q408732	daidzein	0	0	4
+Q372539	dalfampridine	0	0	5
+Q424372	daminozide	0	0	3
+Q419652	danazol	4	0	4
+Q421274	dantrolene	6	0	8
+Q409898	dapagliflozin	0	0	2
+Q901963	dapiprazole	0	0	1
+Q424965	dapoxetine	0	0	1
+Q422226	dapsone	4	0	4
+Q5222103	darapladib	0	0	1
+Q166476	darifenacin	0	0	5
+Q3765251	darunavir	0	0	11
+Q5225810	darusentan	0	0	1
+Q419940	dasatinib anhydrous	0	0	2
+Q411659	daunorubicin	2	0	2
+Q27262517	daunorubicin citrate	1	0	1
+Q419618	deferoxamine	3	0	3
+Q370244	delavirdine	2	0	2
+Q5255128	demecarium bromide	1	0	1
+Q2736402	demeclocycline	6	0	6
+Q908026	denufosol	0	0	2
+Q425680	deoxycholic acid	0	0	2
+Q402633	deprenyl	4	0	39
+Q5263885	deserpidine	2	0	2
+Q423288	desipramine	3	0	11
+Q5264583	deslanoside	2	0	3
+Q418060	desloratadine	1	0	2
+Q3024529	desmosterol	0	0	2
+Q415304	desogestrel	3	0	3
+Q904011	desonide	4	0	4
+Q385370	desoximetasone	4	0	5
+Q948846	desoxycortone	0	0	2
+Q2419445	desvenlafaxine	0	0	8
+Q422252	dexamethasone	9	0	11
+Q5268318	dexbrompheniramine	1	0	1
+Q904647	dexetimide	0	0	1
+Q5268340	dexloxiglumide	0	0	1
+Q412133	dexmedetomidine	0	0	3
+Q1207210	dexmethylphenidate	1	0	7
+Q524995	dexrazoxane	1	0	1
+Q1706418	dextroamphetamine	2	0	11
+Q407781	dextromethorphan	0	0	7
+Q5268499	dextrothyroxine	3	0	3
+Q18009064	dialuminium nickel tetraoxide	0	0	1
+Q4064287	diaminozinc	0	0	1
+Q17442903	diammonium neodymium pentanitrate	0	0	1
+Q210402	diazepam	3	0	7
+Q420009	diazoxide	2	0	2
+Q403721	dibasic potassium phosphate	0	0	1
+Q4138178	dibasicbarium phosphate	0	0	1
+Q417922	dibenz(b,f)(1,4)oxazepine	0	0	1
+Q17337575	dibromo(chloro)fluorosilane	0	0	1
+Q18201466	dibromo(dichloro)stannane	0	0	1
+Q16735997	dibromo(difluoro)silane	0	0	1
+Q16735996	dibromo(diiodo)silane	0	0	1
+Q18204169	dibromo(diiodo)stannane	0	0	1
+Q415612	dibutyl phthalate	0	0	1
+Q4445885	dicaesium sulfide	0	0	1
+Q17349755	dichloro(diiodo)silane	0	0	1
+Q17334964	dichloro(fluoro)silane	0	0	1
+Q81166	dichlorodiethylsulfide	0	0	1
+Q3706987	dichlorphenamide	1	0	4
+Q244408	diclofenac	5	0	10
+Q2313471	dicloxacillin	5	0	5
+Q17315570	dicopper stibane	0	0	1
+Q420886	dicumarol	1	0	2
+Q2662662	dicyclomine	1	0	4
+Q422606	didanosine	2	0	2
+Q15628232	didysprosium trioxalate	0	0	1
+Q5274970	diepoxybutane	0	0	1
+Q2503726	diethylmercury	0	0	1
+Q2356505	diethylpropion	1	0	1
+Q423989	diethylstilbestrol	4	0	8
+Q420423	diethylzinc	0	0	1
+Q5275451	diflorasone	4	0	4
+Q2602750	diflunisal	2	0	3
+Q16735998	difluoro(diiodo)silane	0	0	1
+Q17320311	difluoro(diisocyanato)silane	0	0	1
+Q736113	difluprednate	1	0	2
+Q15628348	digadolinium(3+) trisulphate	0	0	1
+Q4332806	digallium monoxide	0	0	1
+Q423890	digitoxin	2	0	3
+Q422222	digoxin	2	0	3
+Q421336	dihydroergotamine	0	0	19
+Q4161314	dihydromorphine	0	0	3
+Q155685	dihydrotachysterol	2	0	2
+Q411054	dihydrotestosterone	0	0	1
+Q27269528	dihydroxyaluminum sodium carbonate	7	0	7
+Q17352172	diisocyanatodimethylsilane	0	0	1
+Q5276700	dilazep	0	0	1
+Q422229	diltiazem	3	0	10
+Q5277162	dimaprit	0	0	2
+Q420439	dimenhydrinate	2	0	2
+Q413421	dimethyl sulfate	0	0	1
+Q416690	dimethyldichlorosilane	0	0	1
+Q422087	dimethylmercury	0	0	1
+Q407217	dimethyltryptamine	0	0	2
+Q414430	dimethylzinc	0	0	1
+Q15723091	dinaciclib	0	0	4
+Q17443531	dineodymium tritungsten dodecaoxide	0	0	1
+Q421375	dinoprost	0	0	8
+Q416554	dinoprostone	2	0	16
+Q413486	diphenhydramine	3	0	6
+Q5402419	diphenhydramine citrate	0	0	2
+Q5279734	diphenidol	1	0	1
+Q2530372	diphenylmercury	0	0	1
+Q905952	dipivefrin	3	0	3
+Q4134924	dipotassium hexaiodorhenate	0	0	1
+Q19596938	dipraglurant	0	0	1
+Q424009	diprenorphine	0	0	3
+Q419374	dipyridamole	0	0	5
+Q5280143	diquafosol	0	0	2
+Q116073	disilane	0	0	1
+Q17351073	disilaselenane	0	0	2
+Q1530103	disilene	0	0	1
+Q2675470	disiloxane	0	0	1
+Q17351053	disilylsulphide	0	0	1
+Q1588691	disilyne	0	0	1
+Q3317985	disodium L-glutamate	0	0	1
+Q17419195	disodium diselanediide	0	0	1
+Q425120	disopyramide	1	0	39
+Q4162372	distannane	0	0	1
+Q409665	disulfiram	1	0	1
+Q409173	divanadium pentaoxide	0	0	1
+Q4445835	divanadium trisulphide	0	0	1
+Q15627994	diyttrium trioxalate	0	0	1
+Q4386371	dizocilpine	0	0	4
+Q4836245	do-687	0	0	1
+Q422782	dobutamine	0	0	2
+Q420436	docetaxel anhydrous	8	0	9
+Q423345	doconexent	0	0	1
+Q27105309	docusate	1	0	1
+Q3712521	dofetilide	1	0	40
+Q424238	domperidone	0	0	39
+Q415081	donepezil	1	0	2
+Q19597008	donitriptan	0	0	8
+Q170304	dopamine	1	0	7
+Q415401	dorzolamide	2	0	6
+Q737743	doxapram	2	0	2
+Q419939	doxazosin	2	0	5
+Q5303688	doxercalciferol	1	0	2
+Q18936	doxorubicin	3	0	4
+Q27269332	doxorubicin hydrochloride	15	0	15
+Q422442	doxycycline anhydrous	5	0	5
+Q5308606	dromostanolone propionate	0	0	1
+Q190067	dronabinol	1	0	10
+Q408637	dronedarone	0	0	37
+Q174259	droperidol	1	0	38
+Q419646	drospirenone	0	0	1
+Q411932	duloxetine	0	0	10
+Q424760	dutasteride	1	0	1
+Q15274561	duvoglustat	0	0	1
+Q4161380	dydrogesterone	0	0	1
+Q1843	dysprosium	0	0	28
+Q410654	dysprosium chloride	0	0	1
+Q15628226	dysprosium phosphate	0	0	1
+Q1269328	dysprosium sulfate	0	0	1
+Q15628233	dysprosium(III) trihydroxide	0	0	1
+Q417141	econazole	4	0	6
+Q5333851	ecopipam	0	0	2
+Q408032	edetic acid	1	0	1
+Q21011234	edoxaban	0	0	1
+Q422645	efavirenz	2	0	2
+Q424751	eflornithine	2	0	3
+Q5348096	eglumetad	0	0	4
+Q21098999	elagolix	0	0	1
+Q5358600	eledoisin	0	0	2
+Q415032	eletriptan	0	0	5
+Q20539232	eluxadoline	0	0	1
+Q5370305	emedastine	1	0	1
+Q3050386	emetine	2	0	2
+Q5373824	empagliflozin	0	0	2
+Q5375164	enadoline	0	0	1
+Q422185	enalapril	6	0	7
+Q19904062	encenicline	0	0	1
+Q4531852	endomorphin-1	0	0	2
+Q416740	enflurane	1	0	1
+Q423327	enfuvirtide	2	0	2
+Q1639616	enoxacin	4	0	4
+Q416516	enoxaparin	0	0	1
+Q416444	entacapone	1	0	2
+Q1281020	entinostat	0	0	4
+Q1996756	enzalutamide	0	0	1
+Q5381479	enzastaurin	0	0	4
+Q219626	ephedrine	2	0	3
+Q393339	epigallocatechin gallate	0	0	2
+Q632405	epinastine	0	0	1
+Q132621	epinephrine	4	0	9
+Q425122	epirubicin	1	0	1
+Q784717	eprosartan	2	0	3
+Q2295855	eptifibatide	3	0	3
+Q139200	ergocalciferol	2	0	2
+Q424508	ergonovine	0	0	1
+Q419186	ergotamine	0	0	22
+Q408717	eribulin	0	0	1
+Q418369	erlotinib	0	0	2
+Q553220	ertapenem	2	0	2
+Q213511	erythromycin	11	0	55
+Q423757	escitalopram	1	0	44
+Q418139	esmolol	3	0	4
+Q553223	esomeprazole	4	0	5
+Q5399299	esreboxetine	0	0	1
+Q412939	estramustine	1	0	1
+Q409721	estriol	0	0	2
+Q414986	estrone	0	0	2
+Q5401864	estrone sulfate	0	0	1
+Q5401860	estropipate	3	0	3
+Q5402392	etalocib	0	0	1
+Q27272011	etanautine	0	0	2
+Q5402458	etazolate	0	0	1
+Q27281933	ethacrynate sodium	8	0	8
+Q418571	ethacrynic acid	8	0	8
+Q412318	ethambutol	1	0	1
+Q202218	ether	1	0	1
+Q415563	ethinylestradiol	6	0	8
+Q414767	ethionamide	1	0	1
+Q421567	ethosuximide	1	0	1
+Q4533122	ethotoin	1	0	1
+Q265352	ethoxzolamide	0	0	4
+Q764283	ethylestrenol	0	0	1
+Q4498247	ethylmercury chloride	0	0	1
+Q5405160	ethynodiol diacetate	2	0	2
+Q12745201	eticlopride	0	0	3
+Q2758338	etidronic acid	1	0	1
+Q2465218	etodolac	2	0	4
+Q418445	etomidate	2	0	2
+Q5404835	etonitazene	0	0	3
+Q418817	etoposide	15	0	16
+Q27260984	etoposide phosphate	2	0	2
+Q631202	etoricoxib	0	0	1
+Q554297	etretinate	1	0	1
+Q1396	europium	0	0	37
+Q418517	europium chloride	0	0	1
+Q617253	europium oxide	0	0	1
+Q15628205	europium(II) bromid	0	0	1
+Q1316937	europium(II) oxide	0	0	1
+Q1377105	europium(III) sulfate	0	0	1
+Q4445796	europium(III) sulfate	0	0	1
+Q15628189	europium(III) trihydroxide	0	0	1
+Q421052	everolimus	3	0	4
+Q21098927	examorelin	0	0	1
+Q418819	exemestane	1	0	2
+Q417997	ezetimibe	1	0	2
+Q1386050	ezlopitant	0	0	1
+Q2146170	ezogabine	0	0	4
+Q5423588	f-15599	0	0	1
+Q5090627	fMet-Leu-Phe	0	0	2
+Q5429279	fadrozole	0	0	3
+Q420186	famciclovir	2	0	2
+Q411159	famotidine	9	0	9
+Q5435087	farglitazar	0	0	2
+Q5437132	fasudil	0	0	2
+Q421301	felbamate	2	0	2
+Q420644	felodipine	1	0	2
+Q5443204	fenclonine	0	0	3
+Q418928	fenfluramine	2	0	4
+Q5443558	fenobam anhydrous	0	0	1
+Q419724	fenofibrate	3	0	5
+Q2357007	fenoldopam	3	0	5
+Q2555245	fenoprofen	2	0	5
+Q420188	fenoterol	0	0	1
+Q407541	fentanyl	0	0	7
+Q1311179	ferric phosphate	0	0	1
+Q416370	ferrous fumarate	2	0	2
+Q27290556	ferrous gluconate	2	0	2
+Q2618789	ferrous phosphate	0	0	1
+Q27105054	ferrous sulfate	2	0	2
+Q19597241	fexaramine	0	0	1
+Q415122	fexofenadine	1	0	2
+Q18355303	filorexant	0	0	2
+Q424167	finasteride	2	0	3
+Q21099046	finerenone	0	0	1
+Q2742033	flavone	0	0	2
+Q421381	flecainide	0	0	39
+Q5458730	flesinoxan	0	0	1
+Q415996	flibanserin	0	0	2
+Q5462356	floxuridine	2	0	2
+Q411478	fluconazole	9	0	13
+Q238490	flucytosine	6	0	6
+Q2697578	fludrocortisone	2	0	3
+Q416341	flufenamic acid	0	0	28
+Q421920	flumazenil	0	0	5
+Q27156818	flumorph	0	0	1
+Q62947	flunitrazepam	0	0	4
+Q27106662	fluocinolone	5	0	5
+Q924467	fluocinolone acetonide	0	0	1
+Q5462791	fluocinonide	0	0	1
+Q407350	fluoride ion	1	0	7
+Q17337502	fluoro(triiodo)silane	0	0	1
+Q17337266	fluoro(triisocyanato)silane	0	0	1
+Q17334950	fluorodisilane	0	0	1
+Q607349	fluorometholone	0	0	1
+Q238512	fluorouracil	9	0	9
+Q422244	fluoxetine	4	0	13
+Q410663	fluoxymesterone	3	0	4
+Q5462882	fluparoxan	0	0	1
+Q855654	fluperlapine	0	0	2
+Q58376	fluphenazine	2	0	9
+Q415403	flupirtine	0	0	1
+Q5462632	flurandrenolide	3	0	3
+Q419890	flurbiprofen	3	0	6
+Q408300	fluspirilene	0	0	5
+Q418669	flutamide	1	0	2
+Q1002165	fluticasone	0	0	1
+Q8564098	fluticasone propionate	0	0	1
+Q409236	fluvoxamine	4	0	12
+Q127060	folic acid	2	0	2
+Q161210	formaldehyde	1	0	1
+Q2001841	formate	0	0	1
+Q637247	formoterol	2	0	3
+Q410040	forodesine	0	0	1
+Q1385311	fosamprenavir	0	0	6
+Q5473324	fosaprepitant	0	0	1
+Q420387	foscarnet	3	0	3
+Q183554	fosfomycin	1	0	1
+Q5473363	fosphenytoin	2	0	2
+Q410195	frovatriptan	0	0	3
+Q388801	furosemide	8	0	11
+Q410352	gabapentin	3	0	3
+Q5515384	gabexate	0	0	1
+Q4130924	gaboxadol	0	0	10
+Q1832	gadolinium	0	0	11
+Q415113	gadolinium chloride	0	0	1
+Q419919	gadolinium oxide	0	0	1
+Q2456591	galangin	0	0	2
+Q412690	galantamine	1	0	2
+Q375837	gallic acid	0	0	1
+Q861	gallium	0	0	53
+Q422819	gallium arsenide	0	0	1
+Q31153	gallium chloride	0	0	1
+Q4321582	gallium nitrate anhydrous	1	0	2
+Q15628330	gallium oxalate	0	0	1
+Q906969	gallium phosphate	0	0	1
+Q421416	gallium phosphide	0	0	1
+Q418788	gallium trifluoride	0	0	1
+Q419661	gallium(III) hydroxide	0	0	1
+Q5519267	galnon	0	0	1
+Q417640	ganciclovir	3	0	3
+Q2365016	gatifloxacin anhydrous	8	0	8
+Q5512952	gbr-12935	0	0	1
+Q417824	gefitinib	1	0	2
+Q414143	gemcitabine	2	0	4
+Q384295	gemfibrozil	3	0	8
+Q1639595	gemifloxacin	2	0	2
+Q415957	genistein	0	0	6
+Q422482	gentamicin	5	0	5
+Q420705	gentian violet cation	3	0	3
+Q23714168	gepefrine	0	0	1
+Q418125	geranyl diphosphate	0	0	1
+Q774795	geranylgeranyl pyrophosphate	0	0	2
+Q16735995	germanetriyltrisilane	0	0	1
+Q1279263	germanium selenide	0	0	1
+Q3131169	germanium telluride	0	0	1
+Q426257	givinostat	0	0	9
+Q5567525	glemanserin	0	0	3
+Q26995161	glutamic acid	0	0	1
+Q420626	glyburide	0	0	4
+Q132501	glycerin	2	0	2
+Q209320	glyceryl 2-arachidonate	0	0	2
+Q2813830	glyceryl 2-oleate	0	0	1
+Q620730	glycine	1	0	7
+Q5572600	glycochenodeoxycholic acid	0	0	1
+Q411917	glycopyrrolate	1	0	6
+Q418705	glycyrrhizin	0	0	2
+Q1992653	goserelin	0	0	1
+Q27265738	goserelin acetate	3	0	3
+Q5514388	gr-113808	0	0	1
+Q5514387	gr-127935	0	0	9
+Q416096	griseofulvin	3	0	3
+Q420682	guaifenesin	5	0	5
+Q5613542	guanabenz	1	0	4
+Q5613557	guanadrel	1	0	1
+Q420673	guanethidine	1	0	1
+Q5613599	guanfacine	1	0	4
+Q422511	guanosine cyclic 3',5'-phosphate	0	0	6
+Q392227	guanosine triphosphate	0	0	1
+Q5515069	gw-501516	0	0	1
+Q5515088	gyki-2466	0	0	4
+Q1119	hafnium	0	0	21
+Q4161099	hafnium diboride	0	0	1
+Q2628977	hafnium tetrachloride	0	0	1
+Q4493197	hafnium tetrafluoride	0	0	1
+Q4096870	hafnium(IV) bromide	0	0	1
+Q418001	hafnium(IV) carbide	0	0	1
+Q4202648	hafnium(IV) iodide	0	0	1
+Q418740	hafnium(IV) oxide	0	0	1
+Q5641126	halazepam	1	0	1
+Q425991	halcinonide	4	0	4
+Q251347	haloperidol	3	0	52
+Q5643439	haloprogin	2	0	2
+Q32921	halothane	2	0	6
+Q560	helium	0	0	4
+Q5745805	hesperadin	0	0	1
+Q412398	hexacarbonylmolybdenum	0	0	1
+Q419078	hexacarbonylvanadium	0	0	1
+Q425362	hexachlorophene	1	0	1
+Q410557	hexamethonium	0	0	4
+Q425001	hexamethyldisilazane	0	0	1
+Q418197	hexamethylene diisocyanate	0	0	1
+Q17389057	hexasodium diorthosilicate	0	0	1
+Q20817273	hexestrol	0	0	1
+Q5749037	hexocyclium	0	0	4
+Q5765204	himbacine	0	0	5
+Q61233	histamine	0	0	3
+Q5871149	histrelin	0	0	1
+Q5635296	hn-1	0	0	1
+Q19597516	homoquinolinic acid	0	0	5
+Q411905	hu-210	0	0	6
+Q3877880	hu-310	0	0	1
+Q419987	hydralazine	4	0	4
+Q1188583	hydridohelium(1+)	0	0	1
+Q423930	hydrochlorothiazide	4	0	5
+Q411441	hydrocodone	1	0	3
+Q190875	hydrocortisone	9	0	11
+Q3791957	hydroflumethiazide	4	0	4
+Q211086	hydrogen chloride	0	0	1
+Q171877	hydrogen peroxide	0	0	1
+Q409314	hydrogen selenide	0	0	1
+Q411266	hydrogen telluride	0	0	1
+Q303646	hydromorphone	0	0	3
+Q199877	hydroxide ion	0	0	1
+Q18086658	hydroxy(dioxo)niobium	0	0	1
+Q421094	hydroxychloroquine	6	0	8
+Q15633976	hydroxyflutamide	0	0	1
+Q175901	hydroxyprogesterone	3	0	3
+Q212272	hydroxyurea	12	0	14
+Q421937	hydroxyzine	1	0	2
+Q166825	ibandronic acid	0	0	1
+Q5984345	ibodutant	0	0	1
+Q5984881	ibrutinib	0	0	3
+Q261167	ibudilast	0	0	5
+Q186969	ibuprofen	8	0	13
+Q3791612	ibutilide	1	0	39
+Q21099561	icomucret	0	0	1
+Q16868421	icotinib	0	0	1
+Q855545	idalopirdine	0	0	2
+Q1063862	idarubicin	4	0	4
+Q5908266	idelalisib	0	0	4
+Q418560	ifosfamide	11	0	11
+Q4199443	iloperidone	1	0	4
+Q177094	imatinib	0	0	1
+Q27114666	imatinib mesylate	3	0	3
+Q6003936	imetit	0	0	2
+Q1041804	imidapril	0	0	1
+Q425152	imipenem anhydrous	3	0	3
+Q58396	imipramine	3	0	12
+Q423417	imiquimod	2	0	3
+Q6007727	impromidine	0	0	4
+Q422724	inamrinone	2	0	4
+Q425654	indacaterol	0	0	2
+Q1078392	indapamide	4	0	4
+Q4138049	indigane	0	0	1
+Q425490	indinavir anhydrous	2	0	11
+Q6024927	indiplon	0	0	1
+Q1094	indium	0	0	47
+Q418679	indium antimonide	0	0	2
+Q418583	indium arsenide	0	0	1
+Q415500	indium chloride	0	0	1
+Q2618059	indium gallium arsenide	0	0	2
+Q6025169	indium hydroxide	0	0	1
+Q4202651	indium monoiodide	0	0	1
+Q4321583	indium nitrate	0	0	1
+Q424955	indium oxide	0	0	1
+Q416291	indium phosphide	0	0	1
+Q2331023	indium sulfate	0	0	1
+Q4096881	indium tribromide	0	0	1
+Q15628085	indium(3+) perchlorate	0	0	1
+Q4493207	indium(III) fluoride	0	0	1
+Q409231	indomethacin	6	0	10
+Q408963	indoramin	0	0	3
+Q426386	ingenol mebutate	0	0	5
+Q407997	inositol	0	0	2
+Q407654	iodide ion	0	0	2
+Q17350422	iododisilane	0	0	1
+Q5276473	iodoquinol	2	0	2
+Q1672108	iopanoic acid	1	0	1
+Q6065448	ipsapirone	0	0	1
+Q947266	irbesartan	1	0	3
+Q877	iridium	0	0	43
+Q420934	iridium hexafluoride	0	0	1
+Q4332822	iridium sesquioxide	0	0	1
+Q4498214	iridium tetrachloride	0	0	1
+Q418647	iridium trichloride	0	0	1
+Q2356808	iridium(IV) fluoride	0	0	1
+Q1089197	iridium(V) fluoride	0	0	1
+Q780286	iridosmine	0	0	1
+Q412197	irinotecan	8	0	31
+Q15628106	iron vanadate	0	0	1
+Q223093	isobutylmethylxanthine	0	0	1
+Q415062	isobutyric acid	0	0	2
+Q409595	isocarboxazid	1	0	39
+Q17320479	isocyanatosilane	0	0	1
+Q15632694	isocyanatotrimethylsilane	0	0	1
+Q413918	isoflurane	2	0	2
+Q384993	isoflurophate	2	0	2
+Q6085784	isoguvacine	0	0	9
+Q423169	isoniazid	1	0	2
+Q15239768	isonipecotic acid	0	0	9
+Q17320469	isoselenocyanatosilane	0	0	2
+Q1243800	isosorbide	3	0	3
+Q2394106	isospaglumic acid	0	0	1
+Q17320470	isothiocyanatosilane	0	0	1
+Q287029	isotretinoin	3	0	3
+Q414873	isradipine	1	0	3
+Q905783	istradefylline	0	0	4
+Q425729	ivabradine	0	0	3
+Q6095693	ivacaftor	0	0	1
+Q11711607	ixabepilone	0	0	1
+Q20948663	ixazomib	0	0	1
+Q12745583	j-113397	0	0	1
+Q6109176	jhw-015	0	0	1
+Q7907646	jnj-10191584	0	0	1
+Q6108574	jnj-5207852	0	0	1
+Q3156953	jq1	0	0	2
+Q6109058	jtc-801 free base	0	0	1
+Q2398786	kallidin	0	0	2
+Q421951	kanamycins	1	0	3
+Q243547	ketamine	0	0	4
+Q415997	ketanserin	0	0	15
+Q409192	ketoprofen	2	0	6
+Q2014797	ketorolac	0	0	3
+Q27107089	ketorolac tromethamine	1	0	1
+Q2458673	ketotifen	0	0	1
+Q18386454	kn-62	0	0	1
+Q888	krypton	0	0	1
+Q411652	krypton difluoride	0	0	2
+Q642217	kynurenic acid	0	0	1
+Q958087	labetalol	4	0	7
+Q420077	lacosamide	0	0	1
+Q422631	lamivudine	2	0	2
+Q410346	lamotrigine	3	0	4
+Q1804824	lanepitant	0	0	1
+Q254296	lansoprazole	6	0	7
+Q17333052	lanthanum selenate	0	0	1
+Q17315692	lanthanum stibane	0	0	1
+Q420323	lapatinib	0	0	2
+Q6493750	lasmiditan	0	0	1
+Q644675	lasofoxifene	0	0	2
+Q634959	latanoprost	2	0	3
+Q422627	lauric acid	0	0	1
+Q6505756	lazabemide	0	0	1
+Q4300389	lead molybdate	0	0	1
+Q410026	lead selenide	0	0	1
+Q425263	lead telluride	0	0	1
+Q248550	leflunomide	1	0	2
+Q6523413	lenvatinib	0	0	2
+Q27158839	lenvatinib mesylate	1	0	1
+Q6531771	lestaurtinib	0	0	1
+Q194974	letrozole	1	0	2
+Q907160	leuprolide	9	0	10
+Q6534827	levallorphan	0	0	1
+Q417097	levamisole	1	0	1
+Q6535758	levobetaxolol	0	0	2
+Q408556	levobunolol	2	0	5
+Q2240116	levocabastine	2	0	2
+Q421091	levocetirizine	0	0	1
+Q300989	levodopa	1	0	2
+Q424193	levofloxacin anhydrous	10	0	10
+Q192464	levoleucovorin	1	0	1
+Q417204	levomepromazine	1	0	1
+Q6535776	levomethadone	0	0	3
+Q27287577	levomethadyl	1	0	1
+Q6535779	levomilnacipran	0	0	3
+Q2579108	levorphanol	0	0	2
+Q1452256	levosulpiride	0	0	3
+Q773449	levothyroxine	6	0	9
+Q216935	lidocaine	3	0	4
+Q3832559	linaclotide	0	0	1
+Q909745	linagliptin	1	0	2
+Q423428	lincomycin	1	0	1
+Q282003	lindane	2	0	2
+Q411377	linezolid	2	0	2
+Q6554172	linifanib	0	0	11
+Q407426	linoleic acid	0	0	6
+Q256502	linolenic acid	4	0	6
+Q6554730	linopirdine	0	0	3
+Q327362	liothyronine	6	0	8
+Q412208	lisinopril anhydrous	2	0	2
+Q424446	lisuride	0	0	16
+Q152763	lithium cation	4	0	4
+Q422930	lithium chloride	0	0	1
+Q409319	lithium fluoride	0	0	1
+Q219037	lithium hexamethyldisilazide	0	0	1
+Q2443527	lithium molybdate	0	0	1
+Q424481	lithium niobate	0	0	1
+Q18211659	lithium selenate	0	0	1
+Q18211663	lithium selenite	0	0	1
+Q410458	lithium tantalate	0	0	1
+Q17361161	lithium tetrahydridogallate	0	0	1
+Q3323035	lithocholic acid	0	0	3
+Q6659958	lixivaptan	0	0	1
+Q6666510	lodoxamide	2	0	2
+Q368941	lofepramine	0	0	2
+Q203618	lomefloxacin	2	0	2
+Q415378	lomustine	7	0	7
+Q3258910	lonafarnib	0	0	3
+Q423751	loperamide	2	0	3
+Q422585	lopinavir	2	0	13
+Q979521	loracarbef anhydrous	5	0	5
+Q424049	loratadine	2	0	4
+Q408265	lorazepam	5	0	6
+Q340139	lorcaserin	0	0	3
+Q12745785	lorglumide	0	0	1
+Q410074	losartan	2	0	3
+Q6683687	losmapimod	0	0	1
+Q417740	lovastatin	3	0	24
+Q58614	loxapine	2	0	10
+Q6695342	lubiprostone	0	0	1
+Q413744	lumiracoxib	0	0	1
+Q416992	lurasidone	0	0	3
+Q6706607	luzindole	0	0	2
+Q6460405	ly-156735	0	0	2
+Q4042503	ly-294002	0	0	7
+Q12064249	ly-300168	0	0	4
+Q6460421	ly-320135	0	0	1
+Q415837	lysergic acid	0	0	1
+Q23118	lysergide	0	0	5
+Q6710130	lysergol	0	0	3
+Q2823281	lysophosphatidic acid	0	0	8
+Q286112	m-chlorophenylpiperazine	0	0	5
+Q6724151	macitentan	0	0	2
+Q3843044	mafenide	1	0	1
+Q407931	magnesium carbonate	2	0	2
+Q18212208	magnesium formate dihydrate	0	0	1
+Q407548	magnesium hydroxide	9	0	9
+Q4300387	magnesium molybdate	0	0	1
+Q411014	magnesium nitrate	0	0	1
+Q18211728	magnesium selenide	0	0	1
+Q18211730	magnesium selenite	0	0	1
+Q17374115	magnesium silicate	0	0	1
+Q288266	magnesium sulfate anhydrous	1	0	1
+Q17375284	magnesium telluride	0	0	1
+Q836952	magnesium trisilicate anhydrous	2	0	2
+Q423005	malathion	1	0	1
+Q190143	malic acid	0	0	1
+Q17375357	manganese selenate	0	0	1
+Q15426200	manganese selenide	0	0	1
+Q4291638	manganese silicate	0	0	1
+Q407646	mannitol	3	0	3
+Q1890796	mannitol hexanitrate	4	0	4
+Q418361	maprotiline	6	0	7
+Q421369	maraviroc	4	0	5
+Q1907109	masitinib	0	0	3
+Q6783851	masoprocol	1	0	1
+Q255680	mazindol	1	0	3
+Q422194	mebendazole	3	0	3
+Q3332124	mecamylamine	3	0	9
+Q418011	mechlorethamine	3	0	4
+Q7392763	meclinertant	0	0	2
+Q386441	meclizine	2	0	3
+Q27887916	meclocycline sulfosalicylate	1	0	1
+Q2823284	meclofenamic acid	1	0	3
+Q27279835	medronate disodium	1	0	1
+Q2823834	medroxyprogesterone acetate	1	0	1
+Q6807292	medrysone	2	0	2
+Q284321	mefenamic acid	1	0	6
+Q410513	megestrol	2	0	2
+Q288875	meglumine	2	0	2
+Q180912	melatonin	0	0	3
+Q414028	meloxicam	1	0	4
+Q2298283	melphalan	5	0	5
+Q192430	menadiol	2	0	2
+Q192471	menadione	2	0	2
+Q55434	meperidine	0	0	8
+Q1175385	mephenytoin	2	0	2
+Q411697	mephobarbital	2	0	2
+Q418351	meprobamate	1	0	1
+Q418529	mercaptopurine anhydrous	3	0	3
+Q418720	mercuric acetate	0	0	1
+Q20986200	mercuric arsenate	0	0	1
+Q172925	mercuric bromide	0	0	1
+Q143200	mercuric chloride	0	0	1
+Q20986206	mercuric dichromate	0	0	1
+Q172914	mercuric fluoride	0	0	1
+Q414632	mercuric iodide	0	0	1
+Q417086	mercuric nitrate	0	0	1
+Q20979792	mercuric potassium cyanide	0	0	1
+Q261261	mercuric sulfate	0	0	1
+Q416035	mercuric thiocyanate	0	0	1
+Q172498	mercurous bromide	0	0	1
+Q18234760	mercurous chlorate	0	0	1
+Q172422	mercurous fluoride	0	0	1
+Q60154	mercurous iodide	0	0	1
+Q419761	mercurous nitrate dihydrate	0	0	1
+Q417095	mercurous sulfate	0	0	1
+Q925	mercury	0	0	87
+Q21001751	mercury arsenide	0	0	1
+Q257127	mercury dicyanide	0	0	1
+Q309033	mercury fulminate	0	0	1
+Q417211	mercury selenide	0	0	2
+Q174727	mercury(II) oxide	0	0	1
+Q179518	mercury(II) sulfide	0	0	1
+Q421670	meropenem anhydrous	4	0	4
+Q412479	mesalamine	4	0	5
+Q6821618	mesoridazine	2	0	45
+Q6822173	mesulergine	0	0	5
+Q416473	metaproterenol	2	0	3
+Q6823517	metergoline	0	0	10
+Q19484	metformin	0	0	3
+Q179996	methadone	1	0	44
+Q191924	methamphetamine	3	0	8
+Q1149099	methazolamide	3	0	8
+Q6665709	methdilazine	4	0	4
+Q71969	methenamine	3	0	3
+Q27283414	methenamine hippurate	2	0	2
+Q27264316	methenamine mandelate	2	0	2
+Q409262	methicillin	3	0	3
+Q419663	methimazole	3	0	4
+Q6593527	methimepip	0	0	2
+Q411456	methocarbamol	1	0	2
+Q18344124	methoctramine free base	0	0	5
+Q422232	methotrexate	16	0	19
+Q685119	methoxamine	0	0	3
+Q408570	methoxsalen	4	0	4
+Q906414	methsuximide	1	0	1
+Q6823919	methyclothiazide	4	0	4
+Q5205608	methyl 6,7-dimethoxy-4-ethyl-β-carboline-3-carboxylate	0	0	4
+Q410431	methyl isocyanate	0	0	1
+Q412621	methyldopa anhydrous	1	0	1
+Q424477	methylergonovine	0	0	19
+Q903881	methylglyoxal	0	0	1
+Q21010649	methylmercury chloride	0	0	1
+Q414075	methylmercury(1+)	0	0	1
+Q411515	methylnaltrexone	0	0	3
+Q422112	methylphenidate	3	0	10
+Q417222	methylprednisolone	5	0	6
+Q421768	methyltestosterone	3	0	4
+Q424442	methysergide	0	0	10
+Q6593346	metipranolol	1	0	1
+Q6824116	metirosine	1	0	1
+Q6824154	metitepine	0	0	11
+Q421095	metoclopramide	3	0	4
+Q20817012	metocurine iodide	1	0	1
+Q1169561	metolazone	4	0	5
+Q409468	metoprolol	4	0	6
+Q3333717	metribolone	0	0	1
+Q169569	metronidazole	6	0	7
+Q821641	metyrapone	0	0	1
+Q414407	mevastatin	0	0	1
+Q420377	mexiletine	1	0	3
+Q3307752	mezlocillin	3	0	3
+Q3272916	mg-132	0	0	1
+Q416701	mianserin	0	0	8
+Q6827783	mibefradil	1	0	10
+Q6827784	mibolerone	0	0	1
+Q410534	miconazole	6	0	9
+Q423071	midazolam	2	0	2
+Q6842945	midostaurin	0	0	1
+Q411240	mifepristone	4	0	8
+Q27275527	migalastat hydrochloride	1	0	1
+Q772735	miglitol	0	0	2
+Q425911	miglustat	0	0	1
+Q6850472	milameline	0	0	4
+Q847399	milrinone	1	0	5
+Q415336	minocycline	3	0	3
+Q2823280	minodronic acid	0	0	2
+Q424165	minoxidil	2	0	4
+Q3702534	mirabegron	0	0	3
+Q5013646	miridesap	0	0	1
+Q421930	mirtazapine	1	0	6
+Q416025	misoprostol	0	0	3
+Q19856779	mitomycin	4	0	4
+Q417465	mitotane	2	0	4
+Q239426	mitoxantrone	6	0	7
+Q6716391	mk-0249	0	0	4
+Q15124168	mk-212	0	0	3
+Q424869	mocetinostat	0	0	3
+Q421934	moclobemide	0	0	2
+Q410441	modafinil	3	0	3
+Q2291605	moexipril	2	0	2
+Q593166	molindone	2	0	4
+Q1053	molybdenum	0	0	83
+Q424257	molybdenum disulfide	0	0	1
+Q411592	molybdenum hexafluoride	0	0	1
+Q2615924	molybdenum pentachloride	0	0	1
+Q4493212	molybdenum pentafluoride	0	0	1
+Q4332833	molybdenum sesquioxide	0	0	1
+Q2350349	molybdenum tetrachloride	0	0	1
+Q4332902	molybdenum tetrafluoride oxide	0	0	1
+Q4498220	molybdenum trichloride	0	0	1
+Q4493213	molybdenum trifluoride	0	0	1
+Q416416	molybdenum trioxide	0	0	1
+Q415673	molybdenum(IV) oxide	0	0	1
+Q412950	molybdic acid	0	0	1
+Q252602	momelotinib	0	0	3
+Q415049	monobasicpotassium phosphate	0	0	1
+Q2768526	monobenzone	1	0	1
+Q417767	montelukast	1	0	2
+Q418224	morin	0	0	1
+Q81225	morphine	0	0	3
+Q68566	mosapride	0	0	1
+Q6917202	motesanib	0	0	3
+Q424940	moxifloxacin	8	0	45
+Q12746116	mozavaptan	0	0	3
+Q6930896	mubritinib	0	0	1
+Q413578	mupirocin	1	0	1
+Q407952	muscarine	0	0	2
+Q412504	muscimol	0	0	9
+Q4567614	mycophenolate mofetil	1	0	3
+Q420553	mycophenolic acid	0	0	2
+Q15628176	myo-Inositol	0	0	1
+Q6948247	myriocin	0	0	2
+Q422658	myristic acid	0	0	2
+Q20817018	myristyl sulfate	1	0	1
+Q425207	nabumetone	2	0	3
+Q424952	nadolol	3	0	6
+Q6958145	nafadotride	0	0	3
+Q15409374	nafamostat	0	0	7
+Q1638852	nafcillin	5	0	5
+Q425867	nafronyl	1	0	1
+Q413586	naftifine	2	0	2
+Q277979	nalbuphine	0	0	3
+Q6960874	nalfurafine	0	0	1
+Q281082	nalidixic acid	1	0	1
+Q4353252	nalmefene	1	0	4
+Q2622916	nalorphine	0	0	3
+Q282902	naloxone	2	0	5
+Q409587	naltrexone	3	0	6
+Q12746295	naltriben	0	0	3
+Q3743642	naltrindole	0	0	3
+Q421709	nandrolone	2	0	3
+Q415433	naphazoline	2	0	2
+Q1215575	naproxen	7	0	10
+Q421315	naratriptan	0	0	5
+Q418469	naringin	0	0	1
+Q248466	natamycin	11	0	11
+Q18002993	navitoclax	0	0	2
+Q416706	nedocromil	2	0	2
+Q416632	nefazodone	2	0	14
+Q423366	nelfinavir	2	0	13
+Q6989992	nelivaptan	0	0	4
+Q6991226	nemonapride	0	0	2
+Q1388	neodymium	0	0	68
+Q17455907	neodymium arsenide	0	0	1
+Q409903	neodymium chloride	0	0	1
+Q17488722	neodymium formate	0	0	1
+Q17447352	neodymium oxalate	0	0	1
+Q424466	neodymium oxide	0	0	1
+Q17488706	neodymium selenate	0	0	2
+Q18211916	neodymium selenide	0	0	2
+Q17488721	neodymium silicate	0	0	2
+Q18212190	neodymium telluride	0	0	2
+Q18211889	neodymium triacetate	0	0	1
+Q16854884	neodymium(II) iodide	0	0	1
+Q1361951	neodymium(III) fluoride	0	0	1
+Q17563007	neodymium(III) hexacyanoferrate(III)	0	0	1
+Q1452045	neodymium(III) iodide	0	0	1
+Q17488712	neodymium(III) selenite	0	0	2
+Q410546	neostigmine	2	0	3
+Q18746342	nepadutant	0	0	1
+Q6593941	nepicastat	0	0	1
+Q1105	neptunium	0	0	91
+Q1977868	neptunium(III) bromide	0	0	1
+Q1977871	neptunium(III) chloride	0	0	1
+Q1977872	neptunium(III) fluoride	0	0	1
+Q1977874	neptunium(III) iodide	0	0	1
+Q1977879	neptunium(IV) bromide	0	0	1
+Q1977880	neptunium(IV) chloride	0	0	1
+Q1977882	neptunium(IV) fluoride	0	0	1
+Q1977884	neptunium(V) fluoride	0	0	1
+Q1977886	neptunium(VI) fluoride	0	0	1
+Q6995920	neratinib	0	0	2
+Q6999822	netoglitazone	0	0	1
+Q19598139	netupitant	0	0	1
+Q263713	nevirapine	2	0	2
+Q134658	niacin	2	0	5
+Q192423	niacinamide	1	0	1
+Q27265552	niacinamide hydriodide	1	0	1
+Q729213	nicardipine	1	0	2
+Q744	nickel	0	0	86
+Q899422	nickel acetate	0	0	1
+Q18212121	nickel ammonium sulfate hexahydrate	0	0	1
+Q18002870	nickel bis(benzenesulphonate)	0	0	1
+Q15425781	nickel boride	0	0	1
+Q419684	nickel bromide	0	0	1
+Q417856	nickel carbonate	0	0	1
+Q18002958	nickel carbonate hydroxide	0	0	1
+Q414537	nickel carbonyl	0	0	1
+Q29397	nickel chloride	0	0	1
+Q2142336	nickel chromate	0	0	1
+Q4505499	nickel cyanide	0	0	1
+Q4138047	nickel dihydride	0	0	1
+Q18002872	nickel dipotassium disulfate	0	0	1
+Q416623	nickel fluoride	0	0	1
+Q18002874	nickel formate	0	0	1
+Q414637	nickel hydroxide	0	0	1
+Q425274	nickel nitrate	0	0	1
+Q18002891	nickel oleate	0	0	1
+Q18212003	nickel oxalate	0	0	1
+Q18212007	nickel perchlorate	0	0	1
+Q4456691	nickel potassium cyanide	0	0	1
+Q15915537	nickel potassium fluoride	0	0	1
+Q18212009	nickel selenate	0	0	2
+Q7028298	nickel selenide	0	0	2
+Q419873	nickel sesquioxide	0	0	1
+Q411337	nickel sulfate	0	0	1
+Q18002898	nickel sulfite	0	0	1
+Q7028230	nickel(II) acetylacetonate	0	0	1
+Q15628130	nickel(II) hexacyanoferrate(II)	0	0	1
+Q421443	nickel(II) iodide	0	0	1
+Q411221	nickel(II) oxide	0	0	1
+Q1985595	nickel(II) sulfide	0	0	1
+Q4457911	nickel(II) thiocyanate	0	0	1
+Q15425778	nickel(II) titanate	0	0	1
+Q4162396	nickel(IV) sulfide	0	0	1
+Q418054	nickelocene	0	0	1
+Q418523	niclosamide	1	0	2
+Q862989	nicorandil	0	0	1
+Q39111	nifedipine	1	0	11
+Q304285	niflumic acid	0	0	6
+Q412327	nilotinib	0	0	1
+Q3877030	nilutamide	3	0	4
+Q20994	nimesulide	0	0	2
+Q421429	nimodipine	0	0	2
+Q15149723	nintedanib	0	0	9
+Q1046	niobium	0	0	75
+Q2348776	niobium carbide	0	0	1
+Q4498222	niobium chloride	0	0	1
+Q408470	niobium dioxide	0	0	1
+Q18170423	niobium thiobromide	0	0	1
+Q4493216	niobium trifluoride	0	0	1
+Q4445861	niobium(IV) disulphide	0	0	1
+Q6343309	niobium(IV) fluoride	0	0	1
+Q2698748	niobium(V) fluoride	0	0	1
+Q3342150	nisoldipine	1	0	2
+Q906885	nisoxetine	0	0	1
+Q2943789	nitazoxanide	2	0	2
+Q3877355	nitisinone	1	0	1
+Q182168	nitrate ion	0	0	1
+Q416584	nitrendipine	0	0	2
+Q207843	nitric oxide	2	0	2
+Q7041453	nitroarginine	0	0	3
+Q162867	nitroglycerin	5	0	5
+Q1188290	nizatidine	8	0	8
+Q4327722	nociceptin	0	0	1
+Q409948	nomifensine	0	0	2
+Q5264612	norclozapine	0	0	1
+Q186242	norepinephrine	0	0	7
+Q421352	norethindrone	6	0	7
+Q5659069	norethynodrel	2	0	2
+Q3069482	norfenfluramine	0	0	1
+Q417897	norfloxacin	7	0	7
+Q7452012	norfluoxetine	0	0	1
+Q7051181	norgestimate	1	0	1
+Q414226	norharman	0	0	1
+Q61387	nortriptyline	3	0	11
+Q15708271	obeticholic acid	0	0	1
+Q15633971	ocaperidone	0	0	3
+Q2013712	ocinaplon	0	0	4
+Q424979	octopamine	0	0	1
+Q2014070	odanacatib	0	0	3
+Q411447	ofloxacin	15	0	15
+Q201872	olanzapine	3	0	14
+Q7083106	olaparib	1	0	3
+Q4370	oleamide	0	0	1
+Q418628	oleanolic acid	0	0	1
+Q7086404	oleic monoethanolamide	0	0	3
+Q402613	oleocanthal	0	0	1
+Q421156	olmesartan	2	0	2
+Q7088466	olodaterol	0	0	1
+Q3267092	olopatadine	2	0	2
+Q21098979	omarigliptin	0	0	1
+Q422210	omeprazole	7	0	10
+Q410011	ondansetron	1	0	39
+Q424163	orlistat	1	0	4
+Q3292273	orphenadrine	1	0	1
+Q15725543	orthoclase	0	0	1
+Q425172	orthotelluric acid	0	0	1
+Q7105703	osanetant	0	0	3
+Q21506464	osimertinib	0	0	1
+Q418725	oxacillin	5	0	5
+Q682497	oxamniquine	1	0	1
+Q420859	oxandrolone	1	0	1
+Q1749609	oxaprozin	3	0	6
+Q412299	oxazepam	2	0	2
+Q176301	oxcarbazepine	2	0	2
+Q3359058	oxiconazole	3	0	3
+Q3324838	oxiglutatione	0	0	1
+Q306140	oxogluric acid	0	0	1
+Q676896	oxotremorine	0	0	4
+Q518114	oxybenzone	1	0	1
+Q1060922	oxybutynin	2	0	7
+Q417813	oxymetazoline	1	0	10
+Q420864	oxymetholone	1	0	1
+Q7116109	oxyphenonium bromide	1	0	1
+Q411646	oxytetracycline anhydrous	4	0	4
+Q169960	oxytocin	1	0	5
+Q99374	p-coumaric acid	0	0	1
+Q423762	paclitaxel	5	0	7
+Q3888693	pacritinib	0	0	4
+Q15269707	palbociclib	0	0	2
+Q423292	paliperidone	1	0	1
+Q1089	palladium	0	0	70
+Q419904	palladium dichloride	0	0	1
+Q4138108	palladium hydroxide	0	0	1
+Q416480	palladium nitrate	0	0	1
+Q421063	palladium oxide	0	0	1
+Q6343207	palladium(II) acetate	0	0	1
+Q2112049	palladium(II) acetylacetonate	0	0	1
+Q2332385	palladium(II) bromide	0	0	1
+Q4493224	palladium(II) fluoride	0	0	1
+Q29588	palladium(II,IV) fluoride	0	0	1
+Q2159860	palmidrol	0	0	2
+Q15708269	palovarotene	0	0	1
+Q7129023	pamabrom	1	0	1
+Q627499	pamidronic acid	2	0	2
+Q411413	pamoic acid	0	0	1
+Q424297	pancuronium	0	0	1
+Q7131441	panobinostat	0	0	8
+Q286846	pantoprazole	5	0	6
+Q410374	papaverine	5	0	5
+Q424342	paraldehyde	2	0	2
+Q155746	paricalcitol	1	0	2
+Q415625	paromomycin	2	0	2
+Q408471	paroxetine	6	0	12
+Q167934	pathogen	0	0	16
+Q15426668	patidegib	0	0	1
+Q7157043	pazopanib	0	0	7
+Q415220	pemetrexed	0	0	2
+Q7162004	pemirolast	2	0	2
+Q419008	pemoline	2	0	2
+Q944244	penbutolol	2	0	2
+Q420364	penciclovir	1	0	1
+Q258450	penicillin g	1	0	1
+Q27288139	penicillin g benzathine	1	0	1
+Q27089370	penicillin g potassium	1	0	1
+Q13026783	penicillin g procaine	2	0	2
+Q27122736	penicillin g sodium	1	0	1
+Q27107637	penicillin v potassium	4	0	4
+Q4202673	pentaiodotantalum	0	0	1
+Q416206	pentamidine	5	0	42
+Q409632	pentobarbital	1	0	1
+Q425470	pentostatin	1	0	2
+Q416331	pentoxifylline	11	0	12
+Q413677	perflunafene	0	0	1
+Q23003533	perfluoro-N-(4-methylcyclohexyl)piperidine	0	0	1
+Q415752	pergolide	2	0	16
+Q3117895	perillaldehyde	0	0	1
+Q277785	perindopril	2	0	2
+Q410407	permanganate ion	0	0	1
+Q411635	permethrin	2	0	2
+Q6590349	perospirone	0	0	3
+Q423520	perphenazine	6	0	12
+Q7119045	pf-04457845	0	0	1
+Q3742404	phenacemide	1	0	1
+Q407324	phencyclidine	0	0	4
+Q1747559	phenelzine	1	0	46
+Q407411	phenethylamine	0	0	1
+Q6583284	phenindamine	1	0	1
+Q1640947	phenindione	0	0	1
+Q656259	pheniramine	1	0	1
+Q3329406	phenmetrazine	1	0	1
+Q407241	phenobarbital	4	0	5
+Q419824	phenoxybenzamine	4	0	5
+Q999805	phensuximide	1	0	1
+Q418157	phentermine	1	0	6
+Q420360	phentolamine	3	0	9
+Q421342	phenylbutazone	0	0	2
+Q421910	phenylephrine	4	0	6
+Q27270210	phenylpropanolamine hydrochloride	2	0	2
+Q7181443	phenyltoloxamine	1	0	1
+Q410400	phenytoin	3	0	5
+Q2268463	phloretin	0	0	3
+Q413105	phlorizin	0	0	2
+Q177811	phosphate ion	0	0	9
+Q3138518	phosphatidyl (3,5) inositol biphosphate	0	0	3
+Q7189490	physalaemin	0	0	1
+Q410595	physostigmine	1	0	3
+Q75884	piboserod	0	0	2
+Q416602	picrotoxin	0	0	23
+Q411461	pilocarpine	2	0	7
+Q409583	pimagedine	0	0	1
+Q7194603	pimavanserin	0	0	1
+Q417489	pimecrolimus	1	0	1
+Q144085	pimozide	5	0	49
+Q418101	pindolol	2	0	7
+Q417765	pioglitazone	0	0	2
+Q415118	pipamperone	0	0	5
+Q3905512	piperacetazine	1	0	1
+Q423787	piperacillin anhydrous	2	0	2
+Q414501	piperine	0	0	1
+Q420891	piperonyl butoxide	2	0	2
+Q15366704	pipobroman	2	0	2
+Q567927	pipotiazine	0	0	1
+Q410069	piracetam	0	0	4
+Q1236526	pirbuterol	1	0	1
+Q419550	pirenzepine	0	0	5
+Q3905617	piretanide	0	0	2
+Q413976	piribedil	0	0	8
+Q7198008	pirinixic acid	0	0	1
+Q4363248	pirlindole	0	0	1
+Q408676	piroxicam	3	0	6
+Q426044	pitolisant	0	0	4
+Q413784	pizotyline	0	0	1
+Q7119490	pk-11195	0	0	1
+Q905835	plerixafor	0	0	3
+Q2550553	plumbagin	0	0	2
+Q1102	plutonium	0	0	45
+Q408422	plutonium hexafluoride	0	0	1
+Q3027892	plutonium hydride	0	0	1
+Q2099796	plutonium(III) bromide	0	0	1
+Q421272	plutonium(III) chloride	0	0	1
+Q408403	plutonium(III) fluoride	0	0	1
+Q2099802	plutonium(III) iodide	0	0	1
+Q413258	plutonium(IV) oxide	0	0	1
+Q421193	podofilox	1	0	1
+Q417013	polane	0	0	1
+Q979	polonium	0	0	17
+Q7225951	polonium trioxide	0	0	1
+Q4332854	polonium(IV) oxide	0	0	1
+Q211171	polychlorinated biphenyls	0	0	1
+Q7227099	polythiazide	4	0	4
+Q198728	ponatinib	0	0	4
+Q409199	potassium acetate	1	0	1
+Q410529	potassium bicarbonate	1	0	1
+Q21091971	potassium cation	0	0	1
+Q184630	potassium chloride	1	0	1
+Q419921	potassium citrate anhydrous	1	0	1
+Q192470	potassium cyanide	0	0	2
+Q1122870	potassium gluconate	1	0	1
+Q7234706	potassium heptafluorotantalate	0	0	1
+Q4134938	potassium hexafluorosilicate	0	0	1
+Q132298	potassium hydroxide	0	0	1
+Q416649	potassium mercuric iodide	0	0	1
+Q190865	potassium permanganate	0	0	1
+Q15627913	potassium selenate	0	0	1
+Q15627915	potassium selenide	0	0	1
+Q15627919	potassium stannate	0	0	1
+Q15630566	potassium tellurate	0	0	1
+Q15630020	potassium telluride	0	0	1
+Q3983056	potassium tellurite	0	0	1
+Q18344027	pracinostat	0	0	4
+Q7237376	practolol	0	0	1
+Q637059	pralatrexate	0	0	1
+Q2735334	pralidoxime	0	0	1
+Q421304	pramipexole	2	0	4
+Q1240076	pramoxine	2	0	2
+Q7238392	pranlukast	0	0	2
+Q1240093	pravastatin	3	0	5
+Q2149443	prazepam	3	0	3
+Q424145	praziquantel	3	0	3
+Q425296	prazosin	3	0	9
+Q4376623	prednicarbate	4	0	4
+Q3837481	prednienic acid	7	0	7
+Q11426176	prednisolone	11	0	13
+Q424972	prednisone	11	0	12
+Q7239912	pregnenolone sulfate	0	0	5
+Q7240024	preladenant	0	0	4
+Q7240518	prenalterol	0	0	1
+Q419834	primaquine	3	0	3
+Q27279400	primaquine phosphate	2	0	2
+Q420383	primidone	1	0	1
+Q900898	probenecid	3	0	5
+Q10354103	probucol	3	0	41
+Q417597	procainamide	1	0	38
+Q423741	procaine	0	0	2
+Q418656	procarbazine	6	0	42
+Q2359690	prochlorperazine	3	0	7
+Q268997	procyclidine	2	0	2
+Q26963	progesterone	2	0	9
+Q420607	proguanil	1	0	1
+Q484583	proline	0	0	2
+Q419822	promazine	1	0	3
+Q7249694	promegestone	0	0	1
+Q422970	promethazine	1	0	2
+Q1652677	promethium(III) chloride	0	0	1
+Q662511	propafenone	1	0	5
+Q3275451	propantheline	6	0	10
+Q422956	propionic acid	0	0	2
+Q422740	propofol	2	0	2
+Q423364	propranolol	8	0	11
+Q377342	propylthiouracil	3	0	4
+Q419750	prostaglandin D2	0	0	6
+Q1109	protactinium	0	0	37
+Q3498021	protactinium(IV) oxide	0	0	1
+Q906013	protactinium(V) chloride	0	0	1
+Q1096761	protactinium(V) oxide	0	0	1
+Q408432	protriptyline	1	0	8
+Q7252902	proxyfan	0	0	1
+Q68484	prucalopride	0	0	1
+Q7253051	prunetin	0	0	1
+Q263958	pseudoephedrine	3	0	8
+Q410190	putrescine	0	0	1
+Q426897	pyrantel	3	0	3
+Q3489331	pyrantel pamoate	1	0	1
+Q417571	pyrazinamide	1	0	1
+Q4545713	pyrazolanthrone	0	0	3
+Q419472	pyridostigmine	1	0	3
+Q423746	pyridoxine	1	0	1
+Q3800087	pyrilamine	1	0	2
+Q421072	pyrimethamine	2	0	3
+Q204602	pyrithione zinc	2	0	3
+Q411092	pyrophosphoric acid	0	0	1
+Q7268283	quadazocine	0	0	3
+Q408535	quetiapine	3	0	11
+Q417208	quinacrine	2	0	2
+Q596022	quinapril	2	0	2
+Q7272223	quinelorane	0	0	2
+Q3927871	quinestrol	1	0	1
+Q7272222	quinethazone	4	0	4
+Q412496	quinidine	1	0	43
+Q189522	quinine	2	0	4
+Q402719	quinone	0	0	1
+Q253187	quinpirole	0	0	7
+Q7272542	quinupristin	1	0	1
+Q7272557	quipazine	0	0	4
+Q7272620	quisinostat	0	0	11
+Q756551	quisqualic acid	0	0	1
+Q3515	rabeprazole	4	0	5
+Q180341	racemethionine	1	0	1
+Q15408417	racemetirosine	0	0	1
+Q7279814	raclopride	0	0	3
+Q1485208	radafaxine	0	0	1
+Q1128	radium	0	0	7
+Q2653992	radium bromide	0	0	1
+Q1344375	radium chloride	0	0	1
+Q4138111	radium hydroxide	0	0	1
+Q4445816	radium sulfate	0	0	1
+Q1133	radon	0	0	1
+Q425223	raloxifene	0	0	2
+Q15304877	raltitrexed	0	0	1
+Q10357327	ramatroban	0	0	2
+Q417689	ramelteon	0	0	6
+Q412666	ramipril	2	0	2
+Q2979523	ramosetron	0	0	1
+Q423037	ranitidine	0	0	2
+Q907104	ranolazine	1	0	1
+Q420685	rasagiline	0	0	1
+Q412957	raubasine	0	0	1
+Q7307897	regadenoson anhydrous	0	0	4
+Q3891664	regorafenib	2	0	4
+Q7310905	relcovaptan	0	0	4
+Q21099000	relugolix	0	0	1
+Q68414	renzapride	0	0	1
+Q2195995	repaglinide	0	0	1
+Q7314015	repinotan	0	0	1
+Q407841	reserpine	2	0	4
+Q426054	resiquimod	0	0	2
+Q18394103	resminostat	0	0	4
+Q407329	resveratrol	0	0	2
+Q424976	retinol	0	0	1
+Q737	rhenium	0	0	82
+Q425164	rhenium diboride	0	0	1
+Q421025	rhenium heptafluoride	0	0	1
+Q418325	rhenium heptoxide	0	0	1
+Q408323	rhenium hexafluoride	0	0	1
+Q2316104	rhenium pentachloride	0	0	1
+Q4493230	rhenium pentafluoride	0	0	1
+Q2452855	rhenium trichloride	0	0	1
+Q418954	rhenium trioxide	0	0	1
+Q4096889	rhenium(III) bromide	0	0	1
+Q4202668	rhenium(III) iodide	0	0	1
+Q4096892	rhenium(IV) bromide	0	0	1
+Q4498233	rhenium(IV) chloride	0	0	1
+Q4202669	rhenium(IV) iodide	0	0	1
+Q2451840	rhenium(IV) oxide	0	0	1
+Q4445877	rhenium(VII) sulfide	0	0	1
+Q1087	rhodium	0	0	72
+Q417410	rhodium chloride	0	0	1
+Q413023	rhodium hexafluoride	0	0	1
+Q20980618	rhodium hydroxide	0	0	1
+Q409279	rhodium oxide	0	0	1
+Q4096893	rhodium(III) bromide	0	0	1
+Q3488660	rhodium(III) oxide	0	0	1
+Q421862	ribavirin	4	0	6
+Q130365	riboflavin	1	0	1
+Q2151796	ridaforolimus	0	0	1
+Q1135705	rifabutin	2	0	13
+Q26270990	rifamycin	0	0	4
+Q3935297	rifapentine	1	0	11
+Q415744	riluzole	1	0	4
+Q412529	rimonabant	0	0	2
+Q408724	risedronic acid	1	0	1
+Q412443	risperidone	6	0	21
+Q3937260	ritanserin	0	0	12
+Q422618	ritonavir	2	0	15
+Q7336984	rivanicline	0	0	1
+Q420262	rivaroxaban	0	0	1
+Q411887	rivastigmine	1	0	3
+Q212171	rizatriptan	0	0	8
+Q7339199	ro-15-4513	0	0	6
+Q27287118	ro-5045337	0	0	1
+Q7340703	robalzotan	0	0	1
+Q411412	rofecoxib	1	0	2
+Q693482	roflumilast	1	0	2
+Q410285	rolipram	0	0	4
+Q7361410	rolofylline	0	0	4
+Q7363205	romidepsin	3	0	12
+Q420590	ropinirole	1	0	3
+Q424771	rosiglitazone	0	0	4
+Q415159	rosuvastatin	0	0	2
+Q411985	rotigotine	0	0	5
+Q7370686	rottlerin	0	0	1
+Q7372445	roxindole	0	0	12
+Q424037	roxithromycin	0	0	1
+Q44804	rs-127445	0	0	3
+Q7277958	ru-24969	0	0	8
+Q895	rubidium	0	0	34
+Q745794	rubidium amide	0	0	1
+Q421120	rubidium bromide	0	0	1
+Q424915	rubidium carbonate	0	0	1
+Q1313546	rubidium chlorate	0	0	1
+Q418909	rubidium chloride	0	0	1
+Q2171580	rubidium chromate	0	0	1
+Q2171581	rubidium dichromate	0	0	1
+Q15726037	rubidium dihydrogen phosphate	0	0	1
+Q420338	rubidium fluoride	0	0	1
+Q219571	rubidium hydride	0	0	1
+Q121430	rubidium hydroxide	0	0	1
+Q426446	rubidium iodide	0	0	1
+Q2171654	rubidium nitrate	0	0	1
+Q425243	rubidium oxide	0	0	1
+Q412328	rubidium perchlorate	0	0	1
+Q4351683	rubidium peroxide	0	0	1
+Q426424	rubidium sulfate	0	0	1
+Q2171605	rubidium sulfide	0	0	1
+Q7376181	ruboxistaurin	0	0	6
+Q7376558	rucaparib	0	0	1
+Q1086	ruthenium	0	0	30
+Q416759	ruthenium tetroxide	0	0	1
+Q303472	ruthenium trichloride	0	0	1
+Q4096894	ruthenium(III) bromide	0	0	1
+Q4202671	ruthenium(III) iodide	0	0	1
+Q417022	ruthenium(IV) oxide	0	0	1
+Q2177832	ruthenium(V) fluoride	0	0	1
+Q7383611	ruxolitinib	0	0	4
+Q7396015	sabcomeline	0	0	4
+Q2211523	safinamide	0	0	1
+Q3459689	sakuranetin	0	0	2
+Q193572	salicylic acid	5	0	6
+Q424333	salmeterol	2	0	3
+Q1320691	salsalate	1	0	1
+Q413512	salvinorin A	0	0	1
+Q1819	samarium	0	0	4
+Q421243	samarium chloride	0	0	1
+Q421401	samarium oxide	0	0	1
+Q4498238	samarium(II) chloride	0	0	1
+Q2216822	samarium(III) sulfate	0	0	1
+Q422654	saquinavir	2	0	13
+Q21098957	saracatinib	0	0	4
+Q3473757	saredutant	0	0	3
+Q44931	sarpogrelate	0	0	3
+Q3121121	saxagliptin anhydrous	0	0	1
+Q412694	saxitoxin	0	0	4
+Q7389023	sb-203580	0	0	3
+Q7388905	sb-206553	0	0	3
+Q7388907	sb-216641	0	0	6
+Q713	scandium	0	0	21
+Q421128	scandium chloride	0	0	1
+Q418796	scandium fluoride	0	0	1
+Q2493124	scandium nitrate	0	0	1
+Q4321619	scandium nitride	0	0	1
+Q418024	scandium oxide	0	0	1
+Q4445820	scandium sulfate	0	0	1
+Q2228902	scandium tribromide	0	0	1
+Q2228916	scandium triiodide	0	0	1
+Q2339592	scandium(III) sulfide	0	0	1
+Q6592038	sch-442416	0	0	4
+Q15634078	sch-51866	0	0	6
+Q7389140	sch-58261	0	0	4
+Q337188	scopolamine	7	0	7
+Q413349	selenic acid	0	0	1
+Q413722	selenious acid	0	0	1
+Q876	selenium	1	0	150
+Q411386	selenium dioxide	0	0	1
+Q425217	selenium hexafluoride	0	0	1
+Q419375	selenium sulfide	3	0	3
+Q2207705	selenium tetrachloride	0	0	1
+Q6070	selenium trioxide	0	0	1
+Q4413588	selenophene	0	0	1
+Q7448341	selfotel	0	0	4
+Q3494619	seliciclib	0	0	2
+Q7448840	selumetinib	0	0	1
+Q426010	semagacestat	0	0	1
+Q7449140	semaxanib	0	0	4
+Q7450628	senicapoc	0	0	1
+Q7454518	sergliflozin etabonate	0	0	2
+Q418050	sertindole	0	0	11
+Q407617	sertraline	6	0	12
+Q419394	sevoflurane	0	0	37
+Q424151	sibutramine	0	0	3
+Q410572	silane	0	0	1
+Q191521	sildenafil	1	0	6
+Q308976	silica gel	0	0	1
+Q670	silicon	0	0	194
+Q412356	silicon carbide	0	0	1
+Q116269	silicon dioxide	0	0	1
+Q2232750	silicon disulfide	0	0	1
+Q414909	silicon monoxide	0	0	1
+Q413828	silicon nitride	0	0	1
+Q2012159	silicon tetrabromide	0	0	1
+Q413709	silicon tetrachloride	0	0	2
+Q413140	silicon tetrafluoride	0	0	1
+Q217994	silicon tetraiodide	0	0	1
+Q1032320	silicon trichloride fluoride	0	0	1
+Q367849	silicon-germanium	0	0	1
+Q411770	silodosin	0	0	3
+Q207442	silver nitrate	1	0	1
+Q15730236	silver tetraiodomercurate(ii)	0	0	1
+Q16736808	silylpotassium	0	0	1
+Q670131	simvastatin	4	0	24
+Q7521885	sincalide	0	0	1
+Q419832	sitagliptin	0	0	1
+Q905664	sitaxentan	0	0	1
+Q5646925	sivelestat	0	0	1
+Q14035670	slotoxin	0	0	1
+Q10564319	sodium antimonate	0	0	1
+Q17397740	sodium antimonide	0	0	1
+Q424551	sodium ascorbate	5	0	5
+Q179731	sodium bicarbonate	4	0	4
+Q2742490	sodium bis(trimethylsilyl)amide	0	0	1
+Q3791968	sodium biselenite	0	0	1
+Q2615130	sodium bismuthate	0	0	1
+Q17424851	sodium calcium borate	0	0	1
+Q190227	sodium carbonate	0	0	1
+Q2314	sodium chloride	3	0	4
+Q407520	sodium fluoride	0	0	1
+Q532908	sodium fluorosilicate	0	0	1
+Q4134941	sodium hexafluoroantimonate	0	0	1
+Q18228386	sodium hexafluorostannate	0	0	1
+Q17318503	sodium hexahydroxoantimonate	0	0	1
+Q102769	sodium hydroxide	0	0	2
+Q407204	sodium hypochlorite	1	0	1
+Q425397	sodium metasilicate	0	0	2
+Q418510	sodium metavanadate	0	0	1
+Q414518	sodium molybdate	0	0	1
+Q2156566	sodium orthovanadate	0	0	1
+Q2592158	sodium perrhenate	0	0	1
+Q7553358	sodium phenylbutyrate	5	0	5
+Q419488	sodium selenate	0	0	1
+Q418425	sodium selenide	0	0	1
+Q414626	sodium selenite	0	0	1
+Q7553367	sodium stannate	0	0	1
+Q18212141	sodium tellurate	0	0	1
+Q2364532	sodium tellurite	0	0	1
+Q425169	sodium thioantimoniate	0	0	2
+Q17333539	sodium zinc oxide	0	0	1
+Q2044346	sodium zincate	0	0	1
+Q20856948	sodium(1+)	0	0	10
+Q7560929	sonepiprazole	0	0	1
+Q22075856	sonidegib	0	0	1
+Q421136	sorafenib	0	0	10
+Q1259458	sorbinil	0	0	1
+Q245280	sorbitol	1	0	1
+Q413591	sotalol	1	0	40
+Q976559	sparfloxacin	4	0	41
+Q416154	spectinomycin	1	0	1
+Q418834	spermidine	0	0	1
+Q424597	spermine	0	0	4
+Q418267	sphingosine 1-phosphate	0	0	9
+Q7577645	spinorphin	0	0	1
+Q3077150	spiperone	0	0	14
+Q7577785	spiramide	0	0	3
+Q2992797	spirits of hartshorn	0	0	2
+Q422188	spironolactone	6	0	7
+Q6592066	spiroxatrine	0	0	8
+Q7392720	sq-109	0	0	1
+Q7392878	sr-59230a free base	0	0	3
+Q15410184	sr-9009	0	0	2
+Q15410183	sr-9011	0	0	2
+Q417040	stannane	0	0	1
+Q2926032	stannic bromide	0	0	1
+Q205004	stannic chloride	0	0	1
+Q204994	stannic fluoride	0	0	1
+Q18220870	stannic hydrogen phosphate	0	0	1
+Q205005	stannic iodide	0	0	1
+Q205021	stannic sulfide	0	0	1
+Q6343339	stannous 2-ethylhexanoate	0	0	1
+Q18212066	stannous acetate	0	0	1
+Q2983938	stannous bromide	0	0	1
+Q204964	stannous chloride anhydrous	0	0	1
+Q204962	stannous fluoride	0	0	1
+Q2506051	stannous iodide	0	0	1
+Q20986112	stannous oleate	0	0	1
+Q18211479	stannous phosphate	0	0	1
+Q4363462	stannous pyrophosphate	0	0	1
+Q204981	stannous sulfate	0	0	1
+Q18409359	stannous tartrate	0	0	1
+Q5957181	staurosporine	0	0	15
+Q423984	stavudine	2	0	2
+Q15427850	stearic monoethanolamide	0	0	1
+Q415043	stevioside	0	0	1
+Q59712	stibine	0	0	1
+Q938	strontium	0	0	34
+Q4073292	strontium acetate	0	0	1
+Q416904	strontium bromide	0	0	1
+Q413629	strontium carbonate	0	0	1
+Q411859	strontium chloride	0	0	1
+Q4300388	strontium dioxido(dioxo)molybdenum	0	0	2
+Q421174	strontium fluoride	0	0	1
+Q418803	strontium hexaboride	0	0	1
+Q132428	strontium hydroxide anhydrous	0	0	1
+Q417992	strontium iodide	0	0	1
+Q421083	strontium nitrate	0	0	1
+Q1091256	strontium nitride	0	0	1
+Q418413	strontium oxide	0	0	1
+Q654825	strontium peroxide	0	0	1
+Q4337166	strontium phosphate	0	0	1
+Q414440	strontium sulfate	0	0	1
+Q1765041	strontium sulfide	0	0	1
+Q421340	strontium titanate	0	0	1
+Q411041	substance p	0	0	3
+Q424378	succinylcholine	0	0	1
+Q420394	sucralfate	6	0	6
+Q417915	sufentanil	0	0	1
+Q21099001	sufugolix	0	0	1
+Q2392530	sulconazole	5	0	5
+Q7636176	sulfabenzamide	1	0	1
+Q2022983	sulfacetamide	5	0	5
+Q7636169	sulfacytine	2	0	2
+Q2555060	sulfadiazine	5	0	5
+Q411557	sulfadoxine	2	0	2
+Q3976824	sulfamethizole	2	0	2
+Q415843	sulfamethoxazole	5	0	6
+Q423423	sulfanilamide	1	0	1
+Q3976827	sulfapyridine	5	0	5
+Q420035	sulfasalazine	3	0	3
+Q172290	sulfate ion	0	0	1
+Q408427	sulfathiazole	1	0	1
+Q3790542	sulfinpyrazone	3	0	5
+Q372598	sulfisoxazole	4	0	4
+Q27160153	sulfisoxazole diolamine	2	0	2
+Q963093	sulindac	4	0	5
+Q422418	sulpiride	0	0	42
+Q410556	sulprostone	0	0	3
+Q7636953	sumanirole	0	0	1
+Q416978	sumatriptan	0	0	11
+Q417542	sunitinib	0	0	7
+Q3978097	suprofen	0	0	2
+Q425946	suramin	0	0	7
+Q7650517	suvorexant	0	0	2
+Q155682	tacalcitol	0	0	1
+Q421076	tacrine	1	0	3
+Q411648	tacrolimus anhydrous	2	0	3
+Q424156	tadalafil	0	0	2
+Q519447	tafamidis	0	0	1
+Q2139543	tafluprost	0	0	1
+Q134583	talc	1	0	1
+Q7681221	tamibarotene	0	0	3
+Q412178	tamoxifen	3	0	6
+Q418480	tamsulosin	1	0	4
+Q18211583	tanaproget	0	0	1
+Q6151362	tandospirone	0	0	1
+Q1123	tantalum	0	0	27
+Q4093694	tantalum boride	0	0	1
+Q426498	tantalum carbide	0	0	1
+Q4498241	tantalum chloride	0	0	1
+Q424268	tantalum hafnium carbide	0	0	2
+Q413987	tantalum pentachloride	0	0	1
+Q2615425	tantalum pentafluoride	0	0	1
+Q425103	tantalum pentoxide	0	0	1
+Q2349635	tantalum(V) bromide	0	0	1
+Q414463	tapentadol	0	0	7
+Q7687250	tasimelteon	0	0	2
+Q1317131	tasosartan	0	0	1
+Q7687612	tasquinimod	0	0	1
+Q2659931	taurocholic acid	0	0	1
+Q3981685	tazarotene	2	0	5
+Q7694156	teduglutide	1	0	2
+Q408557	telaprevir	0	0	2
+Q2736135	telithromycin	0	0	6
+Q1100	tellurium	0	0	103
+Q425220	tellurium dioxide	0	0	1
+Q419396	tellurium hexafluoride	0	0	1
+Q2680313	tellurium tetrabromide	0	0	1
+Q2256493	tellurium tetrachloride	0	0	1
+Q1921479	tellurium tetrafluoride	0	0	1
+Q2346228	tellurium tetraiodide	0	0	1
+Q419581	tellurium trioxide	0	0	1
+Q4454244	tellurophene	0	0	1
+Q2358640	tellurous acid	0	0	1
+Q733186	telmisartan	2	0	3
+Q414796	temazepam	3	0	3
+Q425088	temozolomide	4	0	4
+Q7699074	temsirolimus	0	0	1
+Q417555	teniposide	3	0	3
+Q155954	tenofovir anhydrous	2	0	2
+Q280786	terazosin	2	0	5
+Q415259	terbinafine	5	0	5
+Q424340	terbutaline	2	0	3
+Q417909	terfenadine	0	0	41
+Q7702355	terguride	0	0	13
+Q3077133	teriflunomide	0	0	1
+Q7705238	tertatolol	0	0	1
+Q7705345	terutroban	0	0	1
+Q3985253	testolactone	1	0	2
+Q20817216	testosterone propionate	0	0	1
+Q413050	tetrabenazine	0	0	2
+Q193045	tetracycline	5	0	5
+Q421458	tetraethyl silicate	0	0	1
+Q410728	tetraethylammonium	0	0	17
+Q19756552	tetraethylsilane	0	0	1
+Q186600	tetraethyltin	0	0	1
+Q425109	tetrahydrozoline	2	0	2
+Q17352129	tetraisocyanatosilane	0	0	1
+Q17334058	tetraisothiocyanatosilane	0	0	1
+Q17352155	tetrakis(ethylsulfanyl)silane	0	0	1
+Q377159	tetramethyl silicate	0	0	1
+Q415329	tetramethylsilane	0	0	1
+Q413135	tetramethyltin	0	0	1
+Q412706	tetrapropylammonium perruthenate	0	0	1
+Q7708612	tezampanel anhydrous	0	0	4
+Q203174	thalidomide	9	0	9
+Q407308	theophylline anhydrous	2	0	6
+Q424986	thiabendazole	4	0	4
+Q83187	thiamine ion	5	0	5
+Q372725	thiethylperazine	1	0	1
+Q27895847	thioguanine	5	0	5
+Q385347	thioguanine anhydrous	0	0	2
+Q410179	thiopental	1	0	1
+Q7784686	thioperamide	0	0	2
+Q58375	thioridazine	2	0	47
+Q416507	thiotepa	4	0	4
+Q2608288	thiothixene	2	0	4
+Q1853	thulium	0	0	4
+Q258759	thulium oxide	0	0	1
+Q408883	thymol	0	0	1
+Q907219	tiagabine	2	0	3
+Q420542	ticagrelor	0	0	1
+Q2601832	ticarcillin	3	0	3
+Q420571	ticlopidine	0	0	3
+Q10382411	tideglusib	0	0	1
+Q7801294	tifluadom	0	0	1
+Q2823312	tiludronic acid	0	0	1
+Q1096	tin	0	0	78
+Q18201462	tin bromide trichloride	0	0	1
+Q18243187	tin diformate	0	0	1
+Q129163	tin dioxide	0	0	1
+Q18211552	tin ditelluride	0	0	2
+Q18212168	tin phosphide	0	0	1
+Q4445810	tin sulfate	0	0	1
+Q18201413	tin tetranitrate	0	0	1
+Q18220915	tin(II) chromate	0	0	1
+Q115740	tin(II) hydroxide	0	0	1
+Q204980	tin(II) oxide	0	0	1
+Q18204485	tin(IV) acetate	0	0	1
+Q260326	tioconazole	1	0	1
+Q13415380	tiospirone	0	0	3
+Q423404	tipranavir	0	0	11
+Q7809151	tiratricol	0	0	2
+Q415366	tirofiban	3	0	3
+Q17123902	tivantinib	0	0	1
+Q7810457	tivozanib	0	0	3
+Q423538	tizanidine	1	0	8
+Q1758380	tobramycin	3	0	3
+Q757058	tocainide	1	0	1
+Q3530324	tofacitinib	0	0	1
+Q413772	tolazoline	7	0	10
+Q414275	tolbutamide	0	0	2
+Q413840	tolcapone	1	0	2
+Q59412	tolfenamic acid	0	0	1
+Q3992411	tolmetin	3	0	4
+Q415238	tolnaftate	3	0	3
+Q7814620	tolrestat	0	0	1
+Q424312	tolterodine	1	0	6
+Q426132	tolvaptan	1	0	3
+Q221174	topiramate	4	0	8
+Q419953	topotecan	4	0	4
+Q3993743	toremifene	1	0	1
+Q419948	torsemide	8	0	8
+Q6605919	tozasertib	0	0	3
+Q407592	tramadol	0	0	5
+Q7833138	trametinib	0	0	2
+Q929420	trandolapril	2	0	3
+Q418666	tranexamic acid	1	0	1
+Q420885	tranylcypromine	2	0	43
+Q2193376	travoprost	2	0	2
+Q411457	trazodone	1	0	4
+Q3495231	treprostinil	1	0	7
+Q29417	tretinoin	4	0	10
+Q1074056	triamcinolone	8	0	9
+Q2211240	triamcinolone acetonide	2	0	3
+Q221520	triamterene	3	0	3
+Q412143	triazolam	0	0	4
+Q423820	tribasicammonium phosphate	0	0	1
+Q423852	tribasicpotassium phosphate	0	0	1
+Q17337226	tribromo(fluoro)silane	0	0	1
+Q16736816	tribromo(iodo)silane	0	0	1
+Q7840448	tribromosilane	0	0	1
+Q425241	tributyltin hydride	0	0	1
+Q278387	tricalcium phosphate	0	0	2
+Q16682750	tricalcium silicon pentaoxide	0	0	2
+Q17326103	trichloridonitridomolybdenum	0	0	1
+Q17378395	trichloridooxidomolybdenum	0	0	1
+Q2072745	trichlormethiazide	4	0	4
+Q5635302	trichlormethine	0	0	1
+Q419041	trichlorosilane	0	0	1
+Q17334756	trichlorosilanecarbonitrile	0	0	1
+Q425894	trichostatin A	0	0	9
+Q418386	trientine	1	0	1
+Q2346835	triethylgallium	0	0	1
+Q4463329	triethylindium	0	0	1
+Q1752915	trifluoperazine	2	0	7
+Q17334691	trifluoro(iodo)silane	0	0	1
+Q17334745	trifluoro(isocyanato)silane	0	0	1
+Q510494	triflupromazine	1	0	1
+Q2359590	trifluridine	2	0	2
+Q2991856	trihexyphenidyl	2	0	3
+Q17352167	triisocyanato(methyl)silane	0	0	1
+Q2623251	trimeprazine	4	0	4
+Q827916	trimethadione	1	0	1
+Q422665	trimethoprim	4	0	4
+Q4463084	trimethylbismuth	0	0	1
+Q420183	trimethylchlorosilane	0	0	1
+Q2875204	trimethylsilyl azide	0	0	1
+Q7842225	trimetrexate	1	0	2
+Q423498	trimipramine	1	0	9
+Q854263	trioxsalen	4	0	4
+Q415203	tripelennamine	1	0	2
+Q4463253	triphenylbismuth	0	0	1
+Q2347337	triphenylstibine	0	0	1
+Q417654	triprolidine	3	0	4
+Q4463172	tripropylindigane	0	0	1
+Q1992452	triptorelin	0	0	1
+Q610592	trisilane	0	0	1
+Q16736825	trisilylamine	0	0	1
+Q2336340	trisodium arsenate	0	0	2
+Q1087499	troleandomycin	6	0	6
+Q29310	tropicamide	3	0	4
+Q409439	tryptamine	0	0	8
+Q421268	tubocurarine	0	0	5
+Q2592220	tungsten diselenide	0	0	1
+Q414364	tungsten disilicide	0	0	1
+Q4119676	tungsten(IV) telluride	0	0	1
+Q165930	tyramine	0	0	1
+Q7862883	u-69593	0	0	1
+Q321285	ubidecarenone	5	0	5
+Q6592047	uk-432097	0	0	1
+Q975059	ulipristal acetate	0	0	1
+Q21011235	umeclidinium	0	0	5
+Q425988	undecanoic acid	0	0	1
+Q4859684	unoprostone	2	0	2
+Q15211075	uracil mustard	7	0	7
+Q7865591	urb-597	0	0	3
+Q48318	urea	3	0	3
+Q424649	uridine diphosphate glucose	0	0	2
+Q277638	uridine diphosphate glucuronic acid	0	0	1
+Q241374	ursodiol	2	0	2
+Q418594	valacyclovir	3	0	3
+Q347613	valdecoxib	2	0	4
+Q407796	valeric acid	0	0	2
+Q423384	valganciclovir	1	0	1
+Q240642	valproic acid	3	0	4
+Q155472	valsartan	2	0	3
+Q722	vanadium	0	0	63
+Q421405	vanadium carbide	0	0	1
+Q421440	vanadium dioxide	0	0	1
+Q1966236	vanadium monoxide	0	0	1
+Q284918	vanadium pentafluoride	0	0	1
+Q416028	vanadium tetrafluoride	0	0	1
+Q903861	vanadium trifluoride	0	0	1
+Q1306078	vanadium(II) bromide	0	0	1
+Q421264	vanadium(II) chloride	0	0	1
+Q1523448	vanadium(II) fluoride	0	0	1
+Q1541465	vanadium(II) iodide	0	0	1
+Q421515	vanadium(III) bromide	0	0	1
+Q421260	vanadium(III) chloride	0	0	1
+Q418337	vanadium(III) iodide	0	0	1
+Q2277900	vanadium(III) nitride	0	0	1
+Q425350	vanadium(III) oxide	0	0	1
+Q2614009	vanadium(III) sulfate	0	0	1
+Q421255	vanadium(IV) chloride	0	0	1
+Q421166	vanadium(V) oxytrichloride	0	0	1
+Q2617645	vanadium(V) oxytrifluoride	0	0	1
+Q4332877	vanadyl dichloride	0	0	1
+Q413634	vanadyl sulfate	0	0	1
+Q424027	vancomycin	4	0	4
+Q7914515	vandetanib	1	0	4
+Q424161	vardenafil	0	0	1
+Q7917084	vatalanib	0	0	4
+Q423111	vemurafenib	1	0	3
+Q898407	venlafaxine	6	0	13
+Q410291	verapamil	4	0	17
+Q12747348	vestipitant	0	0	1
+Q3557001	vicriviroc	0	0	1
+Q415107	vidarabine anhydrous	2	0	2
+Q15053666	vilanterol	0	0	1
+Q408588	vilazodone	0	0	6
+Q421042	vildagliptin	0	0	1
+Q2526386	vinburnine	0	0	4
+Q416225	vincamine	0	0	4
+Q408977	vincristine	5	0	6
+Q2070286	vismodegib	1	0	2
+Q21098911	vofopitant	0	0	1
+Q7940202	volinanserin	0	0	3
+Q7941753	vorapaxar	0	0	1
+Q905901	vorinostat	0	0	9
+Q3563148	vortioxetine	0	0	9
+Q407431	warfarin	3	0	39
+Q283	water	0	0	3
+Q7946879	way-100635	0	0	2
+Q487463	way-181187	0	0	1
+Q6586709	wedelolactone	0	0	1
+Q4016981	win 55212-2	0	0	4
+Q4021708	xamoterol	0	0	1
+Q8042940	xanomeline	0	0	15
+Q1048621	xenic acid	0	0	1
+Q1106	xenon	0	0	8
+Q411225	xenon difluoride	0	0	1
+Q411142	xenon hexafluoride	0	0	1
+Q2584366	xenon oxytetrafluoride	0	0	1
+Q409288	xenon tetrafluoride	0	0	1
+Q411822	xenon tetroxide	0	0	1
+Q411169	xenone trioxide	0	0	1
+Q3570984	ximelagatran	0	0	1
+Q426081	xylazine	0	0	3
+Q412226	yohimbine	2	0	13
+Q15628005	ytterbium telluride	0	0	1
+Q941	yttrium	0	0	41
+Q414015	yttrium barium copper oxide	0	0	2
+Q2346494	yttrium borides	0	0	2
+Q411720	yttrium bromide	0	0	1
+Q415438	yttrium chloride	0	0	1
+Q18211575	yttrium diboride	0	0	1
+Q21099035	yttrium hexaboride	0	0	1
+Q1747583	yttrium iodide	0	0	1
+Q3342201	yttrium nitrate	0	0	1
+Q4274761	yttrium nitride	0	0	1
+Q414685	yttrium oxide	0	0	1
+Q4115321	yttrium(III) antimonide	0	0	2
+Q1811789	yttrium(III) arsenide	0	0	1
+Q419717	yttrium(III) fluoride	0	0	1
+Q415385	yttrium(III) sulfide	0	0	1
+Q75830	zacopride	0	0	1
+Q928378	zafirlukast	1	0	3
+Q2344582	zalcitabine	2	0	2
+Q12747409	zalospirone	0	0	1
+Q6592076	zaprinast	0	0	3
+Q8066579	zaragozic acid a	0	0	1
+Q15633958	zenarestat	0	0	1
+Q198371	zibotentan	0	0	1
+Q198504	zidovudine	2	0	3
+Q202998	zileuton	1	0	3
+Q758	zinc	0	0	48
+Q204639	zinc acetate anhydrous	0	0	1
+Q204679	zinc bromide	0	0	1
+Q204714	zinc chloride	1	0	2
+Q204713	zinc cyanide	0	0	1
+Q204783	zinc fluoride	0	0	1
+Q3822815	zinc gluconate	1	0	1
+Q1056827	zinc hydride	0	0	1
+Q204820	zinc hydroxide	0	0	1
+Q204828	zinc iodide	0	0	1
+Q204661	zinc monocarbonate	0	0	1
+Q204863	zinc nitrate	0	0	1
+Q2560993	zinc nitride	0	0	1
+Q647580	zinc peroxide	0	0	1
+Q59714	zinc phosphate	0	0	2
+Q204906	zinc phosphide	0	0	1
+Q204594	zinc protoporphyrin	0	0	1
+Q204913	zinc selenide	0	0	2
+Q9335141	zinc selenite	0	0	2
+Q204954	zinc sulfate anhydrous	0	0	1
+Q204952	zinc sulfide	0	0	1
+Q204935	zinc telluride	0	0	2
+Q26987394	zinc(2+)	0	0	1
+Q8072461	zinterol	0	0	1
+Q205517	ziprasidone	2	0	12
+Q2342917	zirconium silicate	0	0	1
+Q8063129	zm-447439	0	0	2
+Q218284	zofenopril	0	0	1
+Q218507	zoledronic acid anhydrous	0	0	1
+Q218820	zolmitriptan	0	0	8
+Q218842	zolpidem	1	0	4
+Q219957	zonisamide	1	0	1
+Q226905	zotepine	0	0	15
+Q23905965	α-D-glucopyranose	0	0	1
+Q422689	α-lactulose	1	0	1
+Q4734914	α-methyl-5-HT	0	0	7
+Q12745763	α-methylnoradrenaline	0	0	1
+Q19606345	α-phellandrene	0	0	2
+Q257331	α-streptozocin	3	0	3
+Q7296272	α-yohimbine	0	0	7
+Q23905968	β-D-glucopyranose	0	0	1
+Q310919	β-alanine	0	0	1
+Q11595687	β-bisabolene	0	0	2

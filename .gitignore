@@ -1,7 +1,9 @@
 # Created by https://www.gitignore.io
+prior.tsv
 
 ### Linux ###
 *~
+nohup.out
 
 # KDE directory preferences
 .directory

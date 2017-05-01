@@ -1,44 +1,44 @@
 [
   {
-    "binary": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0/bin/neo4j",
-    "path": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0",
+    "binary": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1/bin/neo4j",
     "port": 7500,
-    "name": "rephetio-v2.0",
-    "directory": "neo4j-community-2.3.3_rephetio-v2.0"
+    "path": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1",
+    "directory": "neo4j-community-3.1.3_wikidata-v0.1",
+    "name": "wikidata-v0.1"
   },
   {
-    "binary": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0_perm-1/bin/neo4j",
-    "path": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0_perm-1",
+    "binary": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1_perm-1/bin/neo4j",
     "port": 7501,
-    "name": "rephetio-v2.0_perm-1",
-    "directory": "neo4j-community-2.3.3_rephetio-v2.0_perm-1"
+    "path": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1_perm-1",
+    "directory": "neo4j-community-3.1.3_wikidata-v0.1_perm-1",
+    "name": "wikidata-v0.1_perm-1"
   },
   {
-    "binary": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0_perm-2/bin/neo4j",
-    "path": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0_perm-2",
+    "binary": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1_perm-2/bin/neo4j",
     "port": 7502,
-    "name": "rephetio-v2.0_perm-2",
-    "directory": "neo4j-community-2.3.3_rephetio-v2.0_perm-2"
+    "path": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1_perm-2",
+    "directory": "neo4j-community-3.1.3_wikidata-v0.1_perm-2",
+    "name": "wikidata-v0.1_perm-2"
   },
   {
-    "binary": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0_perm-3/bin/neo4j",
-    "path": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0_perm-3",
+    "binary": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1_perm-3/bin/neo4j",
     "port": 7503,
-    "name": "rephetio-v2.0_perm-3",
-    "directory": "neo4j-community-2.3.3_rephetio-v2.0_perm-3"
+    "path": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1_perm-3",
+    "directory": "neo4j-community-3.1.3_wikidata-v0.1_perm-3",
+    "name": "wikidata-v0.1_perm-3"
   },
   {
-    "binary": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0_perm-4/bin/neo4j",
-    "path": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0_perm-4",
+    "binary": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1_perm-4/bin/neo4j",
     "port": 7504,
-    "name": "rephetio-v2.0_perm-4",
-    "directory": "neo4j-community-2.3.3_rephetio-v2.0_perm-4"
+    "path": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1_perm-4",
+    "directory": "neo4j-community-3.1.3_wikidata-v0.1_perm-4",
+    "name": "wikidata-v0.1_perm-4"
   },
   {
-    "binary": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0_perm-5/bin/neo4j",
-    "path": "/home/dhimmels/Documents/serg/rephetio/construct/integrate/neo4j/neo4j-community-2.3.3_rephetio-v2.0_perm-5",
+    "binary": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1_perm-5/bin/neo4j",
     "port": 7505,
-    "name": "rephetio-v2.0_perm-5",
-    "directory": "neo4j-community-2.3.3_rephetio-v2.0_perm-5"
+    "path": "/home/mmayers/projects/wikidata/neo/neo4j-community-3.1.3_wikidata-v0.1_perm-5",
+    "directory": "neo4j-community-3.1.3_wikidata-v0.1_perm-5",
+    "name": "wikidata-v0.1_perm-5"
   }
 ]

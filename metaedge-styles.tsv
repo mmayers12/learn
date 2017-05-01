@@ -1,0 +1,16 @@
+metaedge	unicode_metaedge	standard_metaedge	abbreviation	standard_abbreviation	source	target	inverted
+Compound - drug-used-for-treatment - Disease	Compound–drug-used-for-treatment–Disease	Disease - drug-used-for-treatment - Compound	CduftD	DduftC	Compound	Disease	1
+Compound - physically-interacts-with - Protein	Compound–physically-interacts-with–Protein	Protein - physically-interacts-with - Compound	CpiwP	PpiwC	Compound	Protein	1
+Compound - significant-drug-interaction - Compound	Compound–significant-drug-interaction–Compound	Compound - significant-drug-interaction - Compound	CsdiC	CsdiC	Compound	Compound	0
+Compound < has-part < Compound	Compound←has-part←Compound	Compound > has-part > Compound	C<hpC	ChpC	Compound	Compound	1
+Compound < instance-of < Compound	Compound←instance-of←Compound	Compound > instance-of > Compound	C<ioC	CioC	Compound	Compound	1
+Compound > has-part > Compound	Compound→has-part→Compound	Compound > has-part > Compound	Chp>C	ChpC	Compound	Compound	0
+Compound > instance-of > Compound	Compound→instance-of→Compound	Compound > instance-of > Compound	Cio>C	CioC	Compound	Compound	0
+Disease - drug-used-for-treatment - Compound	Disease–drug-used-for-treatment–Compound	Disease - drug-used-for-treatment - Compound	DduftC	DduftC	Disease	Compound	0
+Disease - genetic-association - Gene	Disease–genetic-association–Gene	Gene - genetic-association - Disease	DgaG	GgaD	Disease	Gene	1
+Disease < subclass-of < Disease	Disease←subclass-of←Disease	Disease > subclass-of > Disease	D<soD	DsoD	Disease	Disease	1
+Disease > subclass-of > Disease	Disease→subclass-of→Disease	Disease > subclass-of > Disease	Dso>D	DsoD	Disease	Disease	0
+Gene - encodes - Protein	Gene–encodes–Protein	Gene - encodes - Protein	GeP	GeP	Gene	Protein	0
+Gene - genetic-association - Disease	Gene–genetic-association–Disease	Gene - genetic-association - Disease	GgaD	GgaD	Gene	Disease	0
+Protein - encodes - Gene	Protein–encodes–Gene	Gene - encodes - Protein	PeG	GeP	Protein	Gene	1
+Protein - physically-interacts-with - Compound	Protein–physically-interacts-with–Compound	Protein - physically-interacts-with - Compound	PpiwC	PpiwC	Protein	Compound	0
